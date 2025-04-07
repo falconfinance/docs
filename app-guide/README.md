@@ -1,51 +1,65 @@
 ---
-hidden: true
+description: A Comprehensive Guide to Using the Falcon App
 ---
 
 # App Guide
 
-**Using Falcon Finance**
+### **How the Falcon App Works**
 
-Falcon Finance is a platform that helps users earn steady returns by using different investment strategies. Unlike other synthetic dollar systems that depend on a single way to generate returns, Falcon Finance uses a mix of techniques like funding rate arbitrage, price differences between markets, and a combination of safe and higher-risk strategies.
+Falcon has two types of tokens :
 
-## **How It Works**
+* **USDf (Overcollateralized Synthetic Dollar):** A synthetic digital asset that is fully backed by eligible deposits, including stablecoins (e.g., USDT, USDC, FDUSD) and non-stablecoin assets such as BTC, ETH, stETH, and select altcoins. Stablecoin deposits mint USDf at a 1:1 ratio, while non-stablecoin assets are subject to an overcollateralization ratio to preserve protocol integrity.
+* **sUSDf (Yield-Bearing Asset):** A yield-bearing token minted when USDf is deposited and staked into Falcon Finance’s ERC-4626 vaults. The value of sUSDf increases over time, as the protocol accrues yield through strategies such as positive & negative funding rate spreads, and altcoin staking. The sUSDf-to-USDf ratio reflects cumulative yield performance.
 
-Falcon Finance has two types of tokens to help users manage their investments:
+### **User Flow for Stablecoins Deposits**
 
-* **USDf (Overcollateralized Synthetic Dollar):** A digital dollar backed by assets like stablecoins (USDT, USDC, FDUSD), BTC, ETH, and select altcoins. USDf is stable and is the first step for earning yield.
-* **sUSDf (Yield-Bearing Asset):** A token that increases in value over time. Falcon Finance earns yield through different strategies like trading across exchanges, funding rate arbitrage, and staking. As returns grow, the value of sUSDf increases compared to USDf.
+**Step 1: Mint USDf**\
+Begin by connecting a whitelisted Web3 wallet. Users may deposit eligible stablecoins (e.g., USDT, USDC, FDUSD) into their Falcon Account and mint USDf on a 1:1 basis relative to the deposited stablecoin value.
 
-## **User Flow for Stablecoins**
+**Step 2: (Optional) Stake USDf to Receive sUSDf**\
+Users can choose to stake their minted USDf into Falcon's vaults to receive sUSDF, a yield-bearing token that increases in value over time.
 
-* **Deposit Stablecoins**\
-  Users can deposit **stablecoins** (such as **USDT**, **USDC**, **FDUSD**) into their **Falcon Wallet** via exchanges or wallets. These assets are typically used for low-volatility transactions, staking, or yield strategies.
-* **Mint USDf**\
-  Users can mint **USDf** by depositing stablecoins. **USDf** is a tokenized version of the stablecoins, and it can be used for **staking** or **yield generation** within the app.
-* **Stake for Classic or Boosted Yield**\
-  Users can mint **USDf** by depositing stablecoins. USDf is a tokenized version of the stablecoins, and it can be used for staking and generating yields within the app.
-* **Redeem USDf to Stablecoins**\
-  Once users are ready to exit the yield process, they can **redeem** their **USDf** back into **stablecoins** such as **USDT**, **USDC**, or **FDUSD**, ensuring they retain their stable value.
-* **Withdraw Stablecoins**\
-  Users can withdraw their stablecoins (USDT, USDC, FDUSD, USDf, or sUSDf) from their Falcon account to their connected online wallet.
+**Step 3: (Optional) Boost Yields via Fixed-Term Restaking of sUSDf**\
+To earn boosted yield, users may also opt to restake sUSDf into fixed-term vaults (e.g., 3 or 6 months). Upon doing so, Falcon issues an ERC-721 NFT representing the locked-up assets, and accrues additional yield. Upon maturity, users can redeem their NFT for sUSDf.\
+&#xNAN;_&#x41;lternatively, users may utilize the Express Mint feature to directly restake their deposits and mint an ERC-721 NFT at Step 1, bypassing Step 2 entirely._&#x20;
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>User flow for Stable Coins</p></figcaption></figure>
+**Step 4: Unstake sUSDf to Receive USDf**\
+While unstaking sUSDf, users will receive USDf at the prevailing sUSDf-to-USDf value.&#x20;
 
-## **User Flow for Non-Stablecoins**
+**Step 5: Redeem USDf for Stablecoins**\
+Users may finally redeem USDf for their original stablecoin-denominated deposits (USDT, USDC, or FDUSD) on a 1:1 basis, subject to 7-days cooldown period.
 
-* **Deposit Non-Stablecoins Collateral**\
-  Users can deposit **non-stablecoin collateral** (like **ETH**, **BTC**, **XRP**, etc.) into their **Falcon Wallet**. These assets are more volatile but offer higher potential yield and growth.
-* **Mint USDf (Non-Stablecoin)**\
-  Users can mint **USDf** by depositing **non-stablecoins collateral**. During the minting process, Falcon App applies an **Overcollateralization Ratio (OCR)**, ensuring that a higher amount of collateral is deposited than the minted **USDf** value. This is done to manage risk and protect both the user and the platform.\
-  &#xNAN;_&#x45;xample:_ If a user deposits **5 ETH**, the platform will apply the **OCR** and mint a proportionate amount of **USDf** based on the current market value and OCR.
-* **Stake for Boosted Yield**\
-  Users can stake **USDf** or **sUSDf** for a fixed yield over time, either through **Classic Yield** or **Boosted Yield** options. Longer lock-up periods can offer higher rewards.
-* **Unlock Position**\
-  Users can claim their **non-stable coin** locked position. They have the option to claim with:
-  * **Non-stable coin** (the one you locked with)
-  * **USDT**
-  * **Non-stable coin + USDT**
-* **Withdraw Non-Stablecoins or Redeemed USDf**\
-  Finally, Users can withdraw their **non-stablecoins** or USDf and sUSDf back to an external wallet.
+### **User Flow for Non-Stablecoins Deposits**
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption><p>User flow for Non-Stable Coins</p></figcaption></figure>
+**Step 1: Mint Overcollateralized USDf**\
+Similarly, users begin by connecting a whitelisted Web3 wallet. They may then deposit supported non-stablecoin assets—such as ETH, BTC, stETH, or other accepted tokens.\
+Upon deposit, the protocol applies an Overcollateralization Ratio (OCR) based on the asset’s risk profile and market volatility. This ensures that the USDf minted subsequently is backed by collateral of equal or greater value.
 
+**Step 2: (Optional) Stake USDf to Receive sUSDf**\
+Users can choose to stake their minted USDf into Falcon's vaults to receive sUSDF, a yield-bearing token that increases in value over time.
+
+**Step 3: (Optional) Boost Yields via Fixed-Term Restaking of sUSDf**\
+To earn boosted yield, users may also opt to restake sUSDf into fixed-term vaults (e.g., 3 or 6 months). Upon doing so, the protocol issues an ERC-721 NFT representing the locked-up assets, and accrues additional yield. Upon maturity, users can redeem their NFT for sUSDf.\
+&#xNAN;_&#x41;lternatively, users may utilize the Express Mint feature to directly restake their deposits and mint an ERC-721 NFT at Step 1, bypassing Step 2 entirely._
+
+**Step 4: Unstake sUSDf to Receive USDf**\
+While unstaking sUSDf, users will receive USDf at the prevailing sUSDf-to-USDf value ratio. At the same time, users who initially deposited non-stablecoin assets will also receive an overcollateralization buffer. This is based on current market conditions:
+
+* If the current market price is less than or equal to the initial mark price (of their deposit asset), the user may reclaim the full unit amount of the buffer.
+* If the current market price is greater than the initial mark price, the user will reclaim a USD-equivalent value of the buffer based on the initial mark price.
+
+**Step 5: Select Redemption Type** \
+Once sUSDf has been converted into USDf and the overcollateralization buffer, users may select one of three options for final redemption:
+
+* Full Redemption in Stablecoins
+  * Convert their total claim—USDf value and overcollateralization buffer, into eligible stablecoins (e.g., USDT, USDC, FDUSD) at a 1:1 ratio. A 7-day cooldown period will apply.
+* Split Redemption: Stablecoins + Original Collateral
+  * Redeem part of their claim in stablecoins, and the remainder in the originally deposited non-stablecoin asset.
+* Full Redemption in Original Collateral
+  * Users may opt to redeem their total claim fully in the originally deposited collateral, subject to market pricing and availability.
+
+_For an extensive description for terms used within the App Guide, users can refer to the_ [_Glossary_](../resources/glossary.md) _section._
+
+{% content-ref url="../resources/glossary.md" %}
+[glossary.md](../resources/glossary.md)
+{% endcontent-ref %}
