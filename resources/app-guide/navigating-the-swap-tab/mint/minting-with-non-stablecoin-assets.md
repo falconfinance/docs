@@ -39,7 +39,6 @@ After minting is finalized and the transaction is confirmed, users should confir
 * Step 3c: Observe a new position under Boosted Yield Positions, displaying their Yield %, Principal, Value, Maturity, and Yield Accrued.\
   &#xNAN;_&#x41;dditionally, users may click on the shortcut under NFT to view their ERC-721 NFT on the respective block explorers._
 
-All users who have minted USDf with non-stablecoin assets should also observe a Locked Position.  \
-(explain what the locked position is here - collateral used to mint USDf)
+All users who have minted USDf with non-stablecoin assets should also observe a Locked Position under the Profile page as shown below.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2025-04-02 at 3.14.52 PM.png" alt="" width="563"><figcaption></figcaption></figure>
