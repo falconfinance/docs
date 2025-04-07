@@ -42,6 +42,4 @@ After minting is finalized and the transaction is confirmed, users should confir
 All users who have minted USDf with non-stablecoin assets should also observe a Locked Position.  \
 (explain what the locked position is here - collateral used to mint USDf)
 
-Formula for calculating OCR? Ask regina
-
 <figure><img src="../../../../.gitbook/assets/Screenshot 2025-04-02 at 3.14.52 PM.png" alt="" width="563"><figcaption></figcaption></figure>
