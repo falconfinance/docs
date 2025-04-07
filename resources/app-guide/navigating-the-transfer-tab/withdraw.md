@@ -13,17 +13,17 @@ The Withdraw function within the Transfer tab allows users to make asset withdra
 **Step 1: Navigate to the Withdraw Section**\
 First, users locate the Transfer tab on the Falcon App, and select Withdraw from its dropdown menu.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 2: Select Withdrawal Asset and Indicate Amount**\
 Users then select the asset they want to withdraw from their Falcon Account, and indicate their desired amount, subject to a minimum withdrawal amount.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 3: Enter Withdrawal Wallet Address**\
 Users select the wallet address where they want to receive the withdrawn assets.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 4: Withdraw Assets**\
 Once the withdrawal asset, amount, and wallet address are selected, users can initiate a withdrawal from their Falcon Account, subject to a fee. By clicking the Withdraw button, users will trigger the transaction.

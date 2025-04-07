@@ -7,7 +7,7 @@ description: A Step-by-Step Guide for Using the Mint Function
 ### **Overview**
 
 The Mint function within the Swap tab allows users to initiate USDf minting using existing deposit assets in their Falcon Account as collateral. Users can mint USDf with range of stablecoins and non-stablecoin assets.\
-Refer to the [Supported Assets](../../../supported-assets.md) section for further details on eligible deposit assets.
+Refer to the [Supported Assets](../../../../supported-assets.md) section for further details on eligible deposit assets.
 
 ### **Staking**
 

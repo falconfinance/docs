@@ -6,37 +6,37 @@
 
 Navigate to the "**Earn**" tab and choose "**Boosted Yield**" from the dropdown menu to access the restaking interface.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Menu</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Menu</p></figcaption></figure>
 
 Alternatively, you may directly access your staked assets through the Falcon "**Account**" tab, where your active sUSDf staking positions are displayed clearly. Click "**Boost Yields**" under sUSDf to begin.
 
-<figure><img src="../../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Portfolio: sUSDF - Boost yields</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Portfolio: sUSDF - Boost yields</p></figcaption></figure>
 
 **Step 2: Select the Amount of USDf to Restake**
 
 Input the specific amount of USDf you wish to restake into a fixed-term vault.
 
-<figure><img src="../../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Select a Fixed Tenor Duration**
 
 Choose a fixed-term duration from the available options (e.g., 3, 6, or 12 months). The longer the selected tenor, the higher the Boosted APY.
 
-<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4: Confirm the Staking Transaction**
 
 Review the staking details and proceed to confirm spending cap and transaction request using your connected wallet (e.g., MetaMask).
 
-<figure><img src="../../../../.gitbook/assets/image (32).png" alt=""><figcaption><p><em>MetaMask - Confirm the Request</em></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (32).png" alt=""><figcaption><p><em>MetaMask - Confirm the Request</em></p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption><p><em>MetaMask - Confirm the Request</em></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (33).png" alt=""><figcaption><p><em>MetaMask - Confirm the Request</em></p></figcaption></figure>
 
 **Step 5: Receive Restaking Confirmation**
 
 Upon successful transaction, a “Transaction Complete” message will be displayed.
 
-<figure><img src="../../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6: Confirm Transaction and View Updated Account Balances**
 
@@ -53,9 +53,9 @@ Navigate back to your Falcon Dashboard to view the updated balances:
 
 These changes confirm that your assets are now earning boosted yield under the specified tenor. In this scenario, it is in the 3-month's term.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Before Staking</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Before Staking</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>After Staking</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>After Staking</p></figcaption></figure>
 
 **Step 7: Receive and Track Your Boosted Yield NFT Position**
 
@@ -63,6 +63,6 @@ Upon successful restaking, the protocol will automatically mint a unique ERC-721
 
 This NFT serves as proof of your locked position and can be tracked under the **"Boosted Yield Positions"** section of the dashboard. It is transferable, enabling future utility across supported platforms or secondary markets.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (79).png" alt=""><figcaption><p><em>Transaction Complete with Minted NFT</em></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (79).png" alt=""><figcaption><p><em>Transaction Complete with Minted NFT</em></p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>NFT on Etherscan</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>NFT on Etherscan</p></figcaption></figure>

@@ -6,7 +6,7 @@
 
 Navigate to the "**Earn**" tab and select "**Classic Yield**" from the dropdown menu to access the staking interface.
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Input USDf Amount**
 
@@ -14,21 +14,21 @@ Specify the amount of USDf you wish to stake. Ensure you have a sufficient USDf 
 
 _Example: Inputting 10,000 USDf. At the current sUSDf-to-USDf value (e.g., 1.1946), you will receive approximately 8,370.3 sUSDf._
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Confirm the Staking Transaction on your wallet**
 
 Review your staking details carefully and authorize the spending cap and transaction request through your connected wallet (e.g., MetaMask).
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (83).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 4: Receive Confirmation of Transaction**
 
 You will receive a "Transaction Complete" notification upon successful staking.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5: Receive Yield-Bearing sUSDf**
 
@@ -38,7 +38,7 @@ As Falcon Finance generates yield through its diversified yield strategies, the 
 
 Your sUSDf balance can be verified in your Falcon Account under the "Connected Wallet" Section.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Left box: Showing staked USDf; Right box: Showing Balance of sUSDf</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Left box: Showing staked USDf; Right box: Showing Balance of sUSDf</p></figcaption></figure>
 
 ### **Recommend Next Step**
 

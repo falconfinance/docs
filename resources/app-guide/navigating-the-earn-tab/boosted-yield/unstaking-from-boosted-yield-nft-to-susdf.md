@@ -8,7 +8,7 @@ Begin by accessing the **"Claim"** page within the Falcon App. Navigate to the "
 
 Choose the ERC-721 Boosted Yield Position that has reached its maturity. Only positions that have completed the selected fixed-tenor duration (e.g., 3, 6, or 12 months) will be eligible for claim.
 
-<figure><img src="../../../.gitbook/assets/Untitled design (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled design (46).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Receive sUSDf and View Updated Account Balances**\
 Once the claim is executed, the protocol will return both your original staked sUSDf and any accrued yield from the matured Boosted Yield Position directly to your connected wallet. These funds will appear under your **Available sUSDf Balance**, while your **Staked sUSDf Balance** will decrease by the claimed amount.
@@ -21,6 +21,6 @@ You receive **4,185.15 sUSDf** (principal) and **29.02 sUSDf** (accrued yield).
 
 This confirms the full redemption of your fixed-term staking position and the successful transfer of both capital and rewards.
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption><p>Before Claiming</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption><p>Before Claiming</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption><p>After Claiming</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption><p>After Claiming</p></figcaption></figure>

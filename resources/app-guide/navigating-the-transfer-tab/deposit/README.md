@@ -7,7 +7,7 @@ description: A Step-by-Step Guide for Using the Deposit Function
 ### **Overview**
 
 The Deposit function within the Transfer tab allows users to initiate asset transfers into their Falcon Account. Users may deposit a range of supported stablecoins and non-stablecoin assets across various chains to begin minting USDf.\
-Refer to the [Supported Assets](../../../supported-assets.md) section for further details on eligible deposit assets.
+Refer to the [Supported Assets](../../../../supported-assets.md) section for further details on eligible deposit assets.
 
 ### **Minting**
 
