@@ -6,7 +6,7 @@ description: '(Last updated: 4th April 2025)'
 
 ### **Stablecoins:**
 
-<table><thead><tr><th width="212">Token</th><th>Supported Network(s)</th></tr></thead><tbody><tr><td>USDf</td><td>Ethereum</td></tr><tr><td>USDT</td><td>Ethereum, Tron, Solana</td></tr><tr><td>USDC</td><td>Ethereum, Solana</td></tr><tr><td>FDUSD</td><td>Ethereum</td></tr><tr><td>USDS</td><td>Ethereum</td></tr></tbody></table>
+<table><thead><tr><th width="212">Token</th><th>Supported Network(s)</th></tr></thead><tbody><tr><td>USDf</td><td>Ethereum</td></tr><tr><td>USDT</td><td>Ethereum, Tron, Solana</td></tr><tr><td>USDC</td><td>Ethereum, Solana</td></tr><tr><td>FDUSD</td><td>Ethereum</td></tr><tr><td>DAI</td><td>Ethereum</td></tr></tbody></table>
 
 ### **Non-Stablecoin Assets:**
 
