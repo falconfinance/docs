@@ -8,7 +8,7 @@ description: A Comprehensive Guide to Using the Falcon App
 
 Falcon has two types of tokens :
 
-* **USDf (Overcollateralized Synthetic Dollar):** A synthetic digital asset that is fully backed by eligible deposits, including stablecoins (e.g., USDT, USDC, FDUSD) and non-stablecoin assets such as BTC, ETH, stETH, and select altcoins. Stablecoin deposits mint USDf at a 1:1 ratio, while non-stablecoin assets are subject to an overcollateralization ratio to preserve protocol integrity.
+* **USDf (Overcollateralized Synthetic Dollar):** A synthetic digital asset that is fully backed by eligible deposits, including stablecoins (e.g., USDT, USDC, FDUSD) and non-stablecoin assets such as BTC, ETH, and select altcoins. Stablecoin deposits mint USDf at a 1:1 ratio, while non-stablecoin assets are subject to an overcollateralization ratio to preserve protocol integrity.
 * **sUSDf (Yield-Bearing Asset):** A yield-bearing token minted when USDf is deposited and staked into Falcon Finance’s ERC-4626 vaults. The value of sUSDf increases over time, as the protocol accrues yield through strategies such as positive & negative funding rate spreads, and altcoin staking. The sUSDf-to-USDf ratio reflects cumulative yield performance.
 
 ### **User Flow for Stablecoins Deposits**
