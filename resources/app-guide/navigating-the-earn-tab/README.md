@@ -1,12 +1,15 @@
 # Navigating the Earn Tab
 
-The Earn tab facilitates staking unstake on Falcon’s vaults. Users can stake USDf to mint yield-bearing sUSDf, or further enhance yields by restaking sUSDf into fixed-term ERC-721 NFT. This section provides step-by-step instructions for staking, restaking, and unstaking operations.
+The Earn tab aims to facilitate USDf staking and unstaking. Users can choose utilize Falcon's vaults to stake their USDf and mint yield-bearing sUSDf, and then enhance these yields by restaking sUSDf into fixed-term vaults, which will return an ERC-721 NFT.&#x20;
 
-#### Classic Yield
+This section outlines the operational steps for both the Classic Yield, and Boosted Yield functions:
 
-The Classic Yield option allows users to stake USDf directly into the Falcon's vault, minting sUSDf to accrue base yields without any lock-up period.
-
-#### Boosted Yield
-
-The Boosted Yield option enables users to enhance their yields by restaking sUSDf into ERC-721 NFT with fixed tenures (e.g., 3 or 6 months). Users may unstake their NFT positions upon maturity to redeem their accumulated yields in sUSDf.&#x20;
+1. [Classic Yield](classic-yield/)
+   1. [Staking USDf for Classic Yield](classic-yield/staking-usdf-for-classic-yield.md)
+   2. [Unstaking sUSDf from Classic Yield](classic-yield/unstaking-susdf-from-classic-yield.md)
+2. [Boosted Yield](boosted-yield/)
+   1. [Restaking for Boosted Yield](boosted-yield/restaking-for-boosted-yield/)
+      1. [Restaking with USDf](boosted-yield/restaking-for-boosted-yield/restaking-with-usdf.md)
+      2. [Restaking with sUSDf](boosted-yield/restaking-for-boosted-yield/restaking-with-susdf.md)
+   2. [Unstaking from Boosted Yield](boosted-yield/unstaking-from-boosted-yield.md)
 

@@ -12,8 +12,8 @@ Refer to the [Supported Assets](../../../../supported-assets.md) section for fur
 ### **Staking**
 
 After verification of a successful mint, users are encouraged to participate in staking and other yield features within the Falcon App with their USDf.\
-Refer to the [Classic (Yield Stake)](../../navigating-the-earn-tab/classic-yield/staking-with-classic-yield.md) section under the [Earn](../../navigating-the-earn-tab/) tab for further details.
+Refer to the [Classic Yield](../../navigating-the-earn-tab/classic-yield/) section under the [Earn](../../navigating-the-earn-tab/) tab for further details.
 
-{% content-ref url="../../navigating-the-earn-tab/classic-yield/staking-with-classic-yield.md" %}
-[staking-with-classic-yield.md](../../navigating-the-earn-tab/classic-yield/staking-with-classic-yield.md)
+{% content-ref url="../../navigating-the-earn-tab/classic-yield/" %}
+[classic-yield](../../navigating-the-earn-tab/classic-yield/)
 {% endcontent-ref %}

@@ -22,7 +22,7 @@ Once the deposit asset and network are selected, users can proceed to initiate t
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2025-04-01 at 3.31.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 4:  Confirm Deposit via Falcon's Account Overview**\
+**Step 4:  Confirm Deposit via Falcon Account Overview**\
 After the deposit is finalized and the transaction is confirmed, users should confirm that their deposited assets are viewable under the Profile function located in the dropdown menu of the Account tab.\
 Users should observe an increase in their Portfolio Value corresponding to the total value of the recent deposit, and a similar representation under Available Assets.
 

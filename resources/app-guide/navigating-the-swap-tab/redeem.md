@@ -35,7 +35,7 @@ Users indicate their desired USDf redemption amount, and select the asset they w
 **Step 4: Approve Transaction**\
 Users will be required to confirm and authorize the transaction within their Web3 wallet.
 
-**Step 5: Confirm Redemption via Falcon's Account Overview**\
+**Step 5: Confirm Redemption via Falcon Account Overview**\
 After the redemption is finalized and the transaction is confirmed, users' redemption assets will automatically be deposited into their Falcon Account after the 7-day cooldown period. Users should confirm this under the Profile function located in the dropdown menu of the Account tab.
 
 <figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>

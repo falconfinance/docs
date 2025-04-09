@@ -32,7 +32,7 @@ Once the deposit asset and network are selected, users can enter the amount of a
 **Step 5: Approve Transaction**\
 Users will be required to confirm and authorize the transaction within their Web3 wallet.
 
-**Step 6:  Confirm Deposit via Falcon's Account Overview**\
+**Step 6:  Confirm Deposit via Falcon Account Overview**\
 After the deposit is finalized and the transaction is confirmed, users should confirm that their deposited assets are viewable under the Profile function located in the dropdown menu of the Account tab.\
 Users should observe an increase in their Portfolio Value corresponding to the total value of the recent deposit, and a similar representation under Available Assets.
 

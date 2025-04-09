@@ -2,11 +2,11 @@
 description: A Step-by-Step Guide for Using the Claim Function
 ---
 
-# Claim (Locked Positions)
+# Claim
 
 ### **Overview**
 
-The Claim sub-function within the Profile function in the dropdown menu of the Account tab allows users who have minted USDf with non-stablecoin assets to claim their locked positions. Users can claim their locked positions in the form of their initial deposit asset, USDT, or a combination of both.\
+The Claim sub-function under the Locked Positions section of the Falcon Account Overview allows users who have minted USDf with non-stablecoin assets to claim their locked positions. Users can claim their locked positions in the form of their initial deposit asset, USDT, or a combination of both.\
 &#xNAN;_&#x54;his feature will be moved under the Swap tab in the future._
 
 ### User Flow for Claiming Locked Positions
@@ -54,7 +54,7 @@ After the claim is finalized and the transaction is confirmed, users' claimed as
 ### Withdrawal
 
 After verification of a successful redemption, users can withdraw their assets to their Web3 wallets.\
-Refer to the [Withdraw](claim-locked-positions.md#withdrawal) section under the [Transfer](../navigating-the-transfer-tab/) tab for further details.
+Refer to the [Withdraw](claim.md#withdrawal) section under the [Transfer](../navigating-the-transfer-tab/) tab for further details.
 
 {% content-ref url="../navigating-the-transfer-tab/withdraw.md" %}
 [withdraw.md](../navigating-the-transfer-tab/withdraw.md)

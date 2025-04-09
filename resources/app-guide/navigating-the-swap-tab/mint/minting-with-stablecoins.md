@@ -30,7 +30,7 @@ Users will be required to confirm and authorize the transaction within their Web
 
 <figure><img src="../../../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Step 5: Confirm Minting via Falcon's Account Overview**\
+**Step 5: Confirm Minting via Falcon Account Overview**\
 After minting is finalized and the transaction is confirmed, users should confirm that their newly minted assets are viewable under the Profile function located in the dropdown menu of the Account tab. This will differ based on the variation of Step 3 followed by users:
 
 * Step 3a: Observe an increase in their USDf balance corresponding to the total value of their recent mint.
