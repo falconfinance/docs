@@ -1,3 +1,7 @@
+---
+description: Official Terms of Use of the Falcon Finance synthetic dollar protocol
+---
+
 # Terms of Use
 
 Last Updated: 12 January 2025

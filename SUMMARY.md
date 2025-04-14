@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Falcon](README.md)
+* [Welcome](README.md)
 * [FAQ](faq.md)
 * [Supported Assets](supported-assets.md)
 * [Audits](audits.md)

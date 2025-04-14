@@ -1,3 +1,7 @@
+---
+description: Official Privacy Policy of the Falcon Finance synthetic dollar protocol
+---
+
 # Privacy Policy
 
 Latest update: March 13th, 2025

@@ -1,3 +1,9 @@
+---
+description: >-
+  Read answers to questions about Falcon Finance: minting & redeeming USDf
+  tokens, yield accrual, risk management, compliance & more.
+---
+
 # FAQ
 
 ### Minting/ Redeeming USDf&#x20;
