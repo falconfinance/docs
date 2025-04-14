@@ -1,6 +1,12 @@
+---
+description: >-
+  Track the official smart contract addresses for Falcon Finance tokens &
+  Staking Rewards Distribution (USDf / sUSDf / Position NFT)
+---
+
 # Smart Contracts
 
-This page provides the official smart contract addresses for Falcon Finance tokens. Always verify these addresses when interacting with Falcon Finance products to protect yourself from potential scams or phishing attempts.
+Always verify these addresses when interacting with Falcon Finance products to protect yourself from potential scams or phishing attempts.
 
 ### Ethereum Mainnet
 
