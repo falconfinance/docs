@@ -36,4 +36,3 @@
 
 * [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
-* [Whitepaper](whitepaper.md)
