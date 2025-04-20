@@ -10,7 +10,7 @@ description: >-
 
 <details>
 
-<summary><strong>What is KYC and KYB verification?</strong></summary>
+<summary>What is KYC and KYB verification?</summary>
 
 KYC (Know Your Customer) and KYB (Know Your Business) are regulatory processes intended to verify the identity of individual users and businesses, respectively. These processes enable Falcon Finance to adhere to Anti-Money Laundering (AML) regulations and maintain secure and compliant transaction practices.
 
@@ -18,7 +18,7 @@ KYC (Know Your Customer) and KYB (Know Your Business) are regulatory processes i
 
 <details>
 
-<summary><strong>How can I initiate the KYC/KYB verification process on Falcon app?</strong></summary>
+<summary>How can I initiate the KYC/KYB verification process on Falcon app?</summary>
 
 You may initiate this verification process by starting a [deposit](https://app.falcon.finance/transfer/deposit), [withdrawal](https://app.falcon.finance/transfer/withdraw), [mint](https://app.falcon.finance/swap/mint) or [redeem](https://app.falcon.finance/swap/redeem) action, at which a prompt will appear to guide you through the KYC/KYB verification steps.
 
@@ -28,7 +28,7 @@ You may initiate this verification process by starting a [deposit](https://app.f
 
 <details>
 
-<summary><strong>What documents are acceptable for Proof of Address (PoA)?</strong></summary>
+<summary>What documents are acceptable for Proof of Address (PoA)?</summary>
 
 The following documents are accepted as Proof of Address:
 
@@ -68,7 +68,7 @@ Please note that verification times may increase during periods of high market d
 
 <details>
 
-<summary><strong>What should I do if my KYC/KYB verification application is rejected?</strong></summary>
+<summary>What should I do if my KYC/KYB verification application is rejected?</summary>
 
 If your KYC or KYB verification application has been rejected, you may be required to resubmit certain documents or provide additional information. Please review the feedback provided carefully and resubmit as guided.&#x20;
 
