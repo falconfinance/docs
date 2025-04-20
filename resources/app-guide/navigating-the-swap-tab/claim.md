@@ -23,7 +23,9 @@ Users select the locked position that they intend to claim and click Claim.
 To claim their locked positions, users will require a USDf balance in their Falcon Account equivalent or greater than the amount of USDf initially minted with the locked position.\
 Users who do not meet the indicated USDf balance will be required to either mint or deposit the USDf difference into their Falcon Account to claim their locked position.
 
-<div><figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/Screenshot 2025-04-20 at 11.14.56 PM copy.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div align="center"><figure><img src="../../../.gitbook/assets/Screenshot 2025-04-20 at 11.14.56 PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Step 4: Select Claim Asset**\
 Once the required USDf value is met, users can indicate their preferred claim asset in which they wish to receive their locked position. Users are able to choose between three options:
@@ -41,7 +43,9 @@ Once the required USDf value is met, users can indicate their preferred claim as
 
 Once selected, users can initiate the claim of their locked positions to their Falcon Account by clicking the Confirm Claim button, which triggers the claim transaction.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt="" width="375"><figcaption><p><em>Chosen option: <strong>Non-stable coin + USDT</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-20 at 11.01.52 PM (1).png" alt="" width="375"><figcaption><p><em>Chosen option: <strong>Non-stable coin</strong></em></p></figcaption></figure>
+
+_Note:  The amounts and valuations shown in the image above are indicative. Final amount received may vary based on market conditions and the time of redemption as price changes._&#x20;
 
 **Step 5: Approve Transaction**\
 Users will be required to confirm and authorize the transaction within their Web3 wallet.
