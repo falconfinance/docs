@@ -6,6 +6,76 @@ description: >-
 
 # FAQ
 
+### KYC/ KYB Verification&#x20;
+
+<details>
+
+<summary><strong>What is KYC and KYB verification?</strong></summary>
+
+KYC (Know Your Customer) and KYB (Know Your Business) are regulatory processes intended to verify the identity of individual users and businesses, respectively. These processes enable Falcon Finance to adhere to Anti-Money Laundering (AML) regulations and maintain secure and compliant transaction practices.
+
+</details>
+
+<details>
+
+<summary><strong>How can I initiate the KYC/KYB verification process on Falcon app?</strong></summary>
+
+You may initiate this verification process by starting a [deposit](https://app.falcon.finance/transfer/deposit), [withdrawal](https://app.falcon.finance/transfer/withdraw), [mint](https://app.falcon.finance/swap/mint) or [redeem](https://app.falcon.finance/swap/redeem) action, at which a prompt will appear to guide you through the KYC/KYB verification steps.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-04-20 at 4.13.26 PM.png" alt="" width="375"><figcaption><p>KYC/KYB verifcation prompt on Falcon app.</p></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>What documents are acceptable for Proof of Address (PoA)?</strong></summary>
+
+The following documents are accepted as Proof of Address:
+
+* Bank statements
+* Telecom bills
+* Utility bills
+* Tax bills
+* Voter registration documents
+* Lease agreements
+* Official government-issued letters
+
+Documents submitted must:
+
+* Clearly state your full legal name
+* Display your residential address
+* Be issued within the last three months
+
+</details>
+
+<details>
+
+<summary>I am a Chinese citizen or resident. What Proof of Address (PoA) documents should I submit? </summary>
+
+For Chinese citizens or residents, we strongly recommend submitting bank statements as your Proof of Address (PoA). Bank statements typically include your full legal name and residential address clearly, facilitating a more efficient verification process. Utility bills from platforms such as WeChat or Alipay usually do not meet these requirements and often result in document resubmission and delays. Your cooperation in providing bank statements greatly assists us in swiftly processing your verification.
+
+</details>
+
+<details>
+
+<summary>How long does the KYC/KYB Verification review process take? </summary>
+
+The verification review process typically ranges from just a few minutes to 5 business days.
+
+Please note that verification times may increase during periods of high market demand or increased verification volumes.
+
+</details>
+
+<details>
+
+<summary><strong>What should I do if my KYC/KYB verification application is rejected?</strong></summary>
+
+If your KYC or KYB verification application has been rejected, you may be required to resubmit certain documents or provide additional information. Please review the feedback provided carefully and resubmit as guided.&#x20;
+
+However, if the submission does not meet our regulatory requirements, the rejection decision will be final. If you have any questions or require assistance, please feel free to contact us at support@falcon.finance.&#x20;
+
+</details>
+
 ### Minting/ Redeeming USDf&#x20;
 
 <details>
