@@ -7,7 +7,7 @@ The Claim sub-function under the Boosted Yield Positions section of the Falcon A
 ### **User Flow for Unstaking from Boosted Yield**
 
 **Step 1: Navigate to the Claim Section**\
-First, users locate the Account tab on the Falcon App, and select "**Profile**" from its dropdown menu. Then locate the Claim button under the Connected Wallet and Boosted Yield Positions sections.
+First, users locate the Account tab on the Falcon App, and select Profile from its dropdown menu. Then locate the Claim button under the Connected Wallet and Boosted Yield Positions sections.
 
 <figure><img src="../../../../.gitbook/assets/Untitled design (46).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -27,7 +27,8 @@ Alongside the claimed boosted yield position no longer being displayed under the
 
 ### Unstake
 
-After verification of successful unstaking from Boosted Yield, users can unstake their sUSDf from Classic Yield.\
+After verification of successful unstaking from Boosted Yield, users can unstake their sUSDf from Classic Yield.
+
 Refer to the [Unstaking sUSDf from Classic Yield](../classic-yield/unstaking-susdf-from-classic-yield.md) section under the [Earn](../) tab for further details.
 
 {% content-ref url="../classic-yield/unstaking-susdf-from-classic-yield.md" %}

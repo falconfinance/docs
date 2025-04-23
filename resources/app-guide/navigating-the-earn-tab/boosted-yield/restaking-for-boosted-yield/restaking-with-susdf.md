@@ -3,7 +3,7 @@
 ### User Flow for Restaking sUSDf for Boosted Yield
 
 **Step 1a: Navigate to the Boosted Yield Section**\
-First, users locate the Earn tab and select Boosted Yield from its dropdown menu.
+First, users locate the Earn tab on the Falcon App and select Boosted Yield from its dropdown menu.
 
 <figure><img src="../../../../../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
 

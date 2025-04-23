@@ -6,7 +6,8 @@ description: A Step-by-Step Guide for Using the Withdraw Function
 
 ### **Overview**
 
-The Withdraw function within the Transfer tab allows users to make asset withdrawals from their Falcon Account to any external Web3 wallet. Users may withdraw a range of supported stablecoins and non-stablecoins, ensuring flexibility in asset management.
+The Withdraw function within the Transfer tab allows users to make asset withdrawals from their Falcon Account to any external Web3 wallet. Users may withdraw a range of supported stablecoins and non-stablecoins, ensuring flexibility in asset management.\
+&#xNAN;_&#x43;urrently, Falcon only supports withdrawals on the Ethereum network. For withdrawals via other networks, please reach out for assistance at support@falcon.finance._&#x20;
 
 ### User Flow for Withdrawing
 

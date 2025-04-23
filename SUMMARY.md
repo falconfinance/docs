@@ -1,10 +1,27 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [FAQ](faq.md)
 * [Supported Assets](supported-assets.md)
-* [Audits](audits.md)
-* [Smart Contracts](smart-contracts.md)
+* [Glossary](glossary.md)
+
+## Mechanism
+
+* [Overview](mechanism/overview.md)
+* [USDf](mechanism/usdf/README.md)
+  * [Minting Mechanisms](mechanism/usdf/minting-mechanisms.md)
+  * [Overcollateralization Ratio](mechanism/usdf/overcollateralization-ratio.md)
+  * [Peg Stability](mechanism/usdf/peg-stability.md)
+* [sUSDf](mechanism/susdf.md)
+
+***
+
+* [Restaking](restaking.md)
+* [Yield Generation](yield-generation.md)
+* [Rewards Distribution](rewards-distribution.md)
+* [Redemptions](redemptions.md)
+* [Risk Management](risk-management/README.md)
+  * [Transparency](risk-management/transparency.md)
+  * [Insurance Fund](risk-management/insurance-fund.md)
 
 ## Resources
 
@@ -30,9 +47,11 @@
         * [Restaking with USDf](resources/app-guide/navigating-the-earn-tab/boosted-yield/restaking-for-boosted-yield/restaking-with-usdf.md)
         * [Restaking with sUSDf](resources/app-guide/navigating-the-earn-tab/boosted-yield/restaking-for-boosted-yield/restaking-with-susdf.md)
       * [Unstaking from Boosted Yield](resources/app-guide/navigating-the-earn-tab/boosted-yield/unstaking-from-boosted-yield.md)
-* [Glossary](resources/glossary.md)
+* [FAQ](resources/faq.md)
+* [Audits](resources/audits.md)
+* [Smart Contracts](resources/smart-contracts.md)
+* [Terms of Use](resources/terms-of-use.md)
 
 ***
 
-* [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)

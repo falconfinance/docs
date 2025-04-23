@@ -3,7 +3,7 @@
 ### User Flow for Unstaking sUSDf from Classic Yield
 
 **Step 1a: Navigate to the Classic Yield Section**\
-First, users locate the Earn tab and select Classic Yield from its dropdown menu.
+First, users locate the Earn tab on the Falcon App and select Classic Yield from its dropdown menu.
 
 <figure><img src="../../../../.gitbook/assets/image (52).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -33,7 +33,8 @@ Users should observe an increase in their USDf balance corresponding to the tota
 
 ### Redemption/Claim
 
-After verification of successful unstaking, users can choose to redeem or claim their USDf for their initial collateral assets.\
+After verification of successful unstaking, users can choose to redeem or claim their USDf for their initial collateral assets.
+
 Refer to the [Redeem](../../navigating-the-swap-tab/redeem.md) and [Claim](../../navigating-the-swap-tab/claim.md) sections under the [Swap](../../navigating-the-swap-tab/) tab for further details.
 
 {% content-ref url="../../navigating-the-swap-tab/redeem.md" %}

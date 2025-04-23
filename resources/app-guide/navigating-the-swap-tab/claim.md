@@ -12,7 +12,7 @@ The Claim sub-function under the Locked Positions section of the Falcon Account 
 ### User Flow for Claiming Locked Positions
 
 **Step 1: Navigate to the Claim Section**\
-First, users locate the Account tab on the Falcon App, and select "**Profile**" from its dropdown menu. Then locate the Claim button under Falcon Account and Locked Positions.
+First, users locate the Account tab on the Falcon App, and select Profile from its dropdown menu. Then locate the Claim button under Falcon Account and Locked Positions.
 
 <figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -57,7 +57,8 @@ After the claim is finalized and the transaction is confirmed, users' claimed as
 
 ### Withdrawal
 
-After verification of a successful redemption, users can withdraw their assets to their Web3 wallets.\
+After verification of a successful redemption, users can withdraw their assets to their Web3 wallets.
+
 Refer to the [Withdraw](claim.md#withdrawal) section under the [Transfer](../navigating-the-transfer-tab/) tab for further details.
 
 {% content-ref url="../navigating-the-transfer-tab/withdraw.md" %}

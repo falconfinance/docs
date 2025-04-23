@@ -3,7 +3,7 @@
 ### User Flow for Staking USDf for Classic Yield
 
 **Step 1: Navigate to the Classic Yield Section**\
-First, users locate the Earn tab and select Classic Yield from its dropdown menu.
+First, users locate the Earn tab on the Falcon App and select Classic Yield from its dropdown menu.
 
 <figure><img src="../../../../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -33,7 +33,8 @@ Users should observe an increase in their Staked USDf balance corresponding to t
 
 ### **Restake**
 
-After verification of successful staking, users are encouraged to participate in Falcon's yield enhancing features with their sUSDf.\
+After verification of successful staking, users are encouraged to participate in Falcon's yield enhancing features with their sUSDf.
+
 Refer to the [Boosted Yield](../boosted-yield/) section under the [Earn](../) tab for further details.
 
 {% content-ref url="../boosted-yield/" %}

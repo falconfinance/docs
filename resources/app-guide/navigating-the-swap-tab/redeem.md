@@ -42,7 +42,8 @@ After the redemption is finalized and the transaction is confirmed, users' redem
 
 ### Withdrawal
 
-After verification of a successful redemption, users can withdraw their assets from their Falcon Account to their Web3 wallets.\
+After verification of a successful redemption, users can withdraw their assets from their Falcon Account to their Web3 wallets.
+
 Refer to the [Withdraw](redeem.md#withdrawal) section under the [Transfer](../navigating-the-transfer-tab/) tab for further details.
 
 {% content-ref url="../navigating-the-transfer-tab/withdraw.md" %}

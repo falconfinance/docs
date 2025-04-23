@@ -3,7 +3,7 @@
 ### User Flow for Restaking USDf for Boosted Yield
 
 **Step 1: Navigate to the Boosted Yield Section**\
-First, users locate the Earn tab and select Boosted Yield from its dropdown menu.
+First, users locate the Earn tab on the Falcon App and select Boosted Yield from its dropdown menu.
 
 <figure><img src="../../../../../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ Users should observe an increase in their staked USDf balance corresponding to t
 
 **Step 7: Verify NFT Position**\
 Upon successful restaking, users would have automatically minted a unique ERC-721 NFT that represents their fixed-term yield position. The NFT encodes key data such as the principal amount (in sUSDf), the selected restaking duration, and the expected maturity date.\
-The NFT serves as proof of users' restaked positions and can be tracked under the **"Boosted Yield Positions"** section of the dashboard. It is transferable, enabling future utility across supported platforms or secondary markets. \
+The NFT serves as proof of users' restaked positions and can be tracked under the Boosted Yield Positions section of the dashboard. It is transferable, enabling future utility across supported platforms or secondary markets. \
 &#xNAN;_&#x55;sers can also click the shortcut under "NFT" to view their NFT directly on its respective block explorer._
 
 <figure><img src="../../../../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>

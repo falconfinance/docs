@@ -21,8 +21,8 @@ Furthermore, users can opt into an Express Mint. By selecting the Receive sUSDf 
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2025-04-02 at 3.05.56 PM.png" alt="" width="314"><figcaption></figcaption></figure>
 
-**Step 3c: Mint, Stake, and Lock USDf**\
-Users opting into an Express Mint can also select the Boost Yield option. This option works similar to the Receive sUSDf option in Step 3b, with the addition of locking users' sUSDf into fixed-term vaults (e.g., 3 or 6 months). Users who select this option will receive varying yields based on the tenure chosen, on top of Basic Yield accrued on their sUSDf. They will also receive an ERC-721 NFT representing their locked up position instead of USDf or sUSDf.
+**Step 3c: Mint, Stake, and Restake USDf**\
+Users opting into an Express Mint can also select the Boost Yield option. This option works similar to the Receive sUSDf option in Step 3b, with the addition of restaking users' sUSDf into fixed-term vaults (e.g., 3 or 6 months). Users who select this option will receive varying yields based on the tenure chosen, on top of Basic Yield accrued on their sUSDf. They will also receive an ERC-721 NFT representing their locked up position instead of USDf or sUSDf.
 
 <div><figure><img src="../../../../../.gitbook/assets/Screenshot 2025-04-02 at 3.08.44 PM.png" alt="" width="307"><figcaption></figcaption></figure> <figure><img src="../../../../../.gitbook/assets/Screenshot 2025-04-02 at 3.06.05 PM.png" alt="" width="333"><figcaption></figcaption></figure></div>
 
