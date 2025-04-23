@@ -22,7 +22,7 @@ KYC (Know Your Customer) and KYB (Know Your Business) are regulatory processes i
 
 You may initiate this verification process by starting a [deposit](https://app.falcon.finance/transfer/deposit), [withdrawal](https://app.falcon.finance/transfer/withdraw), [mint](https://app.falcon.finance/swap/mint) or [redeem](https://app.falcon.finance/swap/redeem) action, at which a prompt will appear to guide you through the KYC/KYB verification steps.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-20 at 4.13.26 PM.png" alt="" width="375"><figcaption><p>KYC/KYB verifcation prompt on Falcon app.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-20 at 4.13.26 PM.png" alt="" width="375"><figcaption><p>KYC/KYB verifcation prompt on Falcon app.</p></figcaption></figure>
 
 </details>
 

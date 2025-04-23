@@ -58,8 +58,8 @@ Once sUSDf has been converted into USDf and the overcollateralization buffer, us
 * Full Redemption in Original Collateral
   * Users may opt to redeem their total claim fully in the originally deposited collateral, subject to market pricing and availability.
 
-_For an extensive description for terms used within the App Guide, users can refer to the_ [_Glossary_](../../glossary.md) _section._
+_For an extensive description for terms used within the App Guide, users can refer to the_ [_Glossary_](../glossary.md) _section._
 
-{% content-ref url="../../glossary.md" %}
-[glossary.md](../../glossary.md)
+{% content-ref url="../glossary.md" %}
+[glossary.md](../glossary.md)
 {% endcontent-ref %}

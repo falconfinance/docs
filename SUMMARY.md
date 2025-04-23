@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Supported Assets](supported-assets.md)
-* [Glossary](glossary.md)
+* [Glossary](resources/glossary.md)
 
 ## Mechanism
 
@@ -47,10 +47,10 @@
         * [Restaking with USDf](resources/app-guide/navigating-the-earn-tab/boosted-yield/restaking-for-boosted-yield/restaking-with-usdf.md)
         * [Restaking with sUSDf](resources/app-guide/navigating-the-earn-tab/boosted-yield/restaking-for-boosted-yield/restaking-with-susdf.md)
       * [Unstaking from Boosted Yield](resources/app-guide/navigating-the-earn-tab/boosted-yield/unstaking-from-boosted-yield.md)
-* [FAQ](resources/faq.md)
-* [Audits](resources/audits.md)
-* [Smart Contracts](resources/smart-contracts.md)
-* [Terms of Use](resources/terms-of-use.md)
+* [FAQ](faq.md)
+* [Audits](audits.md)
+* [Smart Contracts](smart-contracts.md)
+* [Terms of Use](terms-of-use.md)
 
 ***
 
