@@ -4,11 +4,11 @@
 
 <figure><img src=".gitbook/assets/Screenshot 2025-04-16 at 4.23.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Yield accrued by Falcon's various strategies is tallied and validated on a daily basis, and then used to mint new USDf. A portion of the newly minted USDf is deposited directly into Falcon's sUSDf ERC-4626 Vault, increasing the vault's existing sUSDf : USDf value over time. The remaining minted USDf is staked to the vault as sUSDf.
+Falcon calculates and verifies yields generated daily across all of its strategies. The generated yields are used to mint new USDf. A portion of the newly minted USDf is deposited directly into Falcon's sUSDf ERC-4626 Vault, increasing the vault's existing sUSDf : USDf value over time. The rest of the newly minted USDf is staked into the vault as sUSDf, and allocated to users with Boosted Yield NFTs.
 
-When users who have participated in Falcon's Classic Yield unstake their sUSDf, they receive USDf at the vault's prevailing sUSDf : USDf value, which will already account for their share of total yield accrued.
+If a user is using Classic Yield, they receive USDf when they unstake their sUSDf. The amount they get is based on the current sUSDf-to-USDf value, which will already account for their share of total yield accrued.
 
-When users who have participated in Falcon's Boosted Yield unstake (claim) their locked positions, they receive any sUSDf accrued to their position as boosted yield, on top of their initial locked amount of sUSDf. These users are then able to unstake their sUSDf for classic yield.\
+On the other hand, users who have participated in Falcon's Boosted Yield unstake (claim) their locked positions, they receive the additional sUSDf that was staked on their behalf. This enables them to enjoy the boosted yield, on top of their initial locked amount of sUSDf. They can then unstake their sUSDf for classic yield as with any other user.\
 &#xNAN;_&#x52;estaked and boosted sUSDf positions will receive additional sUSDf only at maturity._
 
 ### Calculation of Yield
