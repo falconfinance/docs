@@ -31,7 +31,7 @@ By utilizing the ERC-4626 standard, Falcon ensures that the sUSDf-to-USDf rate r
 
 ### Lock Window
 
-To maintain accuracy and prevent complications (e.g., last-minute entries or exits distorting daily returns), Falcon implements a brief lock window, often during during the 9:00–10:00 PM GMT+8 timeslot. Yield is finalized within that same timeslot, and interactions such as staking and unstaking may briefly be queued to avoid overlapping transactions that could incorrectly allocate or dilute the daily rewards.
+To maintain accuracy and prevent complications (e.g., last-minute entries or exits distorting daily returns), Falcon implements a brief lock window, often during the 9:00–10:00 PM GMT+8 timeslot. Yield is finalized within that same timeslot, and interactions such as staking and unstaking may briefly be queued to avoid overlapping transactions that could incorrectly allocate or dilute the daily rewards.
 
 Once calculation and yield distribution are complete, Falcon incorporates the final figure into the next APY update.
 
