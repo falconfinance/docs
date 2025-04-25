@@ -26,7 +26,8 @@ Users opting into an Express Mint can also select the Boost Yield option. This o
 <div><figure><img src="../../../../.gitbook/assets/Screenshot 2025-04-02 at 11.31.41 AM.png" alt="" width="322"><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2025-04-02 at 11.31.49 AM.png" alt="" width="347"><figcaption></figcaption></figure></div>
 
 **Step 4: Approve Transaction**\
-Users will be required to confirm and authorize the transaction within their Web3 wallet.
+Users will be required to confirm and authorize the transaction within their Web3 wallet. \
+&#xNAN;_&#x4D;inting USDf will require manual review and approval from Falcon, and while the service-level agreement (SLA) lasts for a 24-hour period, this process is expected to be processed within minutes._
 
 <figure><img src="../../../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 

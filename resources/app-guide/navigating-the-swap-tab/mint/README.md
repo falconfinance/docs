@@ -6,7 +6,7 @@ description: A Step-by-Step Guide for Using the Mint Function
 
 ### **Overview**
 
-The Mint function within the Swap tab allows users to initiate USDf minting using existing deposit assets in their Falcon Account as collateral. Users can mint USDf with range of stablecoins and non-stablecoin assets.
+The Mint function within the Swap tab allows users to initiate USDf minting using existing deposit assets in their Falcon Account as collateral. Users can mint USDf with a range of stablecoins and non-stablecoin assets. Minting USDf will require manual review and approval from Falcon, and while the service-level agreement (SLA) lasts for a 24-hour period, this process is expected to be processed within minutes.
 
 Refer to the [Supported Assets](../../../../supported-assets.md) section for further details on eligible deposit assets.
 
