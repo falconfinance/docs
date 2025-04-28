@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Supported Assets](supported-assets.md)
 * [Glossary](resources/glossary.md)
+* [Know Your Customer (KYC)](know-your-customer-kyc.md)
 
 ## Mechanism
 
