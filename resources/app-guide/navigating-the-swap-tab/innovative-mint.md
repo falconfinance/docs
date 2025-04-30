@@ -9,8 +9,7 @@ _**Disclaimer: The minimum amount required to initiate an Innovative Mint is USD
 
 ### Overview
 
-The Innovative Mint function within the Swap tab allows users to initiate USDf minting using non-stablecoin assets in their Falcon Account as collateral. Users commit their assets for a fixed tenor, and minting parameters such as strike price and liquidation thresholds are set during the process. Minting USDf through Innovative Mint requires manual review and approval from Falcon, and while the service-level agreement (SLA) lasts for a 24-hour period, the process is expected to be completed within minutes.\
-
+The Innovative Mint function within the Swap tab allows users to initiate USDf minting using non-stablecoin assets in their Falcon Account as collateral. Users commit their assets for a fixed tenor, and minting parameters such as strike price and liquidation thresholds are set during the process. Minting USDf through Innovative Mint requires manual review and approval from Falcon, and while the service-level agreement (SLA) lasts for a 24-hour period, the process is expected to be completed within minutes.
 
 Refer to the [Supported Assets](../../../supported-assets.md) section for further details on eligible deposit assets.
 
@@ -31,7 +30,7 @@ First, users locate the Swap tab on the Falcon App, and select "**Innovative Min
 
 Choose your preferred non-stablecoin asset (e.g., ETH) and input the amount to deposit. A minimum of USD 50,000 in collateral value is required to proceed. Next, select your desired lock-up duration from the available tenors: 90, 180, or 365 days. This defines how long your collateral will remain committed and when redemption will be available.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-30 at 2.23.41 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-30 at 12.28.23 PM.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Set Your Strike Multiplier (Risk Level)**
 
@@ -41,7 +40,7 @@ Use the chart and efficiency indicators to understand your selected risk range a
 
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4: Enable Auto-Staking (optional)**&#x20;
 
@@ -55,8 +54,10 @@ Carefully review the summary displayed on the right panel on Total collateral de
 
 Ensure all values are accurate and aligned with your intended strategy as this action is irreversible.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6: Confirm and Submit the Innovative Mint**
 
 Once confirmed, submit your request. All Innovative Mint positions are subject to manual approval by Falcon. While the SLA is 24 hours, most requests are processed within minutes.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -9,9 +9,9 @@ description: A Step-by-Step Guide for Using the Deposit Function from a web3 Wal
 **Step 1: Navigate to the Deposit Section**\
 Users begin by connecting their preferred Web3 wallet (e.g., MetaMask, Trust Wallet) to the Falcon App by locating the Connect Wallet button at the top-right of the page.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Step 2: Navigate to Deposit Section**\
 Next, users locate the Transfer tab on the Falcon App, and select Deposit from its dropdown menu.

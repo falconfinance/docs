@@ -4,6 +4,7 @@
 * [Supported Assets](supported-assets.md)
 * [Glossary](resources/glossary.md)
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
+* [Falcon Miles](falcon-miles.md)
 
 ## Mechanism
 
