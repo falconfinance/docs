@@ -13,7 +13,13 @@ Refer to the [Redeem](resources/app-guide/navigating-the-swap-tab/redeem.md) sec
 
 ### Claims (Non-Stablecoins)
 
-Claims, on the other hand, involve users exchanging their existing USDf for non-stablecoin positions that they previously locked to mint USDf. This process enables users to recover the [overcollateralization buffer](mechanism/usdf/overcollateralization-ratio.md) applied during the initial minting. Upon claiming, users may choose to receive their assets in one of three formats: the original collateral asset, USDT, or a combination of both.
+Claims, on the other hand, involve users exchanging their existing USDf for non-stablecoin positions that they previously locked to mint USDf.&#x20;
+
+For users of [Classic Mint](resources/app-guide/navigating-the-swap-tab/classic-mint/), this process enables users to recover the [overcollateralization buffer](mechanism/usdf/overcollateralization-ratio.md) applied during the initial minting. Upon claiming, users may choose to receive their assets in one of three formats: the original collateral asset, USDT, or a combination of both.
+
+For users of [Innovative Mint](mechanism/usdf/minting-mechanisms/innovative-mint.md), claims can be made only after the fixed public launch is now live
+
+https://vxtwitter.com/FalconStable/status/1917445561156002132 has fully matured. To reclaim the original non-stablecoin collateral, users must repay the amount of USDf initially minted. Full recovery of the collateral is possible only if the position was not liquidated or exited due to the asset price reaching the predefined strike level during the term.
 
 Refer to the [Claim](resources/app-guide/navigating-the-swap-tab/claim.md) section for further details on redeeming USDf for non-stablecoin assets.
 

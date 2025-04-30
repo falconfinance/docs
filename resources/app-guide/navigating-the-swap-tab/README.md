@@ -4,8 +4,8 @@ The Swap tab aims to facilitate USDf mints and redemptions. Users can utilise th
 
 This section outlines the operational steps for both the Mint, Redeem, and Claim functions:
 
-1. [Mint](mint/)
-   1. [Minting with Stablecoins](mint/minting-with-stablecoins.md)
-   2. [Minting with Non-Stablecoin Assets](mint/minting-with-non-stablecoin-assets/)
+1. [Mint](classic-mint/)
+   1. [Minting with Stablecoins](classic-mint/minting-with-stablecoins.md)
+   2. [Minting with Non-Stablecoin Assets](classic-mint/minting-with-non-stablecoin-assets/)
 2. [Redeem](redeem.md)
 3. [Claim](claim.md)

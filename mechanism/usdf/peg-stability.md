@@ -6,11 +6,11 @@ description: >-
 
 # Peg Stability
 
-Falcon employs delta-neutral hedging to balance the protocol's exposure to the collateral assets held. Falcon dynamically rebalances and neutralizes directional risk from the underlying assets, strengthening USDf's peg stability.&#x20;
+Falcon Finance maintains USDf’s peg stability through a combination of delta-neutral and market-neutral strategies. Collateral assets deposited to mint USDf are actively managed to neutralize directional exposure, minimizing the effects of individual asset price movements and broader market fluctuations. This ensures that fluctuations in the underlying collateral do not affect the value backing USDf.
 
-In parallel, overcollateralization serves as a critical risk buffer. By requiring users to deposit more value than the amount of USDf minted, the protocol safeguards against price volatility in non-stablecoin assets. This ensures that every USDf remains fully backed by assets of equal or greater value, reinforcing the strength of the peg stability.
+In parallel, the protocol enforces strict overcollateralization requirements. By requiring that the value of deposited assets consistently exceeds the value of USDf minted, Falcon establishes a resilient buffer against volatility in non-stablecoin assets. This ensures that every USDf remains fully backed by assets of equal or greater value, reinforcing the strength of the peg stability.
 
-Together, these mechanisms allow Falcon to maintain synthetic dollar stability without relying on traditional banking infrastructure, even during periods of significant market fluctuations.
+Together, these mechanisms allow Falcon to maintain synthetic dollar stability, even during periods of significant market fluctuations.
 
 ### Cross-market Arbitrage
 

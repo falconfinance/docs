@@ -14,9 +14,9 @@ Refer to the [Supported Assets](../../../../supported-assets.md) section for fur
 
 After verification of a successful deposit, users are encouraged to mint USDf, using their deposited assets as collateral. This will allow them to participate in staking and other yield features on Falcon.
 
-Refer to the [Mint](../../navigating-the-swap-tab/mint/) section under the [Swap](../../navigating-the-swap-tab/) tab for further details.
+Refer to the [Mint](../../navigating-the-swap-tab/classic-mint/) section under the [Swap](../../navigating-the-swap-tab/) tab for further details.
 
-{% content-ref url="../../navigating-the-swap-tab/mint/" %}
-[mint](../../navigating-the-swap-tab/mint/)
+{% content-ref url="../../navigating-the-swap-tab/classic-mint/" %}
+[classic-mint](../../navigating-the-swap-tab/classic-mint/)
 {% endcontent-ref %}
 
