@@ -29,6 +29,7 @@
 
 ## Resources
 
+* [Brand Assets](resources/brand-assets.md)
 * [App Guide](resources/app-guide/README.md)
   * [Navigating the Transfer Tab](resources/app-guide/navigating-the-transfer-tab/README.md)
     * [Deposit](resources/app-guide/navigating-the-transfer-tab/deposit/README.md)
