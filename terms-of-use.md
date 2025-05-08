@@ -6,7 +6,7 @@ description: Official Terms of Use of the Falcon Finance synthetic dollar protoc
 
 **TERMS AND CONDITIONS**
 
-Last Updated: 7 May 2025
+Last Updated: 8 May 2025
 
 These USDf and sUSDf Terms and Conditions (these "**Terms**") constitute a legally binding agreement between you and Falcon Digital Limited ("**Falcon Finance**", "we", "our" or "us"). These Terms govern your use of the Account in respect of the Services.
 
@@ -260,7 +260,7 @@ a) you may reclaim the Collateral only if you fully return all the USDf minted d
 
 b) failure to return the minted USDf within the prescribed timeframe will result in the liquidation of the Collateral by Falcon Finance to cover the minted USDf.
 
-9.8. If upon maturity, the spot price of the collateralized eligible altcoin is at or below the specified liquidation price:
+9.8. If, at any time during the Mint Term, the Spot Price of the collateralised Eligible Altcoin is at or below the specified liquidation price:
 
 a) Falcon Finance will liquidate the Collateral to cover the minted USDf; and
 
