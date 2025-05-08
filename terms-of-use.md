@@ -6,7 +6,7 @@ description: Official Terms of Use of the Falcon Finance synthetic dollar protoc
 
 **TERMS AND CONDITIONS**
 
-Last Updated: 5 May 2025
+Last Updated: 7 May 2025
 
 These USDf and sUSDf Terms and Conditions (these "**Terms**") constitute a legally binding agreement between you and Falcon Digital Limited ("**Falcon Finance**", "we", "our" or "us"). These Terms govern your use of the Account in respect of the Services.
 
@@ -214,7 +214,7 @@ n) any other circumstance (including due to external market movements and condit
 
 a) For the Falcon Stablecoins to be issued through the Platform, you must provide us with your wallet address and any other identity information or document as we may require for purposes of whitelisting such wallet address.
 
-b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. Users acknowledge that Falcon Finance does not guarantee the stability or value of any stablecoin and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing stablecoin prices.
+b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. A haircut ratio will be applied to certain types of Eligible Collateral, when calculating the amount of USDf that can be minted. Users acknowledge that Falcon Finance does not guarantee the stability or value of any stablecoin and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing stablecoin prices.
 
 c) Once USDf has been minted, Users may stake their USDf in the Falcon Finance Protocol to receive sUSDf. The amount of sUSDf received is calculated based on the prevailing sUSDf-to-USDf ratio, which reflects the total supply of sUSDf relative to the total USDf staked and accumulated protocol yield.
 
