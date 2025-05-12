@@ -10,10 +10,8 @@ The Miles Program uses a multiplier-based system. Points are awarded based on bo
 
 Each action has an associated multiplier, which is applied to the USD value of that activity, either the USDf minted or the total value locked (TVL) of the collateral.
 
-**Example 1: Minting USDf via the Classic Mint with Stablecoins**\
-If you mint USDf worth 10,000 and the multiplier for this action is 2x, you will receive 20,000 Miles.
-
-_**Please note that this minting reward is capped at the first 1,000,000 USDf minted for each user.**_
+**Example 1: Minting USDf via the Classic Mint with Non-stablecoins**\
+If you mint USDf worth 10,000 and the multiplier for this action is 8x, you will receive 80,000 Miles.
 
 **Example 2: Holding USDf for a day.** \
 If you hold $10,000 worth of USDf in your wallet for one day and the daily holding multiplier is 6x, you will earn 60,000 Miles
