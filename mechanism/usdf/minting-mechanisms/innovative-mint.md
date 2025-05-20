@@ -4,7 +4,7 @@ description: Minting flow for Classic Mint
 
 # Innovative Mint
 
-_**Disclaimer: The minimum amount required to initiate an Innovative Mint is USD$500,000 worth of eligible non-stablecoin collateral. Users should contact support@falcon.finance for more information or assistance with the process.**_
+_**Disclaimer: The minimum amount required to initiate an Innovative Mint is USD$50,000 worth of eligible non-stablecoin collateral. Users should contact support@falcon.finance for more information or assistance with the process.**_
 
 The Innovative Mint allows users to mint USDf by depositing non-stablecoin assets while maintaining limited exposure to potential price appreciation. Collateral is locked for a fixed term ranging from 3 to 12 months. At the time of minting, the users will have to set the following key parameters: tenure, capital efficiency level, the strike price multiplier. These parameter will determine the initial amount of USDf minted, the liquidation price, and the strike price.
 
