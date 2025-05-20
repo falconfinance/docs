@@ -4,6 +4,8 @@ description: A Step-by-Step Guide for Using the Redeem Function
 
 # Redeem
 
+_**Disclaimer: The minimum amount required to initiate a redemption is USD$10,000 worth of USDf. Users should contact support@falcon.finance for more information or assistance with the process.**_
+
 ### **Overview**
 
 The Redeem function within the Swap tab allows users to initiate USDf redemptions using existing USDf balances within their Falcon Account. Users can redeem their USDf in various stablecoins.
