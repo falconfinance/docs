@@ -4,6 +4,8 @@ description: Minting flow for Classic Mint
 
 # Classic Mint
 
+_**Disclaimer: The minimum amount required to initiate an Classic Mint is USD$10,000 worth of eligible stablecoin and non-stablecoin collateral. Users should contact support@falcon.finance for more information or assistance with the process.**_
+
 <figure><img src="../../../.gitbook/assets/Flowchart V10 - Whitepaper.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Stablecoins vs Non-Stablecoin Assets**\
