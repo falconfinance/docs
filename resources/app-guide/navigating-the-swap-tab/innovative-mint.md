@@ -5,7 +5,7 @@ hidden: true
 
 # Innovative Mint
 
-_**Disclaimer: The minimum amount required to initiate an Innovative Mint is USD$500,000 worth of eligible non-stablecoin collateral. Users seeking to participate can contact support@falcon.finance for further information and assistance.**_
+_**Disclaimer: The minimum amount required to initiate an Innovative Mint is USD$50,000 worth of eligible non-stablecoin collateral. Users seeking to participate can contact support@falcon.finance for further information and assistance.**_
 
 ### Overview
 
@@ -26,7 +26,7 @@ First, users locate the Swap tab on the Falcon App, and select "**Innovative Min
 
 <figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2: Select Your Non-Stablecoin Collateral and Input a Minimum of USD$500,000 Worth of Asset, Then Choose Your Tenor Lock-Up**
+**Step 2: Select Your Non-Stablecoin Collateral and Input a Minimum of USD$50,000 Worth of Asset, Then Choose Your Tenor Lock-Up**
 
 Choose your preferred non-stablecoin asset (e.g., ETH) and input the amount to deposit. A minimum of USD 50,000 in collateral value is required to proceed. Next, select your desired lock-up duration from the available tenors: 90, 180, or 365 days. This defines how long your collateral will remain committed and when redemption will be available.
 
