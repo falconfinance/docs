@@ -1,6 +1,7 @@
 ---
 description: A Step-by-Step Guide for Using the Innovative Mint Function
 hidden: true
+noIndex: true
 ---
 
 # Innovative Mint
