@@ -30,19 +30,29 @@ There are several ways to earn Miles during this Pilot Season:
    1. Beyond the Falcon app, you can earn Miles by contributing USDf liquidity to supported decentralized exchanges, such as Uniswap, Curve, Balancer, PancakeSwap, and Bunni.
       1. Retroactive rewards will be issued to early liquidity providers, recognizing those who helped seed the protocol from the start.
    2. Trading activity on Uniswap v3 is now eligible for Miles. You’ll earn daily rewards based on the total volume you trade.
-3. **Referrals**
-   1.  Through our referral program:
+3. **Money Markets**
+   1. Supported protocols: Morpho, Euler
+   2. Falcon Finance records the USD value of every supplied balance each day.
+      1. USDf / sUSDf positions are counted at dollar value.
+      2. USDC positions are adjusted by the vault’s Falcon-collateral share before valuation.
+   3. Miles earned from today’s snapshot are credited to dashboards on the following day.
+4. **Yield Tokenization**
+   1. Supported protocols: Pendle, Spectra, Napier
+   2. Falcon records the USD value of every supplied balance each day.
+      1. For LP positions Falcon measures the SY component, the single-sided USD value underpinning each LP token.
+      2. For YT holdings, Falcon takes into account the amount of YT tokens held.
+5. **Referrals**
+   1. Through our referral program:
+      1. Earn up to 10% of the Miles your referee earns.
+      2.  Set your own kickback: give as much (or as little) back as you like.
 
-       * Earn up to 10% of the Miles your referee earns.
-       * Set your own kickback: give as much (or as little) back as you like.
+          Please note:
 
-       Please note:
+          * Referrer: You’ll only earn Miles if the person you invite connects their wallet to Falcon app for the first time using your referral link.
+          * Referee: To receive your referral bonus, you must have never connected to Falcon app before, and you must use a referral link on your first connection.
 
-       * Referrer: You’ll only earn Miles if the person you invite connects their wallet to Falcon app for the first time using your referral link.
-       * Referee: To receive your referral bonus, you must have never connected to Falcon app before, and you must use a referral link on your first connection.
-
-       You can find and customize your referral link on the [Miles page](https://app.falcon.finance/miles).
-4. **Social Tasks**
+          You can find and customize your referral link on the [Miles page](https://app.falcon.finance/miles).
+6. **Social Tasks**
    1. Be part of our community and earn Miles, whilst staying plugged into the latest updates of Falcon's roadmap and milestones.&#x20;
 
 Current multiplier values and eligible activities are listed on the [Miles page](https://app.falcon.finance/miles). Please note that improvements and updates are ongoing during this pilot season.
