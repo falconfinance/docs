@@ -55,7 +55,7 @@
       * [Unstaking from Boosted Yield](resources/app-guide/navigating-the-earn-tab/boosted-yield/unstaking-from-boosted-yield.md)
 * [FAQ](faq.md)
 * [Audits](audits.md)
-* [Smart Contracts](smart-contracts.md)
+* [Smart Contracts-](smart-contracts.md)
 * [Terms of Use](terms-of-use.md)
 
 ***
