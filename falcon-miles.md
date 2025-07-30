@@ -29,7 +29,7 @@ There are several ways to earn Miles during this Pilot Season:
 2. **DeFi Liquidity**
    1. Beyond the Falcon app, you can earn Miles by contributing USDf liquidity to supported decentralized exchanges, such as Uniswap, Curve, Balancer, PancakeSwap, and Bunni.
       1. Retroactive rewards will be issued to early liquidity providers, recognizing those who helped seed the protocol from the start.
-   2. Trading activity on Uniswap v3 is now eligible for Miles. You’ll earn daily rewards based on the total volume you trade.
+   2. Trading activity on supported DEXes are now eligible for Miles. You’ll earn daily rewards based on the total volume you trade.
 3. **Money Markets**
    1. Supported protocols: Morpho, Euler
    2. Falcon Finance records the USD value of every supplied balance each day.
@@ -57,5 +57,18 @@ There are several ways to earn Miles during this Pilot Season:
 
 Current multiplier values and eligible activities are listed on the [Miles page](https://app.falcon.finance/miles). Please note that improvements and updates are ongoing during this pilot season.
 
+### Eligible Pools for DEX Trading Miles
 
+Trading activity on these supported DEXes are eligible for earning miles;&#x20;
+
+| Chain                | Protocol     | Pool                                                                                                                      |
+| -------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Ethereum             | Uniswap      | [USDT / USDf](https://app.uniswap.org/explore/pools/ethereum/0xC275a7390966E4bcbf331B837cD7316C4A3EFa83)                  |
+|                      | Pancakeswap  | [USDT / USDf](https://pancakeswap.finance/liquidity/pool/eth/0x0d9EA0D5E3f400b1df8F695be04292308c041E77)                  |
+|                      | Balancer     | [GHO / USDf](https://balancer.fi/pools/ethereum/v3/0x6c5972311191097d002e804a9bf97c96c54059ed)                            |
+|                      | Curve        | [USDC / USDf](https://www.curve.finance/dex/ethereum/pools/factory-stable-ng-391/deposit/)                                |
+|                      | Curve        | [frxUSD / USDf](https://www.curve.finance/dex/ethereum/pools/factory-stable-ng-485/deposit/)                              |
+|                      | Bunni        | [USDT / USDf](https://bunni.xyz/explore/pools/mainnet/0x68306351b1155f7329bc4428657aa73b8a32e87e916f897b7dcb1328f2ec60a3) |
+| Binance Smart Chain  | Pancakeswap  | [USD1 / USDf](https://pancakeswap.finance/liquidity/pool/bsc/0xe38b4d4dc90e6a0859bee047689d97db7fd94621)                  |
+|                      | Pancakeswap  | [USDT / USDf](https://pancakeswap.finance/liquidity/pool/bsc/0x24618d12b5eA15bB6fe3c81bBb9E011b5D5b107c)                  |
 
