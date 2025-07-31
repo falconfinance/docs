@@ -18,4 +18,4 @@ description: '(Last updated: 23th April 2025)'
 
 _For any other tokens not listed above, please reach out to the Falcon team for assistance._
 
-_For a comprehensive overview of Falcon Finance’s collateral-acceptance criteria, please refer to the_ [_Collateral Acceptance & Risk Framework_](https://app.gitbook.com/o/VsjjCihBbd6Re1gaUFu1/s/mRfqjzWAD6asMoqA8yG5/~/changes/93/collateral-acceptance-and-risk-framework)_._
+_For a comprehensive overview of Falcon Finance’s collateral-acceptance criteria, please refer to the_ [_Collateral Acceptance & Risk Framework_](collateral-acceptance-and-risk-framework.md)_._
