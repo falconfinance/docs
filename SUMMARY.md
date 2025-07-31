@@ -23,6 +23,7 @@
 * [Yield Generation](yield-generation.md)
 * [Rewards Distribution](rewards-distribution.md)
 * [Redemptions](redemptions.md)
+* [Collateral Acceptance & Risk Framework](collateral-acceptance-and-risk-framework.md)
 * [Risk Management](risk-management/README.md)
   * [Transparency](risk-management/transparency.md)
   * [Insurance Fund](risk-management/insurance-fund.md)
