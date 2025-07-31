@@ -21,7 +21,7 @@ A color‑coded tier (🟢 Low, 🟡 Medium, 🔴 High) is assigned per factor.
 ## Composite Risk Grade&#x20;
 
 * An asset is **Eligible** when **no factor is rated 🔴** and ≤ one factor is 🟡.
-* Assets with two 🟡 scores are **Conditionally Eligible** and may receive a **higher haircut**.
+* Assets with two 🟡 scores are **Conditionally Eligible** and may receive a **higher overcollaterization ratio**.
 * Any 🔴 score triggers **Rejection** or immediate review if already listed.
 
 
