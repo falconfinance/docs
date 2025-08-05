@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Yap2Fly](README.md)
+* [Welcome](<README (1).md>)
 * [Supported Assets](supported-assets.md)
 * [Glossary](resources/glossary.md)
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
