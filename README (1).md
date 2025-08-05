@@ -48,11 +48,11 @@ Stake any amount of $KAITO at any point during the campaign and you will qualify
 
 ### How the Leaderboard Works?&#x20;
 
-| Details           | Description                                                                                                                                                     |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mindshare Updates | Yap on X or earn more miles and your rank can change on a daily basis.                                                                                          |
-| Monthly snapshot  | At 23:59:59 UTC on the final calendar day, Falcon Finance will capture the Top 50 users ranked on the leaderboard for that month for the monthly reward payout. |
-| Weighted ranking  | Falcon Finance combines your Kaito Mindshare position and your Falcon Miles position using a proprietary weight formula to produce your final Leaderboard Rank. |
+| Details           | Description                                                                                                                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mindshare Updates | Yap on X or earn more miles and your rank can change on a daily basis.                                                                                                                                                                                     |
+| Monthly snapshot  | At 23:59:59 UTC on the final calendar day, Falcon Finance will capture the Top 50 users ranked on the leaderboard for that month for the monthly reward payout. Each monthly leaderboard will start from the first day of the month (eg: 1st August 2025)  |
+| Weighted ranking  | Falcon Finance combines your Kaito Mindshare position and your Falcon Miles position using a proprietary weight formula to produce your final Leaderboard Rank.                                                                                            |
 
 ### What Counts as a "Yap"?&#x20;
 
