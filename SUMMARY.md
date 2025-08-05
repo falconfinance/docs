@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Yap2Fly](README.md)
-* [Welcome](<README (1).md>)
+* [Welcome](README.md)
 * [Supported Assets](supported-assets.md)
 * [Glossary](resources/glossary.md)
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
 * [Falcon Miles](falcon-miles.md)
+* [Yap2Fly](<README (1).md>)
 
 ## Mechanism
 
