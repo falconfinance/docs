@@ -20,9 +20,9 @@ Your Mindshare and Miles work together to push you up the Yap2Fly leaderboard, u
 The mentioned special rewards pool follows a step-based claim mechanism so that the most committed community members receive the largest share. The total special rewards pool will distributed as follows;
 
 1. First 40% becomes claimable given that you have ranked on the Yap2Fly Leaderboard.
-2. Next 20% is claimable if you have collected 3 Basic Badges.
-3. Next 20% is claimable if you have collected 3 Basic Badges and 4 Silver Badges.
-4. Following 20% is claimable if you have collected 3 Basic Badges, 4 Silver Badges, and 4 Gold, Silver, or Legendary Badges.
+2. Next 20% is claimable if you have collected 3 Bronze Badges.
+3. Next 20% is claimable if you have collected 3 Bronze Badges and 4 Silver Badges.
+4. Following 20% is claimable if you have collected 3 Bronze Badges, 4 Silver Badges, and 4 Gold, Diamond, or Legendary Badges.
 
 _Note: Any USDf left unclaimed after 30 days returns to the Falcon treasury. Unclaimed Falcon tokens are redistributed to all Kaito Yappers and $KAITO stakers._
 
