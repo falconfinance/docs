@@ -1,5 +1,5 @@
 ---
-description: Minting flow for Classic Mint
+description: Minting flow for Innovative Mint
 ---
 
 # Innovative Mint
