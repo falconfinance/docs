@@ -16,6 +16,8 @@ The collateral is liquidated to protect the protocol’s collateral backing. In 
 **2. If the collateral price remains between the liquidation price and the strike price by the end of the term:**\
 The user may reclaim the full collateral asset by returning the USDf originally minted. This allows the user to regain their asset while still having accessed to USDf liquidity during the term.
 
+Users will be given 72 hours window from the maturity date to reclaim their collateral.&#x20;
+
 **3. If the collateral price rises and exceeds the strike price by the end of the term:**\
 The collateral is exited. The user no longer retains any claim to the original asset. Instead, they receive an additional USDf payout, calculated as:&#x20;
 
