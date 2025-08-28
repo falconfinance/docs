@@ -6,11 +6,11 @@ description: Official Terms of Use of the Falcon Finance synthetic dollar protoc
 
 **TERMS AND CONDITIONS**
 
-Last Updated: 8 May 2025
+Last Updated: 28 August 2025
 
 These USDf and sUSDf Terms and Conditions (these "**Terms**") constitute a legally binding agreement between you and Falcon Digital Limited ("**Falcon Finance**", "we", "our" or "us"). These Terms govern your use of the Account in respect of the Services.
 
-By registering for an Account, accessing the Platform, using the Services and/or holding the Falcon Stablecoins, you agree that you have read, understood and accepted these Terms, together with any additional documents or terms referred to in these Terms, which includes the Risk Disclosure Statement and the Privacy Policy. You acknowledge and agree that you will be bound by and will comply with these Terms, as updated and amended from time to time. If you do not understand and accept these Terms in their entirety, you should not register for an Account or access or use the Platform or any Service.
+By registering for an Account, accessing the Platform, using the Services and/or holding the Falcon Assets, you agree that you have read, understood and accepted these Terms, together with any additional documents or terms referred to in these Terms, which includes the Risk Disclosure Statement and the Privacy Policy. You acknowledge and agree that you will be bound by and will comply with these Terms, as updated and amended from time to time. If you do not understand and accept these Terms in their entirety, you should not register for an Account or access or use the Platform or any Service.
 
 We reserve the right, at our sole and absolute discretion, to amend, supplement or replace any part of these Terms at any time. You hereby agree to dispense with any requirement to provide fresh consideration in amending, supplementing or replacing any part of these Terms at any time. We will endeavour to provide you with notice of any changes by updating the revised Terms via the Website or the Platform, and changing the "Last Updated" date on this page, or by notifying you directly of such changes. Any changes to these Terms will be effective immediately upon the earlier of the time of publication on the Website or the Platform, or at the time of transmission of the direct notification to you. We encourage you to frequently review these Terms to ensure you understand the terms and conditions that apply to your access to, and use of, the Services.
 
@@ -28,11 +28,11 @@ In these Terms, unless the context otherwise requires:
 * **"Falcon Points"** means the points earned by users through staking USDf in accordance with the loyalty and rewards program of Falcon Finance, which may be redeemed for various benefits as determined by Falcon Finance;
 * **"Mint Term"** means the fixed duration during which collateral is pledged to Falcon Finance. The Mint Term is selected by the user at the time of issuance and may range from predefined options (e.g., 90, 180, or 365 days) or other durations stipulated by Falcon Finance. During this period, the pledged collateral remains locked until the term concludes, at which point the deposit reaches maturity;
 * **"Maturity"** means the specific time and date when a deposit or mint under Falcon Finance, such as the Innovative Mint Program, reaches the end of its selected Mint Term. The Mint Term represents the fixed duration during which collateral is pledged, as chosen by the user (e.g., 90, 180, or 365 days) or as otherwise stipulated by Falcon Finance. The Spot rice at this precise moment is considered the price "at maturity.";
-* **"Restricted Jurisdictions"** means Crimea, Donetsk and Luhansk, Cuba, Democratic People's Republic of Korea, Democratic Republic of the Congo, Islamic Republic of Iran, Libya, Republic of Belarus, Russian Federation, Somalia, South Sudan, Sudan, Syria, United States of America, Yemen, any jurisdiction in which the entry into these Terms is prohibited by Applicable Laws, and any jurisdiction which is subject to United States, United Nations or other applicable sanctions or embargoes;
+* **"Restricted Jurisdictions"** means Afghanistan, Algeria, Angola, Bolivia, Burkina Faso, Cameroon, Central African Republic, China, Côte d’Ivoire, Crimea and Sevastopol, Donetsk People’s Republic (DNR) and Luhansk People’s Republic (LNR), Cuba, Democratic People’s Republic of Korea, Democratic Republic of the Congo, Eritrea, Haiti, Islamic Republic of Iran, Iraq, Libya, Lebanon, Mali, Myanmar/Burma, Mozambique, Namibia, Nepal, Nigeria, Republic of Belarus, Russian Federation, Somalia, South Sudan, Sudan, Syria,Tanzania, Venezuela, Vietnam, United States of America, Yemen, Zaporizhzhia and Kherson oblasti of Ukraine and any jurisdiction in which the entry into these Terms is prohibited by Applicable Laws, and any jurisdiction which is subject to United States, United Nations or other applicable sanctions or embargoes;
 * **"Person"** means an individual or legal entity or person;
 * **"Platform"** means the platform operated by Falcon Finance that provides you with access to the Services;
 * **"Primary User"** means any user of Services provided by Falcon Finance in respect of the Account;
-* **"Secondary User"** means any holder of Falcon Stablecoins that does not have access to purchase or redeem Falcon Stablecoins directly with Falcon Finance until they open and are approved for an Account;
+* **"Secondary User"** means any holder of Falcon Assets that does not have access to purchase or redeem Falcon Assets directly with Falcon Finance until they open and are approved for an Account;
 * **"Spot Price"** means the spot price is defined as the price of the digital assets determined by Falcon Finance at its sole discretion as reflected in Falcon Finance's internal system, based on data sourced from major exchanges such as ByBit and Binance;
 * **"USD"** means the lawful currency of the United States of America;
 * **"User"** or **"you"** means Primary User and/or Secondary User as the context requires;
@@ -54,7 +54,7 @@ In these Terms, unless the context or subject otherwise requires:
 
 #### 2.1. **USDf: The Base Synthetic Dollar**
 
-USDf is a fully collateral-backed synthetic dollar minted when Users deposit a variety of digital assets as determined by Falcon Finance in its sole discretion from time to time (the "**Eligible Collateral**"), such as stablecoins or blue-chip tokens, into the Falcon Finance Protocol. USDf serves as the base token in the system and can be staked to mint sUSDf. It acts as a fully collateral-backed synthetic dollar token that can be used as a store of value, a medium of exchange, and a unit of account.
+USDf is a fully collateral-backed or backed by the assets made available to Falcon Finance under repurchase agreement (or any agreement of similar nature) synthetic dollar minted when Users deposit/provides a variety of digital assets (including tokenized real-world assets (the “RWAs”)) as determined by Falcon Finance in its sole discretion from time to time (the “Eligible Collateral”), such as stablecoins or blue-chip tokens, into the Falcon Finance Protocol. USDf serves as the base token in the system and can be staked to mint sUSDf. It acts as a fully collateral-backed synthetic dollar token that can be used as a store of value, a medium of exchange, and a unit of account.
 
 #### 2.2. **sUSDf: The Yield-Bearing Asset**
 
@@ -64,7 +64,7 @@ sUSDf is a yield-bearing asset that is minted when USDf is staked on the Falcon 
 
 #### 3.1. To the extent you have an Account in good standing, you may, on the Platform:
 
-1. mint USDf by depositing the Eligible Collateral;
+1. mint USDf by depositing/providing the Eligible Collateral;
 2. mint USDf by participating in the Innovative Mint Program;
 3. receive sUSDf by staking USDf;
 4. redeem USDf for the the originally deposited Eligible Collateral or other stablecoins;
@@ -74,9 +74,9 @@ sUSDf is a yield-bearing asset that is minted when USDf is staked on the Falcon 
 
 (collectively the "**Services**").
 
-3.2. You acknowledge that your ability to be issued Falcon Stablecoins and/or redeem your Falcon Stablecoins is conditional on (i) your possession of a corresponding amount of Falcon Stablecoins or Eligible Collateral (as the case may be), (ii) you maintaining an Account, (iii) no violation of these Terms, and (iv) no restrictions imposed by any Applicable Laws, including any changes thereto. Falcon Finance reserves the right to suspend all or part of the Services or your right to use the Services at any time and for any reason.
+3.2. You acknowledge that your ability to receive Falcon Assets and/or redeem your Falcon Assets is conditional on (i) your possession of a corresponding amount of Falcon Assets or Eligible Collateral (as the case may be), (ii) you maintaining an Account, (iii) no violation of these Terms, and (iv) no restrictions imposed by any Applicable Laws, including any changes thereto. Falcon Finance reserves the right to suspend all or part of the Services or your right to use the Services at any time and for any reason.
 
-3.3. You agree, represent, and warrant with respect to any digital asset you sell, transfer or deliver to Falcon Finance that, (i) you are the lawful owner of such digital asset with good and marketable title thereto, and you have the absolute right to sell, assign, convey, transfer and deliver such digital asset. Such digital asset is free and clear of any and all security interests, liens, pledges, claims (pending or threatened), charges, escrows, encumbrances or similar rights, (ii) you are the lawful owner of each wallet address you provide to us and have good title thereto and (iii) each of your wallets is owned and operated solely for your benefit, and no person, other than you, has any right, title or interest in any wallet.
+3.3. You agree, represent, and warrant with respect to any digital asset you sell, transfer or deliver to Falcon Finance that, (i) you are the lawful owner of such digital asset with good and marketable title thereto, and you have the absolute right to sell, assign, convey, transfer and deliver such digital asset, and all transactions with such digital assets are proprietary. Such digital asset is free and clear of any and all security interests, liens, pledges, claims (pending or threatened), charges, escrows, encumbrances or similar rights, (ii) you are the lawful owner of each wallet address you provide to us and have good title thereto and (iii) each of your wallets is owned and operated solely for your benefit, and no person, other than you, has any right, title or interest in any wallet.
 
 3.4. By using any of the Services, you acknowledge and agree that the availability and functionality of these Services may be subject to limitations, delays, and other issues inherent in the use of blockchain technology and digital assets. Under no circumstances shall any of the Indemnified Persons be responsible for any losses or damages arising from such issues, and your use of the Services is at your own risk.
 
@@ -110,13 +110,13 @@ vii) you have performed and discharged, or will perform and discharge at all tim
 
 viii) if you are entering into these Terms on behalf of a legal entity of which you are an employee, agent or representative, you have all necessary rights, power, and authority to bind such legal entity to these Terms;
 
-ix) you do not maintain any existing Account with Falcon Finance. Please note that you should only have one Account registered under your name, which has successfully completed our know your customer verification process. If any additional Accounts are identified, they will be consolidated.
+ix) you do not maintain any existing Account with Falcon Finance. Please note that you should only have one Account registered under your name, which has successfully completed our KYC/KYB verification process. If any additional Accounts are identified, they will be consolidated.
 
 b) All Accounts are subject to review and approval by Falcon Finance. We reserve the right to terminate, suspend or restrict your access to any of your Accounts, as well as take any other action as we deem fit, in the event that you are not, or are no longer, eligible to use the Services. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any such termination, suspension or restriction of access to any Account, or any other action taken by any of the Indemnified Persons in connection with your ineligibility to use the Services.
 
-c) We reserve the right to monitor and investigate any transactions or activities involving the Falcon Stablecoins to ensure compliance with all the eligibility restrictions.
+c) We reserve the right to monitor and investigate any transactions or activities involving the Falcon Assets to ensure compliance with all the eligibility restrictions.
 
-d) In the event that Falcon Finance determines, in its sole discretion, that a User is a U.S. Person or has knowingly facilitated the sale or transfer of any Falcon Stablecoins to a U.S. Person, Falcon Finance may take appropriate action, including but not limited to suspension or termination of the Account, or other actions that Falcon Finance sees fit.
+d) In the event that Falcon Finance determines, in its sole discretion, that a User is a U.S. Person or has knowingly facilitated the sale or transfer of any Falcon Assets to a U.S. Person, Falcon Finance may take appropriate action, including but not limited to suspension or termination of the Account, or other actions that Falcon Finance sees fit.
 
 #### 5.2. **Restricted Locations, Access and Services**
 
@@ -129,6 +129,8 @@ c) Services are only available to Users in countries where they are permitted to
 d) We may implement controls to restrict access to the Services from any jurisdiction prohibited pursuant to these Terms, including automatically blocking a User from accessing such Services.
 
 e) You accept and agree that you shall not attempt to access or otherwise engage in any Services that have been restricted in accordance with these Terms. A breach of this restriction constitutes a breach of these Terms and we may at our sole discretion terminate your Account in accordance with these Terms.
+
+f) You acknowledge and agree that neither USDf nor sUSDf and related services have been marketed, promoted, or actively offered to you within the European Union. Any decision to acquire or use USDf, sUSDf and/or the Services have been made solely at your own initiative. You confirm that you requested access to information and services related to USDf, sUSDf and/or the Services without having been solicited by Falcon Finance, its affiliates, or any distributors.
 
 #### 5.3. **Account Information**
 
@@ -208,25 +210,25 @@ n) any other circumstance (including due to external market movements and condit
 
 **7.3.** Upon termination of an Account, whether by you or by us, you will lose access to all Services and features provided by the Platform. Under no circumstances shall any of the Indemnified Persons be liable for any losses, damages, or consequences resulting from the termination of any Account.
 
-### 8. **ISSUANCE AND REDEMPTION OF FALCON STABLECOINS**
+### 8. **ISSUANCE AND REDEMPTION OF FALCON ASSETS**
 
-8.1. Issuance of Falcon Stablecoins
+8.1. Issuance of Falcon Assets
 
-a) For the Falcon Stablecoins to be issued through the Platform, you must provide us with your wallet address and any other identity information or document as we may require for purposes of whitelisting such wallet address.
+a) For the Falcon Assets to be issued through the Platform, you must provide us with your wallet address and any other identity information or document as we may require for purposes of whitelisting such wallet address.
 
-b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. A haircut ratio will be applied to certain types of Eligible Collateral, when calculating the amount of USDf that can be minted. Users acknowledge that Falcon Finance does not guarantee the stability or value of any stablecoin and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing stablecoin prices.
+b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. A haircut ratio will be applied to certain types of Eligible Collateral, when calculating the amount of USDf that can be minted. Users acknowledge that Falcon Finance does not guarantee the stability or value of any assets and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing asset prices.
 
 c) Once USDf has been minted, Users may stake their USDf in the Falcon Finance Protocol to receive sUSDf. The amount of sUSDf received is calculated based on the prevailing sUSDf-to-USDf ratio, which reflects the total supply of sUSDf relative to the total USDf staked and accumulated protocol yield.
 
-d) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any processing delays in connection the issuance of Falcon Stablecoins (including network or tech related errors), or your failure to provide us with the correct wallet address or instruction(s).
+d) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any processing delays in connection the issuance of Falcon Assets (including network or tech related errors), or your failure to provide us with the correct wallet address or instruction(s).
 
-8.2. Redemption of Falcon Stablecoins
+8.2. Redemption of Falcon Assets
 
-a) To redeem (i) USDf for a proportional amount of the originally deposited Eligible Collateral or other stablecoins at a 1:1 ratio, or (ii) sUSDf for USDf through the Platform, you must provide us with your wallet address and any other identity information document as we may require for whitelisting, screening and verification purposes. Upon receipt of your USDf or sUSDf and the completion of any processing, screening or verification checks, the corresponding amount of the originally deposited Eligible Collateral, stablecoins or USDf (as applicable) will be transferred to your wallet address, subject to any applicable cooling period.
+a) To redeem (i) USDf for a proportional amount of the original or adjusted amount of Eligible Collateral or other stablecoins at a 1:1 ratio, or (ii) sUSDf for USDf through the Platform, you must provide us with your wallet address and any other identity information document as we may require for whitelisting, screening and verification purposes. Upon receipt of your USDf or sUSDf and the completion of any processing, screening or verification checks, the corresponding amount of the originally deposited Eligible Collateral, stablecoins, RWAs or USDf (as applicable) will be transferred to your wallet address, subject to any applicable cooling period.
 
-b) The amount in the Eligible Collateral or USDf sent to your wallet address at redemption may be rounded down to the nearest unit at our discretion.
+b) The amount in the Eligible Collateral, RWAs, other stablecoins or USDf sent to your wallet address at redemption may be rounded down to the nearest unit at our discretion.
 
-c) A minimum amount for redemption of Falcon Stablecoins may be imposed by us, which may be changed from time to time at our sole and absolute discretion. We reserve the right not to process any redemption where such amount does not meet the minimum required amount.
+c) A minimum amount for redemption of Falcon Assets may be imposed by us, which may be changed from time to time at our sole and absolute discretion. We reserve the right not to process any redemption where such amount does not meet the minimum required amount.
 
 d) While we are committed to providing efficient transaction processing for our Users, processing times may vary depending on various factors, including the blockchain network's congestion, transaction complexity, and required confirmation or settlement. While we strive to facilitate transactions promptly, we cannot guarantee immediate processing or completion of transactions.
 
@@ -234,11 +236,11 @@ e) You are responsible for ensuring the accuracy of transaction details, includi
 
 f) We monitor and may review transactions to ensure compliance with our policies, as well as Applicable Laws. We reserve the right to delay, suspend, or cancel transactions that we suspect may involve illegal or fraudulent activities or that violate our terms and conditions. In such cases, we may be required to report the transaction to the relevant authorities.
 
-g) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any such termination, suspension or restriction of access to any Account, or any other action taken by any of the Indemnified Persons in connection with any processing delays in connection with the redemption of Falcon Stablecoins (including network or tech related errors or delays), your failure to provide us with the correct wallet address, and any errors in your instructions or communications.
+g) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any such termination, suspension or restriction of access to any Account, or any other action taken by any of the Indemnified Persons in connection with any processing delays in connection with the redemption of Falcon Assets (including network or tech related errors or delays), your failure to provide us with the correct wallet address, and any errors in your instructions or communications.
 
 ### 9. **INNOVATIVE MINT**
 
-9.1. You may pledge a variety of listed altcoins (excluding stablecoins), as determined by Falcon Finance in its sole discretion from time to time (the "**Eligible Altcoins**"), as collateral (the "**Collateral**") on the Falcon Protocol in order to mint USDf (the "**Innovative Mint Program**").
+9.1. You may pledge/ provide a variety of listed altcoins (excluding stablecoins), as determined by Falcon Finance in its sole discretion from time to time (the "**Eligible Altcoins**"), as collateral (the "**Collateral**") on the Falcon Protocol in order to mint USDf (the "**Innovative Mint Program**").
 
 9.2. To participate in the Innovative Mint Program, you must pledge the Eligible Altcoins on the Falcon Protocol for a fixed period of time (the "**Mint Term**"), which may be 90, 180, or 365 days or as otherwise stipulated by us and selected by you. During the Mint Term, you shall have no right to request redemption, withdrawal, or transfer of the Collateral. You must also specify a liquidation price and strike price for the Collateral, which will determine the amount of USDf that we will provide to you in exchange for the Collateral and the outcomes upon maturity of the Mint Term, as described below.
 
@@ -292,15 +294,15 @@ b) your Account has been suspended or terminated.
 
 ### 11. **IDENTITY VERIFICATION**
 
-11.1 For the issuance and/or redemption of Falcon Stablecoins, you will be required to provide us with any information, documents and/or materials as may be necessary to verify your identity or to facilitation compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences.
+11.1 For the issuance and/or redemption of Falcon Assets, you will be required to provide us with any information, documents and/or materials as may be necessary to verify your identity or to facilitation compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences.
 
 11.2. You agree to provide us with current, complete, and accurate information or documents. In addition, you agree to permit us to keep a record of all such information for so long as we are required or permitted to do so under Applicable Laws, including after the termination of your Account
 
-11.3. Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Stablecoin Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
+11.3. Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
 
 ### 12. **COMPLIANCE WITH APPLICABLE LAWS**
 
-12.1. Your request for the issuance and/or redemption of Falcon Stablecoins, and your use of the Services or Platform, is subject to all Applicable Laws and your compliance thereof.
+12.1. Your request for the issuance and/or redemption of Falcon Assets, and your use of the Services or Platform, is subject to all Applicable Laws and your compliance thereof.
 
 12.2. You agree to immediately provide us with any and all information, documents and/or materials as we may require from you from time to time, and to perform any and all such acts or things, including your forbearance to do any and all such acts or things, in each case as may be required or expedient for the purposes of complying, or facilitating our compliance with Applicable Laws, or to avoid violation of any Applicable Laws. Examples of Applicable Laws that we are subject to which may give rise to such obligations on your end include:
 
@@ -312,7 +314,7 @@ c) any request for information, documents and/or materials from any regulatory a
 
 ### 13. **RESTRICTED ACTIVITIES AND PROHIBITED TRANSACTIONS**
 
-13.1. In connection with the minting, issuance, holding and redemption of Falcon Stablecoins, you agree that you will not:
+13.1. In connection with the minting, issuance, holding and redemption of Falcon Assets, you agree that you will not:
 
 a) violate (or assist any other party in violating) any Applicable Laws;
 
@@ -334,7 +336,7 @@ i) defame, harass, or violate the privacy or intellectual property rights of Fal
 
 j) upload, display or transmit any messages, photos, videos or other media that contain illegal goods, violent, obscene or copyrighted images or materials.
 
-13.2. Using Falcon Stablecoins for transactions related to the following is strictly prohibited, and we reserve the right to monitor and, if appropriate, block or otherwise prevent transactions that relate to:
+13.2. Using Falcon Assets for transactions related to the following is strictly prohibited, and we reserve the right to monitor and, if appropriate, block or otherwise prevent transactions that relate to:
 
 a) any U.S. Persons;
 
@@ -356,19 +358,19 @@ i) purchasing goods from "Darknet" markets or any other service or website that 
 
 13.3. In the event we learn or reasonably suspect that you are engaging in any prohibited transactions, we may suspend or terminate your Account, potentially leading to the forfeiture of any digital assets otherwise eligible for redemption. We may also be required by Applicable Laws to inform authorities about such transactions and follow court orders regarding information and assets held in the Account.
 
-13.4. The Falcon Stablecoins are not offered or sold, and will not be offered or sold, in the United States or to U.S. Persons. In addition, the Falcon Stablecoins have not been registered under the Securities Act of 1933, as amended (the "**Act**") or the securities laws of any other jurisdiction, and may not be offered, sold or otherwise transferred in the United States or to U.S. Persons unless the securities are registered under the Act, or an exemption from the registration requirements of the Act is available.
+13.4. The Falcon Assets are not offered or sold, and will not be offered or sold, in the United States or to U.S. Persons. In addition, the Falcon Assets have not been registered under the Securities Act of 1933, as amended (the "**Act**") or the securities laws of any other jurisdiction, and may not be offered, sold or otherwise transferred in the United States or to U.S. Persons unless the securities are registered under the Act, or an exemption from the registration requirements of the Act is available.
 
 ### 14. **SUPPORTED BLOCKCHAINS**
 
-14.1. Falcon Stablecoins operate only on supported blockchains. You acknowledge that Falcon Finance is not responsible for preventing or resolving any cyber-attacks or any other processing or technological issues that might arise in connection with the supported blockchains.
+14.1. Falcon Assets operate only on supported blockchains. You acknowledge that Falcon Finance is not responsible for preventing or resolving any cyber-attacks or any other processing or technological issues that might arise in connection with the supported blockchains.
 
-14.2. Falcon Finance reserves the right to expand or reduce the number of supported blockchains in the future, to migrate Falcon Stablecoins from a currently supported blockchain, to cease support for a supported blockchain, and/or suspend your Account and/or all activities relating to Falcon Stablecoins during such transition period. We shall bear no responsibility for any losses that might be incurred in connection with the use or the discontinued use of any blockchain, including currently supported blockchains.
+14.2. Falcon Finance reserves the right to expand or reduce the number of supported blockchains in the future, to migrate Falcon Assets from a currently supported blockchain, to cease support for a supported blockchain, and/or suspend your Account and/or all activities relating to Falcon Assets during such transition period. We shall bear no responsibility for any losses that might be incurred in connection with the use or the discontinued use of any blockchain, including currently supported blockchains.
 
 ### 15. **INTERRUPTIONS, DELAYS AND CANCELLATIONS**
 
 15.1. If any technical reasons prevent or degrade Users' ability to access the Platform or any Services, Falcon Finance may, in its sole and absolute discretion, without prior notice to you or any other Users, take one or more of the following actions (where applicable):
 
-a) disable or suspend the minting, issuance or redemption of any Falcon Stablecoin;
+a) disable or suspend the minting, issuance or redemption of any Falcon Assets;
 
 b) disable or suspend any sign-in to Accounts; and/or
 
@@ -376,13 +378,13 @@ c) disable or suspend access to the Platform, any Services, and/or any other sys
 
 Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, Falcon Finance's decision to carry out any of the above actions.
 
-15.2. There may be instances in which the processing of the minting, issuance or redemption of the Falcon Stablecoins is delayed or has to be cancelled due to whatever reason (including if there is any system, technical or operational issues that prohibits us from processing such minting, issuance or redemption) or no reason whatsoever. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any cancellation or delay in processing any minting, issuance or redemption.&#x20;
+15.2. There may be instances in which the processing of the minting, issuance or redemption of the Falcon Assets is delayed or has to be cancelled due to whatever reason (including if there is any system, technical or operational issues that prohibits us from processing such minting, issuance or redemption) or no reason whatsoever. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any cancellation or delay in processing any minting, issuance or redemption.&#x20;
 
-15.3. We do not provide any warranty (whether express or implied) nor guarantee as to the timeline by which the minting, issuance or redemption of any Falcon Stablecoin will be successfully processed.
+15.3. We do not provide any warranty (whether express or implied) nor guarantee as to the timeline by which the minting, issuance or redemption of any Falcon Assets will be successfully processed.
 
 ### 16. **CHANGES IN APPLICABLE LAWS**
 
-16.1. Any changes in Applicable Laws may affect the minting, issuance, holding, transfer, use, and/or redemption of the Falcon Stablecoins. We reserve the right to suspend, whether for a period of time or indefinitely, your Account and/or the minting, issuance and redemption of the Falcon Stablecoins, as may be required by any changes in Applicable Laws. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of any changes in Applicable Laws.
+16.1. Any changes in Applicable Laws may affect the minting, issuance, holding, transfer, use, and/or redemption of the Falcon Assets. We reserve the right to suspend, whether for a period of time or indefinitely, your Account and/or the minting, issuance and redemption of the Falcon Assets, as may be required by any changes in Applicable Laws. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of any changes in Applicable Laws.
 
 ### 17. **WEBSITE AVAILABILITY AND ACCURACY**
 
@@ -408,9 +410,9 @@ Under no circumstances shall any of the Indemnified Persons be responsible or li
 
 ### 20. **RISK DISCLOSURES**
 
-20.1. The minting, issuance and/or redemption of Falcon Stablecoins, and use of your Account and the Services involves risks and potential for financial losses. Such risks includes any operational, technological and security risks that may be caused by any hacks or other forms of cyber-attack on the blockchain or the Platform, and any custody or issuer risk relating to the issuer of any Eligible Collateral, including any default, liquidation or collapse of such issuer.
+20.1. The minting, issuance and/or redemption of Falcon Assets, and use of your Account and the Services involves risks and potential for financial losses. Such risks includes any operational, technological and security risks that may be caused by any hacks or other forms of cyber-attack on the blockchain or the Platform, and any custody or issuer risk relating to the issuer of any Eligible Collateral, including any default, liquidation or collapse of such issuer.
 
-20.2. You hereby acknowledge that you have read and you understand the Risk Disclosure Statement which sets out a non-exhaustive list of risks applicable to such activities. You hereby acknowledge and agree that under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any and all risks relating to the issuance or minting of Falcon Stablecoins, including the risks disclosed to you in the Risk Disclosure Statement.
+20.2. You hereby acknowledge that you have read and you understand the Risk Disclosure Statement which sets out a non-exhaustive list of risks applicable to such activities. You hereby acknowledge and agree that under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any and all risks relating to the issuance or minting of Falcon Assets, including the risks disclosed to you in the Risk Disclosure Statement.
 
 ### 21. **REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS**
 
@@ -422,7 +424,9 @@ b) your access and use of the Platform and/or the Services, and the performance 
 
 c) all the activities that you carry out during the use of the Services will be in compliance with the requirements of all Applicable Laws as well as the various policies of Falcon Finance;
 
-d) you shall not:
+d) you are not member of the public in the British Virgin Islands;
+
+e) you shall not:
 
 i) breach any of the terms and conditions of these Terms or any other agreements entered into pursuant to, or in connection with, these Terms;
 
@@ -454,17 +458,17 @@ xiv) use any device or software to interfere or attempt to monitor or interfere 
 
 xv) take any action that may cause us to lose any of the services from our internet service providers, or other suppliers;
 
-e) there is no pending claim, action, suit or proceedings at law or in equity (in any jurisdiction) before any court, tribunal, governmental body, agency, official or any arbitrator that is likely to affect the legality, validity or enforceability against you and/or the legal entity you act on behalf of, or your ability to perform the obligations under these Terms;
+f) there is no pending claim, action, suit or proceedings at law or in equity (in any jurisdiction) before any court, tribunal, governmental body, agency, official or any arbitrator that is likely to affect the legality, validity or enforceability against you and/or the legal entity you act on behalf of, or your ability to perform the obligations under these Terms;
 
-f) our claim against you and/or the legal entity you act on behalf of, under these Terms: (i) if unsecured, will rank at least pari passu with the claims of all your other unsecured and unsubordinated creditors, save for those whose claims are preferred solely by any bankruptcy, insolvency, liquidation or other similar laws of general application; or (ii) if secured, will rank in priority to the claims of all subsequent encumbrances, unless we otherwise agree in writing;
+g) our claim against you and/or the legal entity you act on behalf of, under these Terms: (i) if unsecured, will rank at least pari passu with the claims of all your other unsecured and unsubordinated creditors, save for those whose claims are preferred solely by any bankruptcy, insolvency, liquidation or other similar laws of general application; or (ii) if secured, will rank in priority to the claims of all subsequent encumbrances, unless we otherwise agree in writing;
 
-g) you and/or the legal entity you act on behalf of are generally subject to civil and commercial law and to legal proceedings, and neither you nor any of your assets or properties is entitled to any immunity or privilege from any set-off, suit, judgment, execution, attachment, injunction or other legal process; and
+h) you and/or the legal entity you act on behalf of are generally subject to civil and commercial law and to legal proceedings, and neither you nor any of your assets or properties is entitled to any immunity or privilege from any set-off, suit, judgment, execution, attachment, injunction or other legal process; and
 
-h) no proceedings have been commenced or threatened, and no order or declaration has been made, against you and/or the legal entity you act on behalf of for liquidation, winding up or bankruptcy, or for the appointment of a trustee in bankruptcy, judicial manager, administrator, receiver, liquidator, or similar officer to administer any or all of your assets and you and/or the legal entity you act on behalf of have not declared bankrupt or insolvent.
+i) no proceedings have been commenced or threatened, and no order or declaration has been made, against you and/or the legal entity you act on behalf of for liquidation, winding up or bankruptcy, or for the appointment of a trustee in bankruptcy, judicial manager, administrator, receiver, liquidator, or similar officer to administer any or all of your assets and you and/or the legal entity you act on behalf of have not declared bankrupt or insolvent.
 
 21.2. Should you breach any of the above representations, warranties and/or undertakings, Falcon Finance reserves the right to take any action against you or your Accounts, whether for a specified period of time or indefinitely, including:
 
-a) refusing to allow the minting, issuance or redemption of any Falcon Stablecoins;
+a) refusing to allow the minting, issuance or redemption of any Falcon Assets;
 
 b) suspending or terminating your Account;
 
@@ -516,15 +520,15 @@ e) use the Services, the Platform or the Materials to design, develop or create 
 
 ### 26. **NO SET-OFF**
 
-26.1. You agree and acknowledge that you may not set-off any claims arising under the Falcon Stablecoins against any claims that Falcon Finance may have against it.
+26.1. You agree and acknowledge that you may not set-off any claims arising under the Falcon Assets against any claims that Falcon Finance may have against it.
 
 ### 27. **SUBSTITUTION**
 
-27.1. Falcon Finance may, without your consent, at any time substitute itself in respect of all rights and obligations arising under or in connection with the Falcon Stablecoins with any legal entity of which all shares carrying voting rights are directly or indirectly held by Falcon Finance (the "**New Issuer**"), provided that:
+27.1. Falcon Finance may, without your consent, at any time substitute itself in respect of all rights and obligations arising under or in connection with the Falcon Assets with any legal entity of which all shares carrying voting rights are directly or indirectly held by Falcon Finance (the "**New Issuer**"), provided that:
 
-a) the New Issuer is able to fulfil all obligations arising from or in connection with the Falcon Stablecoins; and
+a) the New Issuer is able to fulfil all obligations arising from or in connection with the Falcon Assets; and
 
-b) Falcon Finance has issued an irrevocable and unconditional guarantee in respect of the obligations of the New Issuer under the Falcon Stablecoins.
+b) Falcon Finance has issued an irrevocable and unconditional guarantee in respect of the obligations of the New Issuer under the Falcon Assets.
 
 ### 28. **ELECTRONIC NOTICES**
 
@@ -574,7 +578,7 @@ These Terms may, at our sole and absolute discretion, be translated into a langu
 
 #### 31.7. **Potential Conflicts of Interest**
 
-You acknowledge and agree that we and our affiliates, shareholders, founders, principals, directors, officers, employees, and representatives or their respective affiliates (collectively, "**Related Persons**") may directly or indirectly use the Services or engage in transactions involving the Falcon Stablecoins for ourselves and themselves. You acknowledge and agree that we and Related Persons may have potential conflicts of interest. To the extent permitted by law, you hereby waive any claim against us or Related Parties alleging breach of fiduciary duties, conflict of interest, or other similar cause of action, relating to, in connection with, or arising out of our and/or any Related Parties directly or indirectly using the Services or engaging in transactions involving the Falcon Stablecoins.
+You acknowledge and agree that we and our affiliates, shareholders, founders, principals, directors, officers, employees, and representatives or their respective affiliates (collectively, "**Related Persons**") may directly or indirectly use the Services or engage in transactions involving the Falcon Assets for ourselves and themselves. You acknowledge and agree that we and Related Persons may have potential conflicts of interest. To the extent permitted by law, you hereby waive any claim against us or Related Parties alleging breach of fiduciary duties, conflict of interest, or other similar cause of action, relating to, in connection with, or arising out of our and/or any Related Parties directly or indirectly using the Services or engaging in transactions involving the Falcon Assets.
 
 #### 31.8. **Governing Law and Jurisdiction**
 
@@ -590,7 +594,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 1.1. Falcon Digital Limited ("**Falcon Finance**", "we", "our" or "us") is not currently licensed by any regulatory authority.
 
-1.2. This Risk Disclosure Statement outlines various risks related to the risks associated with Falcon Stablecoins and Falcon Finance's Services. However, it does not cover all potential risks or considerations. You are responsible for understanding the risks before engaging with our Services. Falcon Finance and its affiliates (the "**Indemnified Persons**") will not be liable for any direct, indirect, special, or consequential damages, including loss of profits, business, or opportunities, arising from your reliance on this Risk Disclosure Statement or use of our Services.
+1.2. This Risk Disclosure Statement outlines various risks related to the risks associated with Falcon Assets and Falcon Finance's Services. However, it does not cover all potential risks or considerations. You are responsible for understanding the risks before engaging with our Services. Falcon Finance and its affiliates (the "**Indemnified Persons**") will not be liable for any direct, indirect, special, or consequential damages, including loss of profits, business, or opportunities, arising from your reliance on this Risk Disclosure Statement or use of our Services.
 
 1.3. Unless otherwise defined herein, all capitalised terms in this Risk Disclosure Statement shall have the same meanings given to them in the USDf and sUSDf Terms and Conditions.
 
@@ -598,21 +602,21 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 2.1. The regulatory landscape for digital assets, including stablecoins, is evolving and uncertain. New laws and regulations may be enacted that could impact blockchain technology, digital assets, and related services. There is no assurance that such changes will not negatively affect our Services.
 
-2.2. Falcon Stablecoins may be classified as regulated financial instruments in certain jurisdictions, potentially requiring licensing or registration. Regulatory actions could force Falcon Finance to restrict, suspend, or cease the minting, issuance, or redemption of Falcon Stablecoins. Access to our Services may also be limited based on your location or citizenship to comply with regulations.
+2.2. Falcon Assets may be classified as regulated financial instruments in certain jurisdictions, potentially requiring licensing or registration. Regulatory actions could force Falcon Finance to restrict, suspend, or cease the minting, issuance, or redemption of Falcon Assets. Access to our Services may also be limited based on your location or citizenship to comply with regulations.
 
-2.3. Falcon Stablecoins are not legal tender and are not backed by any government or central bank. They do not benefit from government-sponsored insurance or protections. No authority manages their value during crises or adjusts their supply or demand.
+2.3. Falcon Assets are not legal tender and are not backed by any government or central bank. They do not benefit from government-sponsored insurance or protections. No authority manages their value during crises or adjusts their supply or demand.
 
 2.4. Falcon Finance reserves the right to suspend services or reject instructions as necessary to comply with Applicable Laws or directives from authorities.
 
 ### 3. **DIGITAL ASSET SECURITY RISKS**
 
-3.1. Digital assets, including Falcon Stablecoins, are vulnerable to security breaches or attacks, such as those exploiting computing power to disrupt blockchain operations. Falcon Finance provides no guarantees regarding blockchain functionality or protection against such breaches. You accept the risk of losses arising from security issues related to digital assets.
+3.1. Digital assets, including Falcon Assets, are vulnerable to security breaches or attacks, such as those exploiting computing power to disrupt blockchain operations. Falcon Finance provides no guarantees regarding blockchain functionality or protection against such breaches. You accept the risk of losses arising from security issues related to digital assets.
 
 ### 4. **DEPEG RISK**
 
-4.1. Falcon Stablecoins may experience depegging where their values deviate from their pegged value. This risk may stem from various factors such as market fluctuations, liquidity issues, regulatory constraints, erosion of market trust, financial events, operational difficulties, and technical problems like security breaches or network congestion.
+4.1. Falcon Assets may experience depegging where their values deviate from their pegged value. This risk may stem from various factors such as market fluctuations, liquidity issues, regulatory constraints, erosion of market trust, financial events, operational difficulties, and technical problems like security breaches or network congestion.
 
-4.2. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any Losses by reason of, or arising from, or as a consequence of, any risks associated with the depegging of Falcon Stablecoins.
+4.2. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any Losses by reason of, or arising from, or as a consequence of, any risks associated with the depegging of Falcon Assets.
 
 ### 5. **CYBERSECURITY RISKS**
 
@@ -630,15 +634,15 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 Unauthorized access to your Account could result in third parties issuing instructions without your consent. Falcon Finance is not responsible for losses caused by unauthorized access.
 
-7.2. If Falcon Stablecoins are sent to an incorrect or incompatible address, they may be irretrievably lost. Falcon Finance does not guarantee recovery and is not obligated to assist with recovery efforts. If Falcon Finance agrees to assist, it does so at its sole discretion and may charge additional fees. You will be responsible for all costs and liabilities incurred during recovery attempts, and you agree to indemnify Falcon Finance and its affiliates for any losses arising from such efforts.
+7.2. If Falcon Assets are sent to an incorrect or incompatible address, they may be irretrievably lost. Falcon Finance does not guarantee recovery and is not obligated to assist with recovery efforts. If Falcon Finance agrees to assist, it does so at its sole discretion and may charge additional fees. You will be responsible for all costs and liabilities incurred during recovery attempts, and you agree to indemnify Falcon Finance and its affiliates for any losses arising from such efforts.
 
 ### 8. **THIRD-PARTY RISK**
 
-8.1. Falcon Finance has no control over, and assumes no responsibility for, Falcon Stablecoins you receive from or transfer to third parties or for third-party services. Disputes or issues with third parties must be resolved directly with them.
+8.1. Falcon Finance has no control over, and assumes no responsibility for, Falcon Assets you receive from or transfer to third parties or for third-party services. Disputes or issues with third parties must be resolved directly with them.
 
 ### 9. **ERROR CORRECTION**
 
-9.1. Falcon Finance reserves the right to refuse minting, redemption, or issuance of Falcon Stablecoins or to reject instructions even after confirmation to address errors, including technical issues.
+9.1. Falcon Finance reserves the right to refuse minting, redemption, or issuance of Falcon Assets or to reject instructions even after confirmation to address errors, including technical issues.
 
 ### 10. **JURISDICTION RISK**
 
@@ -646,7 +650,7 @@ Unauthorized access to your Account could result in third parties issuing instru
 
 ### 11. **TAX RISK**
 
-11.1. Holding, issuing, or redeeming Falcon Stablecoins may result in tax obligations. You are responsible for consulting a tax advisor and ensuring compliance with all tax-related requirements.
+11.1. Holding, issuing, or redeeming Falcon Assets may result in tax obligations. You are responsible for consulting a tax advisor and ensuring compliance with all tax-related requirements.
 
 ### 12. **RISKS RELATED TO COMMUNICATIONS WITH FALCON FINANCE**
 
@@ -662,9 +666,9 @@ Unauthorized access to your Account could result in third parties issuing instru
 
 ### 15. **MISCELLANEOUS**
 
-15.1. The Risk Disclosure Statement is not exhaustive. Additional risks may exist that are not identified here. Falcon Finance and the Indemnified Persons are not liable for unforeseen risks or damages linked to Falcon Stablecoins or the Services.
+15.1. The Risk Disclosure Statement is not exhaustive. Additional risks may exist that are not identified here. Falcon Finance and the Indemnified Persons are not liable for unforeseen risks or damages linked to Falcon Assets or the Services.
 
-15.2. The information provided in this Risk Disclosure Statement does not substitute professional advice or constitute a recommendation to engage with Falcon Stablecoins. It is neither an offer nor solicitation for investment.
+15.2. The information provided in this Risk Disclosure Statement does not substitute professional advice or constitute a recommendation to engage with Falcon Assets. It is neither an offer nor solicitation for investment.
 
-15.3. By proceeding to utilize our Services, you hereby acknowledge and confirm that you and/or your representatives (i) have carefully read the above Risk Disclosure Statement; (ii) have fully analysed, understood and appreciated the risks associated with transacting in or otherwise engaging in our Services, Falcon Stablecoins, and any other products or services offered by Falcon Finance; (iii) have sought and obtained all professional advice (including tax, legal, financial, investment, accounting and other professional advice) as may be relevant and/or necessary; and (iv) are authorised and permitted, under all Applicable Laws, to enter into such transactions.
+15.3. By proceeding to utilize our Services, you hereby acknowledge and confirm that you and/or your representatives (i) have carefully read the above Risk Disclosure Statement; (ii) have fully analysed, understood and appreciated the risks associated with transacting in or otherwise engaging in our Services, Falcon Assets, and any other products or services offered by Falcon Finance; (iii) have sought and obtained all professional advice (including tax, legal, financial, investment, accounting and other professional advice) as may be relevant and/or necessary; and (iv) are authorised and permitted, under all Applicable Laws, to enter into such transactions.
 

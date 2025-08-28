@@ -25,13 +25,13 @@
 * [Rewards Distribution](rewards-distribution.md)
 * [Redemptions](redemptions.md)
 * [Collateral Acceptance & Risk Framework](collateral-acceptance-and-risk-framework.md)
+* [Insurance Fund](insurance-fund.md)
 * [Risk Management](risk-management/README.md)
   * [Transparency](risk-management/transparency.md)
   * [Insurance Fund](risk-management/insurance-fund.md)
 
 ## Resources
 
-* [Brand Assets](resources/brand-assets.md)
 * [App Guide](resources/app-guide/README.md)
   * [Navigating the Transfer Tab](resources/app-guide/navigating-the-transfer-tab/README.md)
     * [Deposit](resources/app-guide/navigating-the-transfer-tab/deposit/README.md)
@@ -59,6 +59,7 @@
 * [Audits](audits.md)
 * [Smart Contracts](smart-contracts.md)
 * [Terms of Use](terms-of-use.md)
+* [Brand Assets](resources/brand-assets.md)
 
 ***
 
