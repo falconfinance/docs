@@ -25,7 +25,6 @@
 * [Rewards Distribution](rewards-distribution.md)
 * [Redemptions](redemptions.md)
 * [Collateral Acceptance & Risk Framework](collateral-acceptance-and-risk-framework.md)
-* [Insurance Fund](insurance-fund.md)
 * [Risk Management](risk-management/README.md)
   * [Transparency](risk-management/transparency.md)
   * [Insurance Fund](risk-management/insurance-fund.md)
@@ -58,6 +57,7 @@
 * [FAQ](faq.md)
 * [Audits](audits.md)
 * [Smart Contracts](smart-contracts.md)
+* [Insurance Fund](resources/insurance-fund.md)
 * [Terms of Use](terms-of-use.md)
 * [Brand Assets](resources/brand-assets.md)
 
