@@ -13,7 +13,7 @@ Your Mindshare and Miles work together to push you up the Yap2Fly leaderboard, u
 | Reward            | Pool Size	              | Eligibility                                                                                   | Rewards Distribution                                                             |
 | ----------------- | ----------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | USDf Monthly Pool | 50,000 USDf every month | The Top 50 users in that month’s leaderboard. Rewards are split in proportion to each wallet. | Claimable right after the monthly snapshot; claim window stays open for 30 days. |
-| Special Rewards   | To be announced         | Top 200 Kaito Yappers and all wallets that stake $KAITO throughout the Yap2Fly campaign.      | Distributes right after the entire Yap2Fly campaign.                             |
+| Special Rewards   | To be announced         | Top 200 Yap2Fly users and all wallets that stake $KAITO throughout the Yap2Fly campaign.      | Distributes right after the entire Yap2Fly campaign.                             |
 
 ### Rewards Distribution&#x20;
 
