@@ -27,8 +27,6 @@ Throughout the process, users will be required to provide a range of personal in
     * Voter registration documents
     * Lease agreements
     * Official government-issued letters
-  * For Chinese citizens or residents, submitting bank statements is strongly recommended. Bank statements typically include your full legal name and residential address clearly, facilitating a more efficient verification process
-    * Utility bills from platforms such as WeChat or Alipay usually do not meet Falcon's requirements and often result in document resubmission and delays
 * Employment Status
 * Source of Funds
 * Political Exposure
