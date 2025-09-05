@@ -27,7 +27,7 @@
 * [Collateral Acceptance & Risk Framework](collateral-acceptance-and-risk-framework.md)
 * [Risk Management](risk-management/README.md)
   * [Transparency](risk-management/transparency.md)
-  * [Insurance Fund](risk-management/insurance-fund.md)
+  * [Extreme Events & Market-Stress Management](risk-management/extreme-events-and-market-stress-management.md)
 
 ## Resources
 
