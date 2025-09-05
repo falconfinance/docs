@@ -50,14 +50,6 @@ Documents submitted must:
 
 <details>
 
-<summary>I am a Chinese citizen or resident. What Proof of Address (PoA) documents should I submit? </summary>
-
-For Chinese citizens or residents, we strongly recommend submitting bank statements as your Proof of Address (PoA). Bank statements typically include your full legal name and residential address clearly, facilitating a more efficient verification process. Utility bills from platforms such as WeChat or Alipay usually do not meet these requirements and often result in document resubmission and delays. Your cooperation in providing bank statements greatly assists us in swiftly processing your verification.
-
-</details>
-
-<details>
-
 <summary>How long does the KYC/KYB Verification review process take? </summary>
 
 The verification review process typically ranges from just a few minutes to 5 business days.

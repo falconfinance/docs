@@ -60,6 +60,7 @@
 * [Insurance Fund](resources/insurance-fund.md)
 * [Terms of Use](terms-of-use.md)
 * [Brand Assets](resources/brand-assets.md)
+* [Roadmap](resources/roadmap.md)
 
 ***
 
