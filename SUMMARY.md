@@ -55,12 +55,12 @@
         * [Restaking with sUSDf](resources/app-guide/navigating-the-earn-tab/boosted-yield/restaking-for-boosted-yield/restaking-with-susdf.md)
       * [Unstaking from Boosted Yield](resources/app-guide/navigating-the-earn-tab/boosted-yield/unstaking-from-boosted-yield.md)
 * [FAQ](faq.md)
+* [Roadmap](resources/roadmap.md)
 * [Audits](audits.md)
 * [Smart Contracts](smart-contracts.md)
 * [Insurance Fund](resources/insurance-fund.md)
 * [Terms of Use](terms-of-use.md)
 * [Brand Assets](resources/brand-assets.md)
-* [Roadmap](resources/roadmap.md)
 
 ***
 
