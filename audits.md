@@ -1,7 +1,7 @@
 ---
 description: >-
-  Falcon Finance's smart contracts have undergone rigorous audits by Zellic &
-  Pashov. Read their reports & conclusions about the Falcon's security.
+  Falcon Finance's audits overview: smart contracts have undergone rigorous
+  audits by Zellic & Pashov. Read their reports & conclusions.
 ---
 
 # Audits

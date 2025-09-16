@@ -1,5 +1,7 @@
 ---
-description: Official Privacy Policy of the Falcon Finance synthetic dollar protocol
+description: >-
+  Official Privacy Policy of the Falcon Finance universal collateralization
+  protocol.
 ---
 
 # Privacy Policy

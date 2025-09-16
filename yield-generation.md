@@ -1,3 +1,9 @@
+---
+description: >-
+  A quick guide into yield-generation strategies in Falcon Finance: funding rate
+  & cross-exchange arbitrage, staking & liquidity pools.
+---
+
 # Yield Generation
 
 Unlike other synthetic dollar protocols that rely solely on positive funding rate arbitrage, yield distributed to USDf stakers is derived from multiple different sources. This approach ensures consistent yields regardless of market conditions.

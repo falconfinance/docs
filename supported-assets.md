@@ -1,5 +1,7 @@
 ---
-description: '(Last updated: 23th April 2025)'
+description: >-
+  List of supported digital assets in Falcon Finance, including stablecoins,
+  major non-stablecoin cryptocurrencies & real-world assets (RWA).
 ---
 
 # Supported Assets

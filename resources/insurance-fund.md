@@ -1,6 +1,12 @@
+---
+description: >-
+  Read about Falcon Finance's Insurance Fund: a special financial buffer to
+  safeguard the protocol against adverse market conditions.
+---
+
 # Insurance Fund
 
-The Insurance Fund is an on-chain, verifiable reserve maintained by Falcon Finance to provide an additional layer of protection for protocol users and to support orderly USDf markets during periods of exceptional stress. The fund is intended to grow alongside protocol adoption through periodic allocations.&#x20;
+The Insurance Fund is an onchain, verifiable reserve maintained by Falcon Finance to provide an additional layer of protection for protocol users and to support orderly USDf markets during periods of exceptional stress. The fund is intended to grow alongside protocol adoption through periodic allocations.&#x20;
 
 ### **Insurance Fund Address**
 

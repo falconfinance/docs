@@ -1,5 +1,7 @@
 ---
-description: Official Terms of Use of the Falcon Finance synthetic dollar protocol
+description: >-
+  Official Terms of Use of Falcon Finance, the universal collateralization
+  protocol.
 ---
 
 # Terms of Use

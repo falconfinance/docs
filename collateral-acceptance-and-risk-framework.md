@@ -1,3 +1,9 @@
+---
+description: >-
+  Read how Falcon Finance considers new crypto as collateral for minting USDf,
+  evaluating its liquidity, market depth & risk factors.
+---
+
 # Collateral Acceptance & Risk Framework
 
 Falcon Finance maintains a data‑driven framework for selecting the **Supported Collaterals** that can be pledged to mint USDf. The objective is to safeguard USDf’s peg and ensure that all accepted assets exhibit sufficient market liquidity, price transparency, and risk‑adjusted resilience.

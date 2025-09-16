@@ -1,3 +1,9 @@
+---
+description: >-
+  A guide into passing the Know-Your-Customer (KYC) procedure in Falcon Falcon:
+  requirements & verification to be able to make deposits or transactions.
+---
+
 # Know Your Customer (KYC)
 
 Prior to depositing, individual users will be required to undergo KYC (Know Your Customer) processes respectively. These are regulatory processes intended to verify the identity of Falcon's users, ensuring adherence to Anti-Money Laundering (AML) regulations and maintaining secure and compliant transaction practices.

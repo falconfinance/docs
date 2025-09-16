@@ -1,5 +1,7 @@
 ---
-description: Guide on how to compute your Miles
+description: >-
+  Learn about Falcon Miles, a massive program for rewarding users that perform
+  activities: mint, stake, restake, trade & provide liquidity in DeFi.
 ---
 
 # Falcon Miles

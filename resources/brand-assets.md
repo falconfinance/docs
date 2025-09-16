@@ -1,5 +1,7 @@
 ---
-description: Falcon Finance Logos for marketing usage
+description: >-
+  Falcon Finance brand assets: main brand logo, USDf & sUSDf logos & Perry the
+  Phalcon.
 ---
 
 # Brand Assets
