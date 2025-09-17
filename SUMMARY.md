@@ -6,6 +6,8 @@
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
 * [Falcon Miles](falcon-miles.md)
 * [Yap2Fly (Falcon x Kaito)](yap2fly-falcon-x-kaito.md)
+* [$FF Tokens](usdff-tokens/README.md)
+  * [$FF Token Claim Registration](usdff-tokens/usdff-token-claim-registration.md)
 
 ## Mechanism
 
