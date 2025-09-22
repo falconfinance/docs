@@ -59,7 +59,7 @@
 * [Frequently Asked Questions (FAQ)](resources/frequently-asked-questions-faq.md)
 * [Roadmap](resources/roadmap.md)
 * [Audits](audits.md)
-* [App Smart Contracts](resources/app-smart-contracts.md)
+* [Smart Contracts](resources/smart-contracts.md)
 * [Insurance Fund](resources/insurance-fund.md)
 * [Terms of Use](terms-of-use.md)
 * [Brand Assets](resources/brand-assets.md)
