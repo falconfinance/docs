@@ -30,7 +30,7 @@ The mentioned special rewards pool follows a step-based claim mechanism so that 
 3. Next 20% is claimable if you have collected 3 Bronze Badges and 4 Silver Badges.
 4. Following 20% is claimable if you have collected 3 Bronze Badges, 4 Silver Badges, and 4 Gold, Diamond, or Legendary Badges.
 
-_Note: Any USDf left unclaimed after 30 days returns to the Falcon treasury. Unclaimed Falcon tokens are redistributed to all Kaito Yappers and $KAITO stakers._
+_Note: Any USDf left unclaimed after 30 days returns to the Falcon treasury._&#x20;
 
 ### How to Participate?
 
