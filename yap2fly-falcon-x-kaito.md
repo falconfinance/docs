@@ -48,7 +48,7 @@ Interact with the Falcon app by minting USDf, staking sUSDf, adding liquidity, o
 
 3. Stake $KAITO&#x20;
 
-Stake any amount of $KAITO at any point during the campaign and you will qualify for a share of the end-of-campaign special rewards distribution. Leaderboard rank will not be required for stakers.
+Hold at least 5000 of sKAITO or YT-sKAITO during the campaign and you will qualify for a share of the end-of-campaign special rewards distribution. Leaderboard rank will not be required for stakers.
 
 
 
