@@ -16,10 +16,10 @@ Your Mindshare and Miles work together to push you up the Yap2Fly leaderboard, u
 
 ### Yap2Fly Rewards
 
-| Reward                                       | Pool Size	              | Eligibility                                                                                | Rewards Distribution                                                             |
-| -------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| USDf Monthly Pool                            | 50,000 USDf every month | The Top 50 users in that month’s leaderboard. Rewards are split in equally to each wallet. | Claimable right after the monthly snapshot; claim window stays open for 30 days. |
-| <p>Special Rewards<br>($FF Token Supply)</p> | To be announced         | Top 200 Yap2Fly users and wallets that hold sKAITO and YT-sKAITO.                          | Distributes after the end of the Yap2Fly campaign.                               |
+| Reward            | Pool Size	              | Eligibility                                                                                           | Rewards Distribution                                                             |
+| ----------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| USDf Monthly Pool | 50,000 USDf every month | The Top 50 users in that month’s leaderboard. Rewards are split in equally to each wallet.            | Claimable right after the monthly snapshot; claim window stays open for 30 days. |
+| Special Rewards   | 0.3% FF Token Supply    | Top 200 Yap2Fly users and wallets that hold at least 5000 sKAITO and YT-sKAITO during the campaign.   | Distributes after the end of the Yap2Fly campaign.                               |
 
 ### Rewards Distribution&#x20;
 
