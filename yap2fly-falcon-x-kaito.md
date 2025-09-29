@@ -30,7 +30,7 @@ The mentioned special rewards pool follows a step-based claim mechanism so that 
 3. Next 20% is claimable if you have collected 3 Bronze Badges and 4 Silver Badges.
 4. Following 20% is claimable if you have collected 3 Bronze Badges, 4 Silver Badges, and 4 Gold, Diamond, or Legendary Badges.
 
-_Note: Any USDf left unclaimed after 6 months will be redistributed equally to all eligible users in both the Yap2fly ranked users and Kaito Stakers._&#x20;
+_Note: Any USDf left unclaimed after 3 months will be redistributed equally to all eligible users in both the Yap2fly ranked users and Kaito Stakers._&#x20;
 
 
 
