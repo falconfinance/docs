@@ -8,6 +8,7 @@
 * [Yap2Fly (Falcon x Kaito)](yap2fly-falcon-x-kaito.md)
 * [$FF Token](usdff-token/README.md)
   * [$FF Token Claim Registration](usdff-token/usdff-token-claim-registration.md)
+  * [$FF Claims Distribution Guide](usdff-token/usdff-claims-distribution-guide.md)
 
 ## Mechanism
 
