@@ -9,6 +9,7 @@
 * [$FF Token](usdff-token/README.md)
   * [$FF Token Claim Registration](usdff-token/usdff-token-claim-registration.md)
   * [$FF Claims Distribution Guide](usdff-token/usdff-claims-distribution-guide.md)
+  * [$FF Token Exchange Listings](usdff-token/usdff-token-exchange-listings.md)
 
 ## Mechanism
 
