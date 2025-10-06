@@ -28,7 +28,15 @@ Official USDf Token Logo
 Official sUSDf Token Logo
 {% endfile %}
 
-## Perry the Phalcon
+## FF Logo Assets
+
+{% file src="../.gitbook/assets/FF PNG & SVG Logos.zip" %}
+
+## sFF Logo Assets&#x20;
+
+{% file src="../.gitbook/assets/sFF PNG & SVG Logos.zip" %}
+
+## Perry the Mascot
 
 {% file src="../.gitbook/assets/Perry the Phalcon.zip" %}
 Official Falcon Mascot PNG & SVG
