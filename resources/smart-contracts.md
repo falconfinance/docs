@@ -1,7 +1,7 @@
 ---
 description: >-
   Track the official smart contract addresses for Falcon Finance tokens &
-  Staking Rewards Distribution (USDf / sUSDf / Position NFT).
+  Staking Rewards Distribution.
 ---
 
 # Smart Contracts
