@@ -14,7 +14,7 @@ Always verify these addresses when interacting with Falcon Finance products to p
 
 ### BNB Smart Chain Mainnet
 
-<table><thead><tr><th width="218.03515625">Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>USDf</td><td>0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2</td></tr></tbody></table>
+<table><thead><tr><th width="218.03515625">Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>USDf</td><td><a href="https://bscscan.com/token/0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2">0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2</a></td></tr><tr><td>FF</td><td><a href="https://bscscan.com/address/0xac23b90a79504865d52b49b327328411a23d4db2">0xAC23B90A79504865D52B49B327328411a23d4dB2</a></td></tr></tbody></table>
 
 ### Security Reminder
 
