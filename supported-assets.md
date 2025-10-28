@@ -16,7 +16,7 @@ description: >-
 
 ### **Real-World Assets (RWA):**
 
-<table><thead><tr><th width="216.69140625">Token</th><th>Name</th></tr></thead><tbody><tr><td>XAUT</td><td>Tether Gold</td></tr><tr><td>TSLAX</td><td>Tesla xStock</td></tr><tr><td>CRCLX</td><td>Circle xStock</td></tr><tr><td>NVDAX</td><td>NVIDIA xStock</td></tr><tr><td>USTB</td><td>Superstate Short Duration US Government Securities Fund</td></tr></tbody></table>
+<table><thead><tr><th width="216.69140625">Token</th><th>Name</th></tr></thead><tbody><tr><td>XAUT</td><td>Tether Gold</td></tr><tr><td>TSLAX</td><td>Tesla xStock</td></tr><tr><td>CRCLX</td><td>Circle xStock</td></tr><tr><td>NVDAX</td><td>NVIDIA xStock</td></tr><tr><td>MSTRX</td><td>MicroStrategy xStock</td></tr><tr><td>SPYX</td><td>SP500 xStock</td></tr><tr><td>USTB</td><td>Superstate Short Duration US Government Securities Fund</td></tr></tbody></table>
 
 _For any other tokens not listed above, please reach out to the Falcon team for assistance._
 
