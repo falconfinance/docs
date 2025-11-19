@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-<figure><img src=".gitbook/assets/Screenshot 2025-04-16 at 4.23.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-16 at 4.23.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Falcon calculates and verifies yields generated daily across all of its strategies. The generated yields are used to mint new USDf. A portion of the newly minted USDf is deposited directly into Falcon's sUSDf ERC-4626 Vault, increasing the vault's existing sUSDf : USDf value over time. The rest of the newly minted USDf is staked into the vault as sUSDf, and allocated to users with Boosted Yield NFTs.
 
@@ -29,7 +29,7 @@ $$
 
 By utilizing the ERC-4626 standard, Falcon ensures that the sUSDf-to-USDf rate remains fully transparent and verifiable on-chain. Users can do so via Etherscan by following the below process:
 
-<figure><img src=".gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
 
 1. Visit the sUSDf contract on Etherscan: https://etherscan.io/address/0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0#readProxyContract
 2. Scroll to "convertToAssets" and input 1000000000000000000 (represents 1 sUSDf).

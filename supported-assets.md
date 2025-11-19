@@ -20,4 +20,4 @@ description: >-
 
 _For any other tokens not listed above, please reach out to the Falcon team for assistance._
 
-_For a comprehensive overview of Falcon Finance’s collateral-acceptance criteria, please refer to the_ [_Collateral Acceptance & Risk Framework_](collateral-acceptance-and-risk-framework.md)_._
+_For a comprehensive overview of Falcon Finance’s collateral-acceptance criteria, please refer to the_ [_Collateral Acceptance & Risk Framework_](mechanism/collateral-acceptance-and-risk-framework.md)_._

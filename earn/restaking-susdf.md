@@ -14,11 +14,11 @@ In exchange for boosted yield, Falcon allows users to restake their sUSDf holdin
 
 Falcon utilizes the ERC-721 NFT standard to record each user's unique restaked position, based on their staked sUSDf amount and selected fixed-term tenure. Viewable on Etherscan, each NFT will depict the details regarding users' unique locked positions.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2025-04-16 at 11.29.53 AM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-16 at 11.29.53 AM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="212">Term</th><th>Description</th></tr></thead><tbody><tr><td>Principal</td><td>Principal refers to the initial amount of sUSDf restaked by the user.</td></tr><tr><td>Rewards</td><td>Rewards refer to the amount of sUSDf accumulated as boosted yield.</td></tr><tr><td>Start Time</td><td>Start Time refers to the <a href="https://www.unixtimestamp.com/">Unix timestamp</a> of the user's time of restaking.</td></tr><tr><td>Duration</td><td>Duration refers to the total lock period selected by the user in seconds.</td></tr><tr><td>Maturity</td><td>Maturity refers to the <a href="https://www.unixtimestamp.com/">Unix timestamp</a> of the end of the lock period.</td></tr><tr><td>Status</td><td>Status reflects the current state of the user's locked position </td></tr></tbody></table>
 
 At the end of their selected fixed-term tenures, users will be able to redeem their ERC-721 NFTs for their balance of sUSDf, which includes their initial restaked amount and any accrued boosted yield.
 
-Refer to the [Boosted Yield](resources/quick-app-guide/navigating-the-earn-tab/boosted-yield/) section for further details on the restaking process.
+Refer to the [Boosted Yield](../resources/quick-app-guide/navigating-the-earn-tab/boosted-yield/) section for further details on the restaking process.
 

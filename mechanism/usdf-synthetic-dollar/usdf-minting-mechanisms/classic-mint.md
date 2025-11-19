@@ -24,4 +24,4 @@ An Express Mint is an extra feature provided for users using the Classic Mint me
   * This option requires users to pick between available fixed-term tenures, automatically staking their' USDf after it is minted, then restaking the returned sUSDf into the chosen vaults.
   * Users will receive an ERC-721 NFT representing their locked position instead of USDf or sUSDf at the end of the process
 
-Refer to the [sUSDf](../../susdf-yield-bearing-token.md) and [Restaking](../../../restaking-susdf.md) sections for further details on staking and restaking respectively.
+Refer to the [sUSDf](../../../earn/susdf-yield-bearing-token.md) and [Restaking](../../../earn/restaking-susdf.md) sections for further details on staking and restaking respectively.

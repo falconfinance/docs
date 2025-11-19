@@ -20,18 +20,19 @@
     * [Innovative Mint](mechanism/usdf-synthetic-dollar/usdf-minting-mechanisms/innovative-mint.md)
   * [Overcollateralization Ratio](mechanism/usdf-synthetic-dollar/overcollateralization-ratio.md)
   * [USDf Peg Stability](mechanism/usdf-synthetic-dollar/usdf-peg-stability.md)
-* [sUSDf (Yield-Bearing Token)](mechanism/susdf-yield-bearing-token.md)
+* [Redemptions](mechanism/redemptions.md)
+* [Collateral Acceptance & Risk Framework](mechanism/collateral-acceptance-and-risk-framework.md)
+* [Risk Management](mechanism/risk-management/README.md)
+  * [Transparency](mechanism/risk-management/transparency.md)
+  * [Extreme Events & Market-Stress Management](mechanism/risk-management/extreme-events-and-market-stress-management.md)
 
-***
+## Earn
 
-* [Restaking sUSDf](restaking-susdf.md)
-* [Yield Generation](yield-generation.md)
-* [sUSDf Yield Distribution](susdf-yield-distribution.md)
-* [Redemptions](redemptions.md)
-* [Collateral Acceptance & Risk Framework](collateral-acceptance-and-risk-framework.md)
-* [Risk Management](risk-management/README.md)
-  * [Transparency](risk-management/transparency.md)
-  * [Extreme Events & Market-Stress Management](risk-management/extreme-events-and-market-stress-management.md)
+* [sUSDf (Yield-Bearing Token)](earn/susdf-yield-bearing-token.md)
+* [Restaking sUSDf](earn/restaking-susdf.md)
+* [Yield Generation](earn/yield-generation.md)
+* [sUSDf Yield Distribution](earn/susdf-yield-distribution.md)
+* [Staking Vaults](earn/staking-vaults.md)
 
 ## Resources
 
