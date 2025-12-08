@@ -14,7 +14,7 @@ Always verify these addresses when interacting with Falcon Finance products to p
 
 ### BNB Smart Chain Mainnet
 
-<table><thead><tr><th width="218.03515625">Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>USDf</td><td><a href="https://bscscan.com/token/0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2">0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2</a></td></tr><tr><td>FF</td><td><a href="https://bscscan.com/address/0xac23b90a79504865d52b49b327328411a23d4db2">0xAC23B90A79504865D52B49B327328411a23d4dB2</a></td></tr><tr><td>ESPORTS Staking Vault</td><td><a href="https://bscscan.com/address/0xf39e4b21c84e737df08e2c3b32541d856f508e48">0xF39e4b21c84e737Df08e2C3b32541d856f508E48</a></td></tr></tbody></table>
+<table><thead><tr><th width="218.03515625">Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>USDf</td><td><a href="https://bscscan.com/token/0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2">0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2</a></td></tr><tr><td>FF</td><td><a href="https://bscscan.com/address/0xac23b90a79504865d52b49b327328411a23d4db2">0xAC23B90A79504865D52B49B327328411a23d4dB2</a></td></tr><tr><td>ESPORTS Staking Vault</td><td><a href="https://bscscan.com/address/0xf39e4b21c84e737df08e2c3b32541d856f508e48">0xF39e4b21c84e737Df08e2C3b32541d856f508E48</a></td></tr><tr><td>VELVET Staking Vault </td><td><a href="https://bscscan.com/address/0x2704b216a42b8ed40ae9f4ab4072151a8eb257a7">0x2704B216a42b8ED40AE9f4AB4072151a8Eb257A7</a></td></tr></tbody></table>
 
 ### XDC Network
 
