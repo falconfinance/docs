@@ -229,8 +229,7 @@ To use the Services, you must be 18 years of age or older and must not be a "Pro
 
 The term also applies to any individual or entity that is otherwise restricted under the laws of the United States, the European Union (or any of its Member States), the United Kingdom, Switzerland, or any other applicable jurisdiction. Furthermore, any person or entity owned or controlled by individuals or organizations listed as "Prohibited Persons" also qualifies as a "Prohibited Person." The Company may use tools such as IP-based geofencing or other technologies to enforce these restrictions. By accessing or using the Services, you confirm and represent that you are not a "Prohibited Person."
 
-\
-
+<br>
 
 </details>
 
@@ -278,5 +277,160 @@ Managed through a multi-signature setup involving Falcon’s internal team and e
 
 </details>
 
+## Perryverse NFT
+
+<details>
+
+<summary>What is a Perry Egg?</summary>
+
+A Perry Egg is the initial NFT you receive when minting from the Perryverse collection. It must be hatched (burned) to reveal your Perry NFT with its unique traits.
 
 
+
+</details>
+
+<details>
+
+<summary>Do I have to hatch my egg?</summary>
+
+Hatching is optional but required to earn trait-based Miles multipliers. Unhatched eggs do not qualify for the rotating multiplier system.
+
+
+
+</details>
+
+<details>
+
+<summary>Can I trade my Perry after hatching?</summary>
+
+Yes. Perry NFTs are fully tradeable on OpenSea . When you sell your Perry, the new owner receives all associated multiplier benefits.
+
+
+
+</details>
+
+<details>
+
+<summary>How often do multipliers rotate?</summary>
+
+Boosted traits rotate every **3 weeks**. New boosted traits are announced at the start of each rotation cycle.
+
+
+
+</details>
+
+<details>
+
+<summary>What happens if my Perry doesn't have any boosted traits this rotation?</summary>
+
+Your Perry will still be eligible for future rotations. The 3-week cycle ensures different trait combinations are regularly featured.
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Can I earn more than 20M Miles per day from Perryverse?</summary>
+
+No. The daily cap for trait-based Miles from Perryverse is 20M Miles per day. However, you can earn additional Miles from other activities (staking, DeFi, referrals) which have separate calculations.
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>How do I check which traits are currently boosted?</summary>
+
+Boosted traits are announced via official Falcon Finance channels (X, Discord) at the start of each 3-week rotation. The Falcon App also displays current boosted traits.
+
+
+
+
+
+</details>
+
+## sFF Token
+
+<details>
+
+<summary>What is the difference between FF and sFF?</summary>
+
+FF is Falcon Finance's governance token, enabling holders to vote on protocol proposals and participate in governance decisions. sFF is staked FF that earns yield, receives boosted Miles multipliers, and retains governance voting rights once live. Please refer to the [governance ](https://docs.falcon.finance/~/revisions/zoG40VQk1Wr5zQ5uwjmT/sff-token/governance)page for more information
+
+</details>
+
+<details>
+
+<summary>Is there a minimum staking amount?</summary>
+
+There is no minimum amount required to stake FF. You can stake any amount of FF tokens.
+
+
+
+</details>
+
+<details>
+
+<summary>Can I unstake at any time?</summary>
+
+Yes. sFF features instant unstaking with a 3 day cooldown period. You can convert sFF back to FF whenever you choose.
+
+
+
+</details>
+
+<details>
+
+<summary>Do I need to claim my yield manually?</summary>
+
+Yield accrues automatically to your position based on the APY. Upon unstaking your sFF, all yield accrued will be credited to your account. Please refer to the [unstaking](https://docs.falcon.finance/~/revisions/33WJZvlco9J50AWrH5n9/sff-token/staking-mechanics) page for more information.
+
+
+
+</details>
+
+<details>
+
+<summary>Will my Miles multiplier change if I add more FF?</summary>
+
+Yes. Adding more FF to your staked position will earn Miles at the current multiplier rate
+
+</details>
+
+## Falcon Miles season 2
+
+<details>
+
+<summary>When did Season 2 launch?</summary>
+
+Season 2 launched on **September 29, 2025**, alongside the FF Token Generation Event (TGE).
+
+
+
+</details>
+
+<details>
+
+<summary>What happened to my Season 1 Miles?</summary>
+
+Season 1 Miles remain visible in your account. Season 2 introduces new earning opportunities to accumulate Falcon miles.
+
+
+
+</details>
+
+<details>
+
+<summary>Can I get the 160x bonus again if I unstake and restake?</summary>
+
+The 160x bonus applies to the first 7 days after you stake FF for sFF. After which, the on-going multiplier will be 80x.
+
+
+
+</details>

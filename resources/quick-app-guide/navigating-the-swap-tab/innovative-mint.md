@@ -41,7 +41,7 @@ Use the chart and efficiency indicators to understand your selected risk range a
 
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4: Enable Auto-Staking (optional)**&#x20;
 
@@ -61,4 +61,4 @@ Ensure all values are accurate and aligned with your intended strategy as this a
 
 Once confirmed, submit your request. All Innovative Mint positions are subject to manual approval by Falcon. While the SLA is 24 hours, most requests are processed within minutes.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

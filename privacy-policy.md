@@ -10,11 +10,9 @@ Latest update: March 13th, 2025
 
 ### **1. Overview**
 
-Falcon Finance is committed to protecting the privacy and security of your personal and institutional information. Our privacy policy (this “Privacy Policy”) explains how we collect, use, store, and disclose your information when you access or use the Platform, the Services or the Falcon Stablecoins, or any related services, tools, and features (collectively, the "Falcon Services") .\
+Falcon Finance is committed to protecting the privacy and security of your personal and institutional information. Our privacy policy (this “Privacy Policy”) explains how we collect, use, store, and disclose your information when you access or use the Platform, the Services or the Falcon Stablecoins, or any related services, tools, and features (collectively, the "Falcon Services") .<br>
 
-
-By agreeing to the USDf and sUSDf Terms and Conditions \*the “Terms”), you also agree to the terms of our Privacy Policy. Unless otherwise defined herein, all capitalised terms in this Privacy Policy shall have the same meanings given to them in the Terms.\
-
+By agreeing to the USDf and sUSDf Terms and Conditions \*the “Terms”), you also agree to the terms of our Privacy Policy. Unless otherwise defined herein, all capitalised terms in this Privacy Policy shall have the same meanings given to them in the Terms.<br>
 
 We process your data in accordance with Applicable Laws, including the General Data Protection Regulation (the “GDPR”). Please read this Privacy Policy carefully. By using, accessing, or downloading any of the Falcon Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use, access, or download any of the Falcon Services.
 
@@ -154,4 +152,4 @@ Your information may be transferred to and processed in countries outside of you
 
 ### 12. Changes to Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting a notice on our website or through other appropriate means. Your continued use of the Falcon Services after any such changes constitutes your acceptance of the updated Privacy Policy. If you do not agree to any changes in the Privacy Policy, you must stop using the Falcon Services.\
+We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting a notice on our website or through other appropriate means. Your continued use of the Falcon Services after any such changes constitutes your acceptance of the updated Privacy Policy. If you do not agree to any changes in the Privacy Policy, you must stop using the Falcon Services.<br>
