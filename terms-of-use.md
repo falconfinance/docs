@@ -8,9 +8,9 @@ description: >-
 
 **TERMS AND CONDITIONS**
 
-Last Updated: 28 August 2025
+Last Updated: 17 July 2026
 
-These USDf and sUSDf Terms and Conditions (these "**Terms**") constitute a legally binding agreement between you and Falcon Digital Limited ("**Falcon Finance**", "we", "our" or "us"). These Terms govern your use of the Account in respect of the Services.
+These USDf and sUSDf Terms and Conditions (these "**Terms**") constitute a legally binding agreement between you, Falcon Digital Limited and its affiliates ("**Falcon Finance**", "we", "our" or "us"). These Terms govern your use of the Account in respect of the Services.
 
 By registering for an Account, accessing the Platform, using the Services and/or holding the Falcon Assets, you agree that you have read, understood and accepted these Terms, together with any additional documents or terms referred to in these Terms, which includes the Risk Disclosure Statement and the Privacy Policy. You acknowledge and agree that you will be bound by and will comply with these Terms, as updated and amended from time to time. If you do not understand and accept these Terms in their entirety, you should not register for an Account or access or use the Platform or any Service.
 
@@ -26,11 +26,21 @@ In these Terms, unless the context otherwise requires:
 
 * **"Account"** means one or more accounts in your name opened with Falcon;
 * **"Applicable Laws"** means any and all applicable laws, statutes and regulations, and any and all directives, notices, guidelines codes, practice notes, circulars, policy statements, rules, ordinances, orders, requests, requirements, judgements, decrees or writs (in each case whether or not having the force of law) of any governmental, regulatory or judicial body or agency having jurisdiction over any of the parties to these Terms (including any and all Users and Falcon) or any of the subject matters of these Terms;
+* **“Authorised Cardholder”** means the person authorised to hold and use a Card and to operate the related Card Account as a permitted user, having satisfied the eligibility and onboarding requirements referred to in Clause 4.2. For the purposes of the Card Services, references to “you” mean the Authorised Cardholder;
+* **“Card”** means the virtual payment card issued by the Card Issuer to Falcon Finance for use by an Authorised Cardholder in connection with the Card Services, linked to the relevant Card Account;
+* **“Card Account”** means the individual account record maintained by the Card Issuer for each Card issued, within the aggregate settlement account held by the Card Issuer in the name of Falcon Finance, and made available to the relevant Authorised Cardholder for the purposes of the Card Services;
+* **“Card Balance”** means the amount of USDf that an Authorised Cardholder has transferred from his/her Account to his/her Card Account by way of a Card Balance Transfer;
+* **“Card Balance Transfer”** means the process, instructed by an Authorised Cardholder via the Platform, by which USDf held in his/her Account is transferred, to his/her Card Account to fund Card Balance;
+* **“Card Services”** means the Card issuance, Card Account opening and maintenance, enablement and maintenance of a Card Balance, Card Transaction processing, and related services made available to Authorised Cardholders by Falcon Finance through the Card Issuer in connection with the Platform;
+* **“Card Issuer”** means the third-party Electronic Money Institution and Visa principal member (or equivalent Visa scheme participant) appointed by Falcon Finance from time to time to provide the Card Services;
+* **“Card Transaction”** means any online or offline payment or purchase, or other financial transaction, made using a Card or charged to a Card Account;
+* **“Electronic Money Institution“** means a firm authorised under the Electronic Money Regulations 2011 (or equivalent regulation in its home jurisdiction) to issue electronic money;
+* **“Falcon Assets”** means USDf, sUSDf and any other digital assets issued by Falcon Finance from time to time, including Falcon Points where the context requires;
 * **"Falcon Finance Protocol"** means our synthetic dollar protocol designed to deliver institutional-grade yields through basis spread, funding rate arbitrage and advanced risk-adjusted trading strategies;
 * **"Falcon Points"** means the points earned by users through staking USDf in accordance with the loyalty and rewards program of Falcon Finance, which may be redeemed for various benefits as determined by Falcon Finance;
 * **"Mint Term"** means the fixed duration during which collateral is pledged to Falcon Finance. The Mint Term is selected by the user at the time of issuance and may range from predefined options (e.g., 90, 180, or 365 days) or other durations stipulated by Falcon Finance. During this period, the pledged collateral remains locked until the term concludes, at which point the deposit reaches maturity;
-* **"Maturity"** means the specific time and date when a deposit or mint under Falcon Finance, such as the Innovative Mint Program, reaches the end of its selected Mint Term. The Mint Term represents the fixed duration during which collateral is pledged, as chosen by the user (e.g., 90, 180, or 365 days) or as otherwise stipulated by Falcon Finance. The Spot rice at this precise moment is considered the price "at maturity.";
-* **"Restricted Jurisdictions"** means Afghanistan, Algeria, Angola, Bolivia, Burkina Faso, Cameroon, Central African Republic, China, Côte d’Ivoire, Crimea and Sevastopol, Donetsk People’s Republic (DNR) and Luhansk People’s Republic (LNR), Cuba, Democratic People’s Republic of Korea, Democratic Republic of the Congo, Eritrea, Haiti, Islamic Republic of Iran, Iraq, Libya, Lebanon, Mali, Myanmar/Burma, Mozambique, Namibia, Republic of Belarus, Russian Federation, Singapore, Somalia, South Sudan, Sudan, Syria,Tanzania, Venezuela, United States of America, Yemen, Zaporizhzhia and Kherson oblasti of Ukraine and any jurisdiction in which the entry into these Terms is prohibited by Applicable Laws, and any jurisdiction which is subject to United States, United Nations or other applicable sanctions or embargoes.;
+* **"Maturity"** means the specific time and date when a deposit or mint under Falcon Finance, such as the Innovative Mint Program, reaches the end of its selected Mint Term. The Mint Term represents the fixed duration during which collateral is pledged, as chosen by the user (e.g., 90, 180, or 365 days) or as otherwise stipulated by Falcon Finance. The Spot price at this precise moment is considered the price "at maturity.";
+* **"Restricted Jurisdictions"** means Afghanistan, Algeria, Angola, Bolivia, Burkina Faso, Cameroon, Central African Republic, China, Côte d’Ivoire, Crimea and Sevastopol, Donetsk People’s Republic (DNR) and Luhansk People’s Republic (LNR), Cuba, Democratic People’s Republic of Korea, Democratic Republic of the Congo, Eritrea, Haiti, Islamic Republic of Iran, Iraq, Libya, Lebanon, Mali, Myanmar/Burma, Mozambique, Namibia, Republic of Belarus, Russian Federation, Singapore, Somalia, South Sudan, Sudan, Syria,Tanzania, Venezuela, United States of America, Yemen, Zaporizhzhia and Kherson oblasti of Ukraine and any jurisdiction in which the entry into these Terms is prohibited by Applicable Laws, and any jurisdiction which is subject to United States, United Nations or other applicable sanctions or embargoes;and any other jurisdiction designated by Falcon Finance from time to time by notice on the Website, such designation taking effect upon publication;
 * **"Person"** means an individual or legal entity or person;
 * **"Platform"** means the platform operated by Falcon Finance that provides you with access to the Services;
 * **"Primary User"** means any user of Services provided by Falcon Finance in respect of the Account;
@@ -52,11 +62,11 @@ In these Terms, unless the context or subject otherwise requires:
 5. references to "Recitals", "Clauses", "Schedules" and "Rows" are to be construed as references to the recitals, clauses, schedules, and rows of/to these Terms; and
 6. any reference to a statutory provision shall include such provision as from time to time modified or re-enacted and any regulations made in pursuance thereto as from time to time modified or re-enacted after the date of these Terms and shall also include any provision in any other statute which replaces that present statutory provision.
 
-### 2. **FALCON STABLECOINS**
+### 2. **FALCON ASSETS**
 
 #### 2.1. **USDf: The Base Synthetic Dollar**
 
-USDf is a fully collateral-backed or backed by the assets made available to Falcon Finance under repurchase agreement (or any agreement of similar nature) synthetic dollar minted when Users deposit/provides a variety of digital assets (including tokenized real-world assets (the “RWAs”)) as determined by Falcon Finance in its sole discretion from time to time (the “Eligible Collateral”), such as stablecoins or blue-chip tokens, into the Falcon Finance Protocol. USDf serves as the base token in the system and can be staked to mint sUSDf. It acts as a fully collateral-backed synthetic dollar token that can be used as a store of value, a medium of exchange, and a unit of account.
+USDf is fully collateral-backed or backed by the assets made available to Falcon Finance under repurchase agreement (or any agreement of similar nature) synthetic dollar minted when Users deposit/provide a variety of digital assets (including tokenized real-world assets (the “RWAs”)) as determined by Falcon Finance in its sole discretion from time to time (the “Eligible Collateral”), such as stablecoins or blue-chip tokens, into the Falcon Finance Protocol USDf serves as the base token in the system and can be staked to mint sUSDf. It acts as a fully collateral-backed synthetic dollar token that can be used as a store of value, a medium of exchange, and a unit of account.
 
 #### 2.2. **sUSDf: The Yield-Bearing Asset**
 
@@ -72,7 +82,8 @@ sUSDf is a yield-bearing asset that is minted when USDf is staked on the Falcon 
 4. redeem USDf for the the originally deposited Eligible Collateral or other stablecoins;
 5. redeem sUSDf for USDf; and/or
 6. generate yield by staking USDf and/or sUSDf, and/or
-7. enrol and participate in any other services we offer to you
+7. subject to satisfying the additional eligibility and onboarding requirements referred to in Clause 4.2, apply to access and use the Card Services as an Authorised Cardholder; and/or
+8. enrol and participate in any other services we offer to you
 
 (collectively the "**Services**").
 
@@ -82,17 +93,88 @@ sUSDf is a yield-bearing asset that is minted when USDf is staked on the Falcon 
 
 3.4. By using any of the Services, you acknowledge and agree that the availability and functionality of these Services may be subject to limitations, delays, and other issues inherent in the use of blockchain technology and digital assets. Under no circumstances shall any of the Indemnified Persons be responsible for any losses or damages arising from such issues, and your use of the Services is at your own risk.
 
-### 4. **FEES AND CHARGES**
+### 4. CARD SERVICES
 
-4.1. We reserve the right to charge you fees in connection with the use of your Account and/or Services, and your maintenance, termination or cancellation of your Account. You agree to pay us any and all prevailing fees charged by us from time to time.
+#### 4.1 Structure and Role of Parties
 
-4.2. You also acknowledge and agree that we shall have sole and absolute discretion, at any time and from time to time, to impose new fees or adjust any existing fees. If you do not agree to any changes in fees, you may terminate your Account and cease using the Services, however, you expressly acknowledge and agree that any termination of your Account and ceasing to use the Services shall not affect or otherwise extinguish any accrued fees and charges which shall still be due and immediately payable to Falcon Finance upon termination of your Account and/or seizure to use the Services.
+1. Falcon Finance provides the Platform, onboards you as an Authorised Cardholder, processes your Card Balance Transfer instructions, and reflects your Card Balance (denominated in USDf) on the Platform, subject to Clause 4.5. Falcon Finance is not the Card issuer, and does not itself execute Card Transactions.
+2. The Card Issuer issues and maintains Cards and Card Accounts within Falcon Finance's aggregate account, and executes Card Transactions.
+3. You are authorised by Falcon Finance to use a Card, and to operate the related Card Account, as a permitted user.&#x20;
+4. You have no direct contractual relationship with the Card Issuer.&#x20;
+5. Falcon Finance is not liable for the acts, omissions, delays, or failures of the Card Issuer except as expressly stated in these Terms.
+6. The Card Services operate under a Visa-branded card programme run by the Card Issuer as a Visa principal member (or equivalent Visa scheme participant), and your use of the Card is subject to applicable Visa scheme rules as well as these Terms.
+7. By using the Card Services, you agree to comply with the restrictions the Card Issuer or applicable Visa scheme rules impose on Falcon Finance, including as to permitted uses, geographic restrictions, and transaction limits. Your use of the Card Services is also governed by the arrangements between Falcon Finance and the Card Issuer for the issuance and administration of Cards (the “Issuer Arrangements”). You are not a party to the Issuer Arrangements and have no rights or obligations under them directly. Where these Terms do not address a matter the Issuer Arrangements cover, the relevant requirement of the Issuer Arrangements applies to your use of the Card Services and you agree to comply with it, whether or not Falcon Finance separately notifies you of it; Falcon Finance will, where practicable, make you aware of material requirements via the Platform or otherwise.
+8. Falcon Finance may suspend, restrict or terminate the Card Services, or your access to them, at any time and without prior notice; including where the Card Issuer or applicable Visa scheme rules require or request this, or where Falcon Finance otherwise decides to stop offering the Card Services.
 
-4.3. We pass-through transactional fees to Users. This can include transfer fees related to blockchain transactions. You are solely responsible for paying any transactional fees. In addition, fees may be imposed for transacting on the blockchain or by a third-party service provider that operates your funding source. Any fees imposed by your third-party service provider may not be reflected on the Platform as these fees are not imposed by us. You are solely responsible for paying any fees imposed by the third-party service provider on you and you expressly acknowledge and agree that you shall keep the Indemnified Persons fully indemnified and harmless against any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, fees imposed by such third-party service provider.
+#### 4.2 Eligibility, Onboarding and Card Accounts
 
-### 5. **ACCOUNT REGISTRATION**
+1. To access the Card Services and become an Authorised Cardholder, you must hold an Account in good standing and meet all eligibility criteria set by Falcon Finance, which reflect requirements imposed on Falcon Finance by the Card Issuer.
+2. You will be required to complete any additional identity verification, due diligence, or onboarding steps required by Falcon Finance or the Card Issuer. You authorise Falcon Finance to share such personal data with the Card Issuer as is necessary for this purpose.
+3. Falcon Finance will submit a Card issuance request to the Card Issuer on your behalf. Approval of that request is at the sole discretion of the Card Issuer, and neither Falcon Finance nor the Card Issuer is obliged to disclose reasons for declining a request. Falcon Finance will notify you of the outcome and does not guarantee that you will be approved as an Authorised Cardholder.
+4. Upon approval, a dedicated Card Account record will be established for you within Falcon Finance's aggregate settlement account held with the Card Issuer. Your Card Account records the funds available for your use, but does not constitute a legally separate electronic money account distinct from Falcon Finance's own account with the Card Issuer.
+5. You may only hold one Card Account in connection with your Account unless otherwise permitted.
 
-#### 5.1. **Eligibility**
+#### 4.3 Scope of Card Services
+
+The Card Services include:
+
+1. opening and maintaining a Card Account, and enabling a Card Balance denominated in USDf;
+2. issuing a virtual Card on the applicable Visa card network;
+3. processing Card Transactions for online and offline purchases and payments at merchants that accept the applicable card network; and
+4. such other services as Falcon Finance may make available through the Card Issuer from time to time.
+
+#### 4.4 Supported Currencies and Card Network
+
+1. You always pay for Card Transactions using your Card Balance, which is denominated in USDf. The Card Services do not support you holding, depositing, or withdrawing any fiat currency directly.&#x20;
+2. Where a Card Transaction is charged in USD, USDf is deducted from your Card Balance on a 1:1 basis. Where a Card Transaction is charged by a merchant in a fiat currency other than USD, the Card Issuer will convert the transaction amount into USD at its prevailing exchange rate applicable at the time of authorisation, and the corresponding amount will be deducted from your Card Balance in USDf on a 1:1 basis with USD. Such conversions may be subject to currency exchange and associated fees. Settlement of the Card Transaction may occur after the date of the purchase, and the exchange rate applied on final settlement may differ from that applied at authorisation.
+3. The Card is a virtual card issued on the Visa card network and can be used at points of acceptance for that network, subject to these Terms, applicable Visa scheme rules, and any geographic or merchant category restrictions.
+
+#### 4.5 Card Funding&#x20;
+
+1. Your Card Balance is denominated in USDf. To fund your Card Balance, you must first hold sufficient USDf in your Account and then instruct a Card Balance Transfer to move the desired amount of USDf from your Account to your Card Account. Only the amount reflected in your Card Balance is available for Card Transactions.
+2. When you instruct a Card Balance Transfer, Falcon Finance will move the specified amount of USDf from your Account to your Card Account. Moving USDf into your Card Account updates your Card Balance on the Platform. However, the availability of your Card Balance for Card Transactions is subject to the operation of the settlement and prefunding arrangements between Falcon Finance and the Card Issuer. Falcon Finance does not guarantee that your Card Balance will be usable immediately or without interruption at all times.
+3. Fees may apply to Card Transactions, including but not limited to currency conversion fees where a Card Transaction is made in a currency other than USD.
+4. You acknowledge and understand that your Card Account is not a bank account, deposit account, or savings account, and no interest accrues on or is payable in respect of any Card Balance.
+
+#### 4.6 Card Usage
+
+1. You may use the Card to make online and offline purchases and payments, subject to these Terms.
+2. You are responsible for all Card Transactions made using your Card and Card credentials.
+3. You must not use the Card for any unlawful purpose, or in connection with any activity that would breach these Terms, or applicable Visa scheme rules.
+4. Card Transactions may be declined, reversed, or frozen at the discretion of the Card Issuer, including for fraud prevention, regulatory compliance, or scheme-rule compliance. Falcon Finance will notify you where reasonably practicable.
+5. A Card Transaction will not be authorised, and will be declined, to the extent it would cause your Card Balance to be exceeded; the Card Services do not provide any credit, overdraft, or negative balance facility, and you may not spend more than the amount reflected in your Card Balance. Falcon Finance is not a party to, and has no liability in respect of, any transaction for the sale or supply of goods or services between you and any merchant; any dispute regarding the goods or services purchased using the Card must be resolved directly with the relevant merchant.
+
+#### 4.7 Liability and Limitations
+
+1. Falcon Finance's liability in respect of the Card Services is limited to the Platform, the Card issuance instructions, and the facilitation of your Card Balance Transfer.
+2. Under no circumstances shall any of the Indemnified Persons be liable for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs arising from the acts, omissions, insolvency, or operational failure of the Card Issuer, the card network, any acquiring bank or merchant.
+3. Under no circumstances shall any of the Indemnified Persons be liable for any Card Transaction declined, delayed, or reversed by the Card Issuer.
+4. Nothing in this Clause excludes or limits liability that cannot lawfully be excluded or limited.
+
+#### 4.8 Changes to the Card Issuer
+
+1. Falcon Finance may replace the Card Issuer with an alternative Electronic Money Institution, subject to and in accordance with its arrangements with the then-current Card Issuer.
+2. In the event of such change, Falcon Finance will notify you at least 730 days in advance or such shorter period as is practicable where the change results from circumstances outside Falcon Finance's control, providing details of the new Card Issuer and any changes to the Card Services on the Platform.
+3. Following such notification, continued use of the Card Services constitutes acceptance of the new arrangement. If you do not agree, you may close your Card Account before the change takes effect.
+
+#### 4.9 Suspension and Termination of Card Services
+
+1. Falcon Finance may suspend or terminate your access to the Card Services immediately if your Account is suspended, terminated, or restricted for any reason under these Terms.
+2. The Card Issuer may independently require Falcon Finance to suspend, restrict, or close a Card Account, including under applicable Visa scheme rules, and Falcon Finance will give effect to any such requirement.
+3. When your Card Account is closed, Falcon Finance will process the return of your available Card Account balance to you, net of any outstanding fees or amounts owed, within a reasonable period following closure.
+4. For the avoidance of doubt, Falcon Finance may in its sole discretion suspend or terminate the provision of the Card Services (in whole or in part) at any time, with or without cause and with or without prior notice, without liability to you save as required by applicable law.
+
+### 5. **FEES AND CHARGES**
+
+5.1. We reserve the right to charge you fees in connection with the use of your Account and/or Services, and your maintenance, termination or cancellation of your Account. You agree to pay us any and all prevailing fees charged by us from time to time.
+
+5.2. You also acknowledge and agree that we shall have sole and absolute discretion, at any time and from time to time, to impose new fees or adjust any existing fees. If you do not agree to any changes in fees, you may terminate your Account and cease using the Services, however, you expressly acknowledge and agree that any termination of your Account and ceasing to use the Services shall not affect or otherwise extinguish any accrued fees and charges which shall still be due and immediately payable to Falcon Finance upon termination of your Account and/or cessation of use the Services.
+
+5.3. We pass-through transactional fees to Users. This can include transfer fees related to blockchain transactions. You are solely responsible for paying any transactional fees. In addition, fees may be imposed for transacting on the blockchain or by a third-party service provider that operates your funding source. Any fees imposed by your third-party service provider may not be reflected on the Platform as these fees are not imposed by us. You are solely responsible for paying any fees imposed by the third-party service provider on you and you expressly acknowledge and agree that you shall keep the Indemnified Persons fully indemnified and harmless against any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, fees imposed by such third-party service provider.
+
+### 6. **ACCOUNT REGISTRATION**
+
+#### 6.1. **Eligibility**
 
 a) To be eligible to use any of the Services, the following conditions must be satisfied at all times:
 
@@ -120,7 +202,7 @@ c) We reserve the right to monitor and investigate any transactions or activitie
 
 d) In the event that Falcon Finance determines, in its sole discretion, that a User is a U.S. Person or has knowingly facilitated the sale or transfer of any Falcon Assets to a U.S. Person, Falcon Finance may take appropriate action, including but not limited to suspension or termination of the Account, or other actions that Falcon Finance sees fit.
 
-#### 5.2. **Restricted Locations, Access and Services**
+#### 6.2. **Restricted Locations, Access and Services**
 
 a) You may not use the Services if you are located in, or a citizen or resident of any Restricted Jurisdictions or any state, country, territory or other jurisdiction where your use of the products and services would be illegal or otherwise violate any Applicable Laws.
 
@@ -134,51 +216,51 @@ e) You accept and agree that you shall not attempt to access or otherwise engage
 
 f) You acknowledge and agree that neither USDf nor sUSDf and related services have been marketed, promoted, or actively offered to you within the European Union. Any decision to acquire or use USDf, sUSDf and/or the Services have been made solely at your own initiative. You confirm that you requested access to information and services related to USDf, sUSDf and/or the Services without having been solicited by Falcon Finance, its affiliates, or any distributors.
 
-#### 5.3. **Account Information**
+#### 6.3. **Account Information**
 
-e) Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
+a) Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
 
-d) Post-Account opening, you must ensure that such information provided to us continues to be truthful, accurate, complete, and up to date. You agree and undertake to keep us promptly updated in writing if any of the information you provided to us changes, or if there is any change in circumstance that may cause any such information provided to become outdated, false, inaccurate, or incomplete. Such updates in writing shall be provided no later than 5 calendar days after such changes have occurred.
+b) Post-Account opening, you must ensure that such information provided to us continues to be truthful, accurate, complete, and up to date. You agree and undertake to keep us promptly updated in writing if any of the information you provided to us changes, or if there is any change in circumstance that may cause any such information provided to become outdated, false, inaccurate, or incomplete. Such updates in writing shall be provided no later than 5 calendar days after such changes have occurred.
 
 c) By signing up for an Account, you hereby authorise us to make inquiries, whether directly or through third parties, to verify your identity or perform screening, or to protect you and/or us against fraud or other financial crimes, and to take any action that we reasonably deem necessary based on the results of such inquiries. When we carry out these inquiries, you acknowledge and agree that the information, documents and materials provided by you may be disclosed to credit bureaus, fraud prevention or financial crime agencies, operators of commercial databases or such other third-party background screening or identity verification operators, law enforcement agencies or other competent authorities.
 
-b) You hereby agree to permit us to keep a record of all such information for so long as we are required or permitted to do so under Applicable Laws, including after the termination of your Account. We will collect, use, disclose, process and/or store such information in accordance with our Privacy Policy.
+d) You hereby agree to permit us to keep a record of all such information for so long as we are required or permitted to do so under Applicable Laws, including after the termination of your Account. We will collect, use, disclose, process and/or store such information in accordance with our Privacy Policy.
 
-a) When registering your Account, you must provide current, complete, true and accurate information as required. You agree to provide us with any additional information, documents and/or materials we may request at any time that would facilitate our performance of customer due diligence, or compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences. In providing us with such information, you confirm (a) its accuracy, authenticity, and completeness, and (b) you have not withheld any information, document or material that may influence our evaluation of you for the purposes of registering or maintaining your Account or providing Services to you.
+e) When registering your Account, you must provide current, complete, true and accurate information as required. You agree to provide us with any additional information, documents and/or materials we may request at any time that would facilitate our performance of customer due diligence, or compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences. In providing us with such information, you confirm (a) its accuracy, authenticity, and completeness, and (b) you have not withheld any information, document or material that may influence our evaluation of you for the purposes of registering or maintaining your Account or providing Services to you.
 
-### 6. **ACCOUNT SECURITY**
+### 7. **ACCOUNT SECURITY**
 
-6.1. You must maintain the security and confidentiality of your account information, including Account number, registered name, email or phone number and any other sensitive information related to your Accounts (the "**Account Credentials**").
+7.1. You must maintain the security and confidentiality of your account information, including Account number, registered name, email or phone number and any other sensitive information related to your Accounts (the "**Account Credentials**").
 
-6.2. It is your sole responsibility to prevent any unauthorized access and/or use of your Account, and you shall take all reasonable measures (including physical, technical, and administrative safeguards) to prevent any unauthorized access and/or use thereof.
+7.2. It is your sole responsibility to prevent any unauthorized access and/or use of your Account, and you shall take all reasonable measures (including physical, technical, and administrative safeguards) to prevent any unauthorized access and/or use thereof.
 
-6.3. You will be bound by, and hereby authorise us, directly or through a third party, to accept and rely on, any agreements, instructions, orders, authorisations and any other actions made, provided or taken by anyone who has accessed or used your Account regardless of whether the access is authorised or unauthorised.
+7.3. You will be bound by, and hereby authorise us, directly or through a third party, to accept and rely on, any agreements, instructions, orders, authorisations and any other actions made, provided or taken by anyone who has accessed or used your Account regardless of whether the access is authorised or unauthorised.
 
-6.4. You shall be solely responsible and liable for all direct, indirect, special, or consequential losses (including loss of profits, business, or opportunities), damages, or costs you incur that arise from or in connection with any failure by you to comply with this Clause.
+7.4. You shall be solely responsible and liable for all direct, indirect, special, or consequential losses (including loss of profits, business, or opportunities), damages, or costs you incur that arise from or in connection with any failure by you to comply with this Clause.
 
-6.5. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any:
+7.5. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any:
 
-a) access to and/or use of (whether authorised or not) any of your Accounts by any Person;
+&#x20;a) access to and/or use of (whether authorised or not) any of your Accounts by any Person;
 
-b) breach of security affecting your Accounts;
+&#x20;b) breach of security affecting your Accounts;
 
-c) operations effected by you or purported to be effected by you through your Accounts or otherwise referable to your Accounts;
+&#x20;c) operations effected by you or purported to be effected by you through your Accounts or otherwise referable to your Accounts;
 
-d) damage or interruptions caused by any computer viruses, bugs, spyware, scareware, Trojan horses, worms, malware, or other malicious code; and/or
+&#x20;d) damage or interruptions caused by any computer viruses, bugs, spyware, scareware, Trojan horses, worms, malware, or other malicious code; and/or
 
-e) any disclosure of any Account Credentials by you to any person.
+&#x20;e) any disclosure of any Account Credentials by you to any person.
 
-6.6. If you have any knowledge of or any reason to suspect that there may have been any unauthorised access to and/or use of your Accounts and/or Account Credentials, you must:
+7.6. If you have any knowledge of or any reason to suspect that there may have been any unauthorised access to and/or use of your Accounts and/or Account Credentials, you must:
 
-a) immediately notify us as at compliance@falcon.finance and take such steps as may be necessary to prevent any further unauthorised access to and/or use of your Accounts and/or Account Credentials. This includes the freezing of your Accounts through the Platform;
+&#x20;a) immediately notify us as at compliance@falcon.finance and take such steps as may be necessary to prevent any further unauthorised access to and/or use of your Accounts and/or Account Credentials. This includes the freezing of your Accounts through the Platform;
 
-b) continue to provide accurate and up to date information as we may request throughout the duration of the incident; and
+&#x20;b) continue to provide accurate and up to date information as we may request throughout the duration of the incident; and
 
-c) take any steps that we may require to mitigate, manage, or report any such incident.
+&#x20;c) take any steps that we may require to mitigate, manage, or report any such incident.
 
-### 7. **ACCOUNT SUSPENSION AND TERMINATION**
+### 8. **ACCOUNT SUSPENSION AND TERMINATION**
 
-7.1. You agree that Falcon Finance shall have the right in its sole and absolute discretion, without prior notice and liability to you or any other third party, to refuse to allow the minting, issuance or redemption of any digital asset, immediately suspend, terminate or restrict your access to your Accounts, and/or suspend, terminate or restrict your access to any of the Services, whether for a specified period of time or indefinitely, for any reason or for no reason whatsoever, including where:
+8.1. You agree that Falcon Finance shall have the right in its sole and absolute discretion, without prior notice and liability to you or any other third party, to refuse to allow the minting, issuance or redemption of any digital asset, immediately suspend, terminate or restrict your access to your Accounts, and/or suspend, terminate or restrict your access to any of the Services, whether for a specified period of time or indefinitely, for any reason or for no reason whatsoever, including where:
 
 a) we are, in our sole opinion, required to do so by any Applicable Laws;
 
@@ -208,105 +290,115 @@ m) you have requested that we terminate or suspend the provision of any Services
 
 n) any other circumstance (including due to external market movements and conditions) has arisen where we consider it necessary to terminate or suspend any of its Services.
 
-7.2. You agree that you will continue to be responsible for all debts obligations related to your Account even after it is closed. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of the cancellation, suspension or termination of your Account and/or your access or use of our Services and Platform.
+8.2. You agree that you will continue to be responsible for all debts obligations related to your Account even after it is closed. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of the cancellation, suspension or termination of your Account and/or your access or use of our Services and Platform.
 
-**7.3.** Upon termination of an Account, whether by you or by us, you will lose access to all Services and features provided by the Platform. Under no circumstances shall any of the Indemnified Persons be liable for any losses, damages, or consequences resulting from the termination of any Account.
+**8.3.** Upon termination of an Account, whether by you or by us, you will lose access to all Services and features provided by the Platform. Under no circumstances shall any of the Indemnified Persons be liable for any losses, damages, or consequences resulting from the termination of any Account.
 
-### 8. **ISSUANCE AND REDEMPTION OF FALCON ASSETS**
+### 9. **ISSUANCE AND REDEMPTION OF FALCON ASSETS**
 
-8.1. Issuance of Falcon Assets
+9.1. Issuance of Falcon Assets
 
-a) For the Falcon Assets to be issued through the Platform, you must provide us with your wallet address and any other identity information or document as we may require for purposes of whitelisting such wallet address.
+&#x20;a) For the Falcon Assets to be issued through the Platform, you must provide us with your wallet address and any other identity information or document as we may require for purposes of whitelisting such wallet address.
 
-b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. A haircut ratio will be applied to certain types of Eligible Collateral, when calculating the amount of USDf that can be minted. Users acknowledge that Falcon Finance does not guarantee the stability or value of any assets and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing asset prices.
+&#x20;b) Users may mint USDf by depositing Eligible Collateral into the Falcon Finance Protocol. A haircut ratio will be applied to certain types of Eligible Collateral, when calculating the amount of USDf that can be minted. Users acknowledge that Falcon Finance does not guarantee the stability or value of any assets and accepts no liability for any discrepancies or losses arising from market volatility or external factors influencing asset prices.
 
-c) Once USDf has been minted, Users may stake their USDf in the Falcon Finance Protocol to receive sUSDf. The amount of sUSDf received is calculated based on the prevailing sUSDf-to-USDf ratio, which reflects the total supply of sUSDf relative to the total USDf staked and accumulated protocol yield.
+&#x20;c) Once USDf has been minted, Users may stake their USDf in the Falcon Finance Protocol to receive sUSDf. The amount of sUSDf received is calculated based on the prevailing sUSDf-to-USDf ratio, which reflects the total supply of sUSDf relative to the total USDf staked and accumulated protocol yield.
 
-d) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any processing delays in connection the issuance of Falcon Assets (including network or tech related errors), or your failure to provide us with the correct wallet address or instruction(s).
+&#x20;d) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any processing delays in connection the issuance of Falcon Assets (including network or tech related errors), or your failure to provide us with the correct wallet address or instruction(s).
 
-8.2. Redemption of Falcon Assets
+9.2. Redemption of Falcon Assets
 
-a) To redeem (i) USDf for a proportional amount of the original or adjusted amount of Eligible Collateral or other stablecoins at a 1:1 ratio, or (ii) sUSDf for USDf through the Platform, you must provide us with your wallet address and any other identity information document as we may require for whitelisting, screening and verification purposes. Upon receipt of your USDf or sUSDf and the completion of any processing, screening or verification checks, the corresponding amount of the originally deposited Eligible Collateral, stablecoins, RWAs or USDf (as applicable) will be transferred to your wallet address, subject to any applicable cooling period.
+&#x20;a) To redeem (i) USDf for a proportional amount of the original or adjusted amount of Eligible Collateral or other stablecoins at a 1:1 ratio, or (ii) sUSDf for USDf through the Platform, you must provide us with your wallet address and any other identity information document as we may require for whitelisting, screening and verification purposes. Upon receipt of your USDf or sUSDf and the completion of any processing, screening or verification checks, the corresponding amount of the originally deposited Eligible Collateral, stablecoins, RWAs or USDf (as applicable) will be transferred to your wallet address, subject to any applicable cooling period.
 
-b) The amount in the Eligible Collateral, RWAs, other stablecoins or USDf sent to your wallet address at redemption may be rounded down to the nearest unit at our discretion.
+&#x20;b) The amount in the Eligible Collateral, RWAs, other stablecoins or USDf sent to your wallet address at redemption may be rounded down to the nearest unit at our discretion.
 
-c) A minimum amount for redemption of Falcon Assets may be imposed by us, which may be changed from time to time at our sole and absolute discretion. We reserve the right not to process any redemption where such amount does not meet the minimum required amount.
+&#x20;c) A minimum amount for redemption of Falcon Assets may be imposed by us, which may be changed from time to time at our sole and absolute discretion. We reserve the right not to process any redemption where such amount does not meet the minimum required amount.
 
-d) While we are committed to providing efficient transaction processing for our Users, processing times may vary depending on various factors, including the blockchain network's congestion, transaction complexity, and required confirmation or settlement. While we strive to facilitate transactions promptly, we cannot guarantee immediate processing or completion of transactions.
+&#x20;d) While we are committed to providing efficient transaction processing for our Users, processing times may vary depending on various factors, including the blockchain network's congestion, transaction complexity, and required confirmation or settlement. While we strive to facilitate transactions promptly, we cannot guarantee immediate processing or completion of transactions.
 
-e) You are responsible for ensuring the accuracy of transaction details, including recipient addresses, amounts, and digital asset types. Once a transaction has been initiated, it cannot be reversed or modified. You must verify all transaction details before submitting them for processing.
+&#x20;e) You are responsible for ensuring the accuracy of transaction details, including recipient addresses, amounts, and digital asset types. Once a transaction has been initiated, it cannot be reversed or modified. You must verify all transaction details before submitting them for processing.
 
-f) We monitor and may review transactions to ensure compliance with our policies, as well as Applicable Laws. We reserve the right to delay, suspend, or cancel transactions that we suspect may involve illegal or fraudulent activities or that violate our terms and conditions. In such cases, we may be required to report the transaction to the relevant authorities.
+&#x20;f) We monitor and may review transactions to ensure compliance with our policies, as well as Applicable Laws. We reserve the right to delay, suspend, or cancel transactions that we suspect may involve illegal or fraudulent activities or that violate our terms and conditions. In such cases, we may be required to report the transaction to the relevant authorities.
 
-g) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any such termination, suspension or restriction of access to any Account, or any other action taken by any of the Indemnified Persons in connection with any processing delays in connection with the redemption of Falcon Assets (including network or tech related errors or delays), your failure to provide us with the correct wallet address, and any errors in your instructions or communications.
+&#x20;g) Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any such termination, suspension or restriction of access to any Account, or any other action taken by any of the Indemnified Persons in connection with any processing delays in connection with the redemption of Falcon Assets (including network or tech related errors or delays), your failure to provide us with the correct wallet address, and any errors in your instructions or communications.
 
-### 9. **INNOVATIVE MINT**
+### 10. **INNOVATIVE MINT**
 
-9.1. You may pledge/ provide a variety of listed altcoins (excluding stablecoins), as determined by Falcon Finance in its sole discretion from time to time (the "**Eligible Altcoins**"), as collateral (the "**Collateral**") on the Falcon Protocol in order to mint USDf (the "**Innovative Mint Program**").
+10.1. You may pledge/ provide a variety of listed altcoins (excluding stablecoins), as determined by Falcon Finance in its sole discretion from time to time (the "**Eligible Altcoins**"), as collateral (the "**Collateral**") on the Falcon Protocol in order to mint USDf (the "**Innovative Mint Program**").
 
-9.2. To participate in the Innovative Mint Program, you must pledge the Eligible Altcoins on the Falcon Protocol for a fixed period of time (the "**Mint Term**"), which may be 90, 180, or 365 days or as otherwise stipulated by us and selected by you. During the Mint Term, you shall have no right to request redemption, withdrawal, or transfer of the Collateral. You must also specify a liquidation price and strike price for the Collateral, which will determine the amount of USDf that we will provide to you in exchange for the Collateral and the outcomes upon maturity of the Mint Term, as described below.
+10.2. To participate in the Innovative Mint Program, you must pledge the Eligible Altcoins on the Falcon Protocol for a fixed period of time (the "**Mint Term**"), which may be 90, 180, or 365 days or as otherwise stipulated by us and selected by you. During the Mint Term, you shall have no right to request redemption, withdrawal, or transfer of the Collateral. You must also specify a liquidation price and strike price for the Collateral, which will determine the amount of USDf that we will provide to you in exchange for the Collateral and the outcomes upon maturity of the Mint Term, as described below.
 
-9.3. If, at any time during the Mint Term, the Spot Price of the collateralised Eligible Altcoin meets or falls below the specified liquidation price, Falcon Finance reserves the right to liquidate the Collateral immediately to cover the minted USDf, irrespective of the remaining tenure of the Mint Term. This means that should the liquidation price be met anytime during the Mint Term, the Collateral may be liquidated and sold in whole or in part by Falcon Finance, to recover the outstanding USDf without any prior notice to you.
+10.3. Notwithstanding anything else in these Terms, you acknowledge and agree that, upon your pledge of the Collateral to Falcon Finance under the Innovative Mint Program, the Collateral shall be under the discretion and control of Falcon Finance, and Falcon Finance shall have the absolute and unfettered right, at any time and from time to time during the Mint Term, without further notice to or consent from you, to use, hold, trade, sell, transfer, lend, stake, hypothecate, pledge, re-pledge, sell and repurchase, or otherwise deal with or dispose of the Collateral in any manner that Falcon Finance deems fit in its sole and absolute discretion. You acknowledge and agree that:&#x20;
 
-9.4. Such liquidation is necessary to mitigate the risk of insufficient Collateral value and ensure that Falcon Finance maintains its financial stability and obligations under the Innovative Mint Program. Upon liquidation you will permanently lose all rights and claims to the liquidated Collateral, as it will become the property of Falcon Finance. This process applies regardless of the time remaining in the Mint Term or any other conditions set at the time of participation in the Innovative Mint Program.
+(a)  such use, trading and disposal of the Collateral by Falcon Finance is independent of, and shall not in itself affect, your rights and obligations under this Clause 10, including your right (if any) to reclaim the Collateral upon Maturity in accordance with this Clause 10;&#x20;
 
-9.5. By participating in the Innovative Mint Program, you explicitly acknowledge and accept that the specified liquidation price serves as a critical threshold for risk management, and Falcon Finance retains full discretion to enforce liquidation policies to uphold the integrity of the Protocol.
+(b) Falcon Finance is under no obligation to hold, custody, segregate or maintain the specific units, tokens or type of Collateral pledged by you for the duration of the Mint Term, and may satisfy any obligation to return or apply the Collateral using equivalent assets of the same type and amount; and&#x20;
 
-9.6. If upon Maturity, the Spot Price of the collateralised Eligible Altcoin is above the specified strike price:
+(c) Falcon Finance's dealing with the Collateral in accordance with this Clause exposes you to the risk that Falcon Finance may be unable, whether due to insolvency, default of a counterparty, market conditions or otherwise, to redeliver equivalent Collateral to you, and you accept such risk as a condition of participating in the Innovative Mint Program.
+
+10.4. If, at any time during the Mint Term, the Spot Price of the collateralised Eligible Altcoin meets or falls below the specified liquidation price, Falcon Finance reserves the right to liquidate the Collateral immediately to cover the minted USDf, irrespective of the remaining tenure of the Mint Term. This means that should the liquidation price be met anytime during the Mint Term, the Collateral may be liquidated and sold in whole or in part by Falcon Finance, to recover the outstanding USDf without any prior notice to you.
+
+10.5. Such liquidation is necessary to mitigate the risk of insufficient Collateral value and ensure that Falcon Finance maintains its financial stability and obligations under the Innovative Mint Program. Upon liquidation you will permanently lose all rights and claims to the liquidated Collateral, as it will become the property of Falcon Finance. This process applies regardless of the time remaining in the Mint Term or any other conditions set at the time of participation in the Innovative Mint Program.
+
+10.6. By participating in the Innovative Mint Program, you explicitly acknowledge and accept that the specified liquidation price serves as a critical threshold for risk management, and Falcon Finance retains full discretion to enforce liquidation policies to uphold the integrity of the Protocol.
+
+10.7. If upon Maturity, the Spot Price of the collateralised Eligible Altcoin is above the specified strike price:
 
 a) Falcon Finance will issue additional USDf to you, calculated based on the excess value of the collateralised Eligible Altcoin above the specified strike price; and
 
 b) you will forfeit all rights to reclaim the Collateral, which will become the property of Falcon Finance.
 
-9.7. If upon Maturity, the Spot Price of the collateralised Eligible Altcoin is between the specified liquidation price and the specified strike price:
+10.8. If upon Maturity, the Spot Price of the collateralised Eligible Altcoin is between the specified liquidation price and the specified strike price:
 
 a) you may reclaim the Collateral only if you fully return all the USDf minted during the Mint Term to Falcon Finance within 72 hours from the maturity of the Mint Term; and
 
 b) failure to return the minted USDf within the prescribed timeframe will result in the liquidation of the Collateral by Falcon Finance to cover the minted USDf.
 
-9.8. If, at any time during the Mint Term, the Spot Price of the collateralised Eligible Altcoin is at or below the specified liquidation price:
+10.9. If, at any time during the Mint Term, the Spot Price of the collateralised Eligible Altcoin is at or below the specified liquidation price:
 
 a) Falcon Finance will liquidate the Collateral to cover the minted USDf; and
 
 b) you will permanently lose all claims and rights to the Collateral.
 
-9.9. All calculations of Spot Prices of the Eligible Altcoins will be based on data from market sources determined by Falcon Finance at its sole discretion. Disputes regarding calculations or pricing will be resolved at Falcon Finance's sole discretion, and you agree to accept such determinations as as final and binding.&#x20;
+10.10. All calculations of Spot Prices of the Eligible Altcoins will be based on data from market sources determined by Falcon Finance at its sole discretion. Disputes regarding calculations or pricing will be resolved at Falcon Finance's sole discretion, and you agree to accept such determinations as as final and binding.&#x20;
 
-9.10. Participation in the Innovative Mint Program is subject to inherent risks, including but not limited to market volatility, liquidity issues, and regulatory changes. You acknowledge and accept that:
+10.11. Participation in the Innovative Mint Program is subject to inherent risks, including but not limited to market volatility, liquidity issues, and regulatory changes. You acknowledge and accept that:
 
 a) the value of your Collateral may fluctuate significantly;
 
-b) Collateral may be liquidated under the conditions outlined above, resulting in the permanent loss of your collateralised Eligible Altcoin; and
+b) Collateral may be liquidated under the conditions outlined above, resulting in the permanent loss of your collateralised Eligible Altcoin;&#x20;
 
 c) participation is entirely at your own risk, and Falcon Finance makes no guarantees regarding the outcomes or profitability of the Innovative Mint Program.
 
-### 10. **FALCON POINTS**
+d) Falcon Finance has the right to use, trade, sell, lend, re-pledge, sell and repurchase, or otherwise deal with or dispose of your Collateral during the Mint Term for its own account, and you may lose your Collateral, in whole or in part, in the event Falcon Finance is unable to redeliver equivalent Collateral to you.
 
-10.1. You can earn Falcon Points by staking USDf within the loyalty and rewards program of Falcon Finance. Falcon Points may be redeemed for various benefits, rewards, or incentives as determined by Falcon Finance at its sole discretion. The specific offerings associated with Falcon Points are subject to change from time to time, and may vary based on Falcon Finance's policies. Falcon Finance reserves the right to modify, suspend, or terminate the Falcon Points program at any time, without prior notice or liability to you or any third party.
+### 11. **FALCON POINTS**
 
-10.2. Falcon Finance makes no representations or guarantees regarding the specific or minimum value of Falcon Points. You acknowledge that the value of Falcon Points may fluctuate and that they are not guaranteed any particular value. Additionally, you agree that the values associated with Falcon Points can be updated, added, or removed at the sole discretion of Falcon Finance at any time, without prior notice and liability to you or any other third party.
+11.1. You can earn Falcon Points by staking USDf within the loyalty and rewards program of Falcon Finance. Falcon Points may be redeemed for various benefits, rewards, or incentives as determined by Falcon Finance at its sole discretion. The specific offerings associated with Falcon Points are subject to change from time to time, and may vary based on Falcon Finance's policies. Falcon Finance reserves the right to modify, suspend, or terminate the Falcon Points program at any time, without prior notice or liability to you or any third party.
 
-10.3. You agree that Falcon Finance shall have the right in its sole and absolute discretion, without prior notice and liability to you or any other third party, to forfeit your Falcon Points, for any reason or for no reason whatsoever, including where:
+11.2. Falcon Finance makes no representations or guarantees regarding the specific or minimum value of Falcon Points. You acknowledge that the value of Falcon Points may fluctuate and that they are not guaranteed any particular value. Additionally, you agree that the values associated with Falcon Points can be updated, added, or removed at the sole discretion of Falcon Finance at any time, without prior notice and liability to you or any other third party.
+
+11.3. You agree that Falcon Finance shall have the right in its sole and absolute discretion, without prior notice and liability to you or any other third party, to forfeit your Falcon Points, for any reason or for no reason whatsoever, including where:
 
 a) you have violated of these Terms;
 
 b) your Account has been suspended or terminated.
 
-10.4. For the avoidance of doubt, any references to "Falcon Miles" by Falcon Finance shall be construed to mean "Falcon Points".
+11.4. For the avoidance of doubt, any references to "Falcon Miles" by Falcon Finance shall be construed to mean "Falcon Points".
 
-### 11. **IDENTITY VERIFICATION**
+### 12. **IDENTITY VERIFICATION**
 
-11.1 For the issuance and/or redemption of Falcon Assets, you will be required to provide us with any information, documents and/or materials as may be necessary to verify your identity or to facilitation compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences.
+12.1 For the issuance and/or redemption of Falcon Assets, you will be required to provide us with any information, documents and/or materials as may be necessary to verify your identity or to facilitation compliance with Applicable Laws and/or detection of money laundering, terrorist financing, fraud, or any other offences.
 
-11.2. You agree to provide us with current, complete, and accurate information or documents. In addition, you agree to permit us to keep a record of all such information for so long as we are required or permitted to do so under Applicable Laws, including after the termination of your Account
+12.2. You agree to provide us with current, complete, and accurate information or documents. In addition, you agree to permit us to keep a record of all such information for so long as we are required or permitted to do so under Applicable Laws, including after the termination of your Account
 
-11.3. Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
+12.3. Any failure on your part to comply with any of the above requirements will constitute a breach of these Terms and we shall have the right to demand rectification of your information, or terminate, suspend or restrict your access to your Accounts, terminate the provision of all or part of the Services to you, as well as take any other action as we deem fit, whether for a specified period of time or indefinitely.
 
-### 12. **COMPLIANCE WITH APPLICABLE LAWS**
+### 13. **COMPLIANCE WITH APPLICABLE LAWS**
 
-12.1. Your request for the issuance and/or redemption of Falcon Assets, and your use of the Services or Platform, is subject to all Applicable Laws and your compliance thereof.
+13.1. Your request for the issuance and/or redemption of Falcon Assets, and your use of the Services or Platform, is subject to all Applicable Laws and your compliance thereof.
 
-12.2. You agree to immediately provide us with any and all information, documents and/or materials as we may require from you from time to time, and to perform any and all such acts or things, including your forbearance to do any and all such acts or things, in each case as may be required or expedient for the purposes of complying, or facilitating our compliance with Applicable Laws, or to avoid violation of any Applicable Laws. Examples of Applicable Laws that we are subject to which may give rise to such obligations on your end include:
+13.2. You agree to immediately provide us with any and all information, documents and/or materials as we may require from you from time to time, and to perform any and all such acts or things, including your forbearance to do any and all such acts or things, in each case as may be required or expedient for the purposes of complying, or facilitating our compliance with Applicable Laws, or to avoid violation of any Applicable Laws. Examples of Applicable Laws that we are subject to which may give rise to such obligations on your end include:
 
 a) any due diligence requirements imposed to facilitate the detection of money laundering, terrorist financing, fraud, or any other offence;
 
@@ -314,9 +406,9 @@ b) any and all regulatory obligations imposed on us by any regulatory authority,
 
 c) any request for information, documents and/or materials from any regulatory authority.
 
-### 13. **RESTRICTED ACTIVITIES AND PROHIBITED TRANSACTIONS**
+### 14. **RESTRICTED ACTIVITIES AND PROHIBITED TRANSACTIONS**
 
-13.1. In connection with the minting, issuance, holding and redemption of Falcon Assets, you agree that you will not:
+14.1. In connection with the minting, issuance, holding and redemption of Falcon Assets, you agree that you will not:
 
 a) violate (or assist any other party in violating) any Applicable Laws;
 
@@ -338,7 +430,7 @@ i) defame, harass, or violate the privacy or intellectual property rights of Fal
 
 j) upload, display or transmit any messages, photos, videos or other media that contain illegal goods, violent, obscene or copyrighted images or materials.
 
-13.2. Using Falcon Assets for transactions related to the following is strictly prohibited, and we reserve the right to monitor and, if appropriate, block or otherwise prevent transactions that relate to:
+14.2. Using Falcon Assets for transactions related to the following is strictly prohibited, and we reserve the right to monitor and, if appropriate, block or otherwise prevent transactions that relate to:
 
 a) any U.S. Persons;
 
@@ -358,19 +450,19 @@ h) counterfeit goods or fraudulent activities, such as wash trading or market ma
 
 i) purchasing goods from "Darknet" markets or any other service or website that acts as a marketplace for illegal goods.
 
-13.3. In the event we learn or reasonably suspect that you are engaging in any prohibited transactions, we may suspend or terminate your Account, potentially leading to the forfeiture of any digital assets otherwise eligible for redemption. We may also be required by Applicable Laws to inform authorities about such transactions and follow court orders regarding information and assets held in the Account.
+14.3. In the event we learn or reasonably suspect that you are engaging in any prohibited transactions, we may suspend or terminate your Account, potentially leading to the forfeiture of any digital assets otherwise eligible for redemption. We may also be required by Applicable Laws to inform authorities about such transactions and follow court orders regarding information and assets held in the Account.
 
-13.4. The Falcon Assets are not offered or sold, and will not be offered or sold, in the United States or to U.S. Persons. In addition, the Falcon Assets have not been registered under the Securities Act of 1933, as amended (the "**Act**") or the securities laws of any other jurisdiction, and may not be offered, sold or otherwise transferred in the United States or to U.S. Persons unless the securities are registered under the Act, or an exemption from the registration requirements of the Act is available.
+14.4. The Falcon Assets are not offered or sold, and will not be offered or sold, in the United States or to U.S. Persons. In addition, the Falcon Assets have not been registered under the Securities Act of 1933, as amended (the "**Act**") or the securities laws of any other jurisdiction, and may not be offered, sold or otherwise transferred in the United States or to U.S. Persons unless the securities are registered under the Act, or an exemption from the registration requirements of the Act is available.
 
-### 14. **SUPPORTED BLOCKCHAINS**
+### 15. **SUPPORTED BLOCKCHAINS**
 
-14.1. Falcon Assets operate only on supported blockchains. You acknowledge that Falcon Finance is not responsible for preventing or resolving any cyber-attacks or any other processing or technological issues that might arise in connection with the supported blockchains.
+15.1. Falcon Assets operate only on supported blockchains. You acknowledge that Falcon Finance is not responsible for preventing or resolving any cyber-attacks or any other processing or technological issues that might arise in connection with the supported blockchains.
 
-14.2. Falcon Finance reserves the right to expand or reduce the number of supported blockchains in the future, to migrate Falcon Assets from a currently supported blockchain, to cease support for a supported blockchain, and/or suspend your Account and/or all activities relating to Falcon Assets during such transition period. We shall bear no responsibility for any losses that might be incurred in connection with the use or the discontinued use of any blockchain, including currently supported blockchains.
+15.2. Falcon Finance reserves the right to expand or reduce the number of supported blockchains in the future, to migrate Falcon Assets from a currently supported blockchain, to cease support for a supported blockchain, and/or suspend your Account and/or all activities relating to Falcon Assets during such transition period. We shall bear no responsibility for any losses that might be incurred in connection with the use or the discontinued use of any blockchain, including currently supported blockchains.
 
-### 15. **INTERRUPTIONS, DELAYS AND CANCELLATIONS**
+### 16. **INTERRUPTIONS, DELAYS AND CANCELLATIONS**
 
-15.1. If any technical reasons prevent or degrade Users' ability to access the Platform or any Services, Falcon Finance may, in its sole and absolute discretion, without prior notice to you or any other Users, take one or more of the following actions (where applicable):
+16.1. If any technical reasons prevent or degrade Users' ability to access the Platform or any Services, Falcon Finance may, in its sole and absolute discretion, without prior notice to you or any other Users, take one or more of the following actions (where applicable):
 
 a) disable or suspend the minting, issuance or redemption of any Falcon Assets;
 
@@ -380,45 +472,45 @@ c) disable or suspend access to the Platform, any Services, and/or any other sys
 
 Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, Falcon Finance's decision to carry out any of the above actions.
 
-15.2. There may be instances in which the processing of the minting, issuance or redemption of the Falcon Assets is delayed or has to be cancelled due to whatever reason (including if there is any system, technical or operational issues that prohibits us from processing such minting, issuance or redemption) or no reason whatsoever. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any cancellation or delay in processing any minting, issuance or redemption.&#x20;
+16.2. There may be instances in which the processing of the minting, issuance or redemption of the Falcon Assets is delayed or has to be cancelled due to whatever reason (including if there is any system, technical or operational issues that prohibits us from processing such minting, issuance or redemption) or no reason whatsoever. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any cancellation or delay in processing any minting, issuance or redemption.&#x20;
 
-15.3. We do not provide any warranty (whether express or implied) nor guarantee as to the timeline by which the minting, issuance or redemption of any Falcon Assets will be successfully processed.
+16.3. We do not provide any warranty (whether express or implied) nor guarantee as to the timeline by which the minting, issuance or redemption of any Falcon Assets will be successfully processed.
 
-### 16. **CHANGES IN APPLICABLE LAWS**
+### 17. **CHANGES IN APPLICABLE LAWS**
 
-16.1. Any changes in Applicable Laws may affect the minting, issuance, holding, transfer, use, and/or redemption of the Falcon Assets. We reserve the right to suspend, whether for a period of time or indefinitely, your Account and/or the minting, issuance and redemption of the Falcon Assets, as may be required by any changes in Applicable Laws. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of any changes in Applicable Laws.
+17.1. Any changes in Applicable Laws may affect the minting, issuance, holding, transfer, use, and/or redemption of the Falcon Assets. We reserve the right to suspend, whether for a period of time or indefinitely, your Account and/or the minting, issuance and redemption of the Falcon Assets, as may be required by any changes in Applicable Laws. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of any changes in Applicable Laws.
 
-### 17. **WEBSITE AVAILABILITY AND ACCURACY**
+### 18. **WEBSITE AVAILABILITY AND ACCURACY**
 
-17.1. The Platform, Website, and/or any of the Services may be periodically unavailable during scheduled maintenance or unscheduled downtime. None of the Indemnified Persons make any (and hereby disclaims any) representations or warranties regarding the Platform, Website, and/or any of the Services including that a User will have continuous, uninterrupted, or secure access to the Platform, Website and/or any of the Services.
+18.1. The Platform, Website, and/or any of the Services may be periodically unavailable during scheduled maintenance or unscheduled downtime. None of the Indemnified Persons make any (and hereby disclaims any) representations or warranties regarding the Platform, Website, and/or any of the Services including that a User will have continuous, uninterrupted, or secure access to the Platform, Website and/or any of the Services.
 
-17.2. We strive to provide accurate and reliable information and content on the Website, but such information may not always be correct, complete, or up to date. We will update the information on the Website as necessary to provide you with the most up to date information, but you should always independently verify such information. We shall have no liability for any losses incurred as a result of actions taken in reliance on the information contained on the Website.
+18.2. We strive to provide accurate and reliable information and content on the Website, but such information may not always be correct, complete, or up to date. We will update the information on the Website as necessary to provide you with the most up to date information, but you should always independently verify such information. We shall have no liability for any losses incurred as a result of actions taken in reliance on the information contained on the Website.
 
-### 18. **THIRD-PARTY SERVICES AND LINKS**
+### 19. **THIRD-PARTY SERVICES AND LINKS**
 
-18.1. The Platform may integrate with or provide access to various third-party services, tools, or platforms (the "**Third Party Services**") to enhance the user experience and provide additional functionality. The integration or provision of access to Third Party Services does not constitute an endorsement, guarantee, or recommendation by Falcon Finance. By using these Third Party Services, you agree to their respective terms and conditions, privacy policies, and any other applicable agreements.
+19.1. The Platform may integrate with or provide access to various third-party services, tools, or platforms (the "**Third Party Services**") to enhance the user experience and provide additional functionality. The integration or provision of access to Third Party Services does not constitute an endorsement, guarantee, or recommendation by Falcon Finance. By using these Third Party Services, you agree to their respective terms and conditions, privacy policies, and any other applicable agreements.
 
-18.2. The Website or Platform may also contain links to third party websites, applications, events or other materials (the "**Third Party Content**"). Such information is provided for your convenience and links or references to any Third Party Content do not constitute an endorsement, guarantee, or recommendation by Falcon Finance of any products or services.
+19.2. The Website or Platform may also contain links to third party websites, applications, events or other materials (the "**Third Party Content**"). Such information is provided for your convenience and links or references to any Third Party Content do not constitute an endorsement, guarantee, or recommendation by Falcon Finance of any products or services.
 
-18.3. We are not responsible for the content, accuracy, reliability, or performance of any Third Party Services or Third Party Content. Under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any losses incurred as a result of actions taken in respect of any Third Party Services or in reliance on the information contained in any Third Party Content.
+19.3. We are not responsible for the content, accuracy, reliability, or performance of any Third Party Services or Third Party Content. Under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any losses incurred as a result of actions taken in respect of any Third Party Services or in reliance on the information contained in any Third Party Content.
 
-### 19. **NO OTHER RELATIONSHIP OR ADVICE**
+### 20. **NO OTHER RELATIONSHIP OR ADVICE**
 
-19.1. You acknowledge and agree that Falcon Finance is not your broker, intermediary, agent, trustee, or advisor and has no fiduciary relationship or obligation to you in connection with any decision or activity carried out by you in connection with the Services. No communication or information provided to you by Falcon Finance is intended as, or shall be considered or construed as, investment advice, financial advice, trading advice, legal advice, tax advice, or any other sort of advice (professional or otherwise).
+20.1. You acknowledge and agree that Falcon Finance is not your broker, intermediary, agent, trustee, or advisor and has no fiduciary relationship or obligation to you in connection with any decision or activity carried out by you in connection with the Services. No communication or information provided to you by Falcon Finance is intended as, or shall be considered or construed as, investment advice, financial advice, trading advice, legal advice, tax advice, or any other sort of advice (professional or otherwise).
 
-19.2. All decisions to buy, sell, or hold digital assets are solely the responsibility of the User. Users should conduct their own research, seek professional advice, and carefully consider the risks associated with digital asset transactions before making any decisions.
+20.2. All decisions to buy, sell, or hold digital assets are solely the responsibility of the User. Users should conduct their own research, seek professional advice, and carefully consider the risks associated with digital asset transactions before making any decisions.
 
-19.3. To the fullest extent permitted by law, you acknowledge and agree that we owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated. You further agree that the only duties and obligations that we owe you are those set out expressly in these Terms.
+20.3. To the fullest extent permitted by law, you acknowledge and agree that we owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated. You further agree that the only duties and obligations that we owe you are those set out expressly in these Terms.
 
-### 20. **RISK DISCLOSURES**
+### 21. **RISK DISCLOSURES**
 
-20.1. The minting, issuance and/or redemption of Falcon Assets, and use of your Account and the Services involves risks and potential for financial losses. Such risks includes any operational, technological and security risks that may be caused by any hacks or other forms of cyber-attack on the blockchain or the Platform, and any custody or issuer risk relating to the issuer of any Eligible Collateral, including any default, liquidation or collapse of such issuer.
+21.1. The minting, issuance and/or redemption of Falcon Assets, and use of your Account and the Services involves risks and potential for financial losses. Such risks includes any operational, technological and security risks that may be caused by any hacks or other forms of cyber-attack on the blockchain or the Platform, and any custody or issuer risk relating to the issuer of any Eligible Collateral, including any default, liquidation or collapse of such issuer. Such risks also include risks specific to the Card Services, including (without limitation) counterparty risk of the Card Issuer, exchange rate risk arising from the conversion of Card Transactions made in a currency other than USD, the Card Issuer's and the applicable Visa scheme's ability to decline, suspend or restrict Card Transactions, the fact that you do not have a direct claim against the Card Issuer, and Falcon Finance's right to suspend, restrict or terminate Card Services at any time.
 
-20.2. You hereby acknowledge that you have read and you understand the Risk Disclosure Statement which sets out a non-exhaustive list of risks applicable to such activities. You hereby acknowledge and agree that under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any and all risks relating to the issuance or minting of Falcon Assets, including the risks disclosed to you in the Risk Disclosure Statement.
+21.2. You hereby acknowledge that you have read and you understand the Risk Disclosure Statement which sets out a non-exhaustive list of risks applicable to such activities. You hereby acknowledge and agree that under no circumstances shall any of the Indemnified Persons have any responsibility or liability for any and all risks relating to the issuance or minting of Falcon Assets, including the risks disclosed to you in the Risk Disclosure Statement.
 
-### 21. **REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS**
+### 22. **REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS**
 
-21.1. By using the Services or maintaining an Account, you hereby represent, warrant, and undertake to Falcon Finance at all times that:
+22.1. By using the Services or maintaining an Account, you hereby represent, warrant, and undertake to Falcon Finance at all times that:
 
 a) all consents, permissions, authorisations, approvals and agreements of third parties and all authorisations, licenses, approvals, permissions, consents, registrations, declarations, filings with any regulatory authority, governmental department, commission, agency or other organisation having jurisdiction over you (and/or your representatives) which are necessary or desirable for you (and/or your representatives) to obtain in order to (i) access and use the Platform and/or the Services and (ii) enter into and perform your obligations under these Terms and any other agreements entered into pursuant to, or in connection with, these Terms, have been unconditionally obtained in writing and have been disclosed in writing to us and have not been withdrawn or amended;
 
@@ -468,7 +560,7 @@ h) you and/or the legal entity you act on behalf of are generally subject to civ
 
 i) no proceedings have been commenced or threatened, and no order or declaration has been made, against you and/or the legal entity you act on behalf of for liquidation, winding up or bankruptcy, or for the appointment of a trustee in bankruptcy, judicial manager, administrator, receiver, liquidator, or similar officer to administer any or all of your assets and you and/or the legal entity you act on behalf of have not declared bankrupt or insolvent.
 
-21.2. Should you breach any of the above representations, warranties and/or undertakings, Falcon Finance reserves the right to take any action against you or your Accounts, whether for a specified period of time or indefinitely, including:
+22.2. Should you breach any of the above representations, warranties and/or undertakings, Falcon Finance reserves the right to take any action against you or your Accounts, whether for a specified period of time or indefinitely, including:
 
 a) refusing to allow the minting, issuance or redemption of any Falcon Assets;
 
@@ -480,29 +572,31 @@ d) publishing the alleged breach and actions that have been taken; and/or
 
 e) deleting any information you published that is in breach of the representation, warranty and/or undertaking.
 
-21.3. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any action taken against you or your Accounts should you breach any of the above representations, warranties and/or undertakings.
+22.3. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any action taken against you or your Accounts should you breach any of the above representations, warranties and/or undertakings.
 
-### 22. **DISCLAIMER OF WARRANTIES, EXCLUSION OF LIABILITY AND INDEMNIFICATION**
+### 23. **DISCLAIMER OF WARRANTIES, EXCLUSION OF LIABILITY AND INDEMNIFICATION**
 
-22.1. To the maximum extent permitted under Applicable Laws, the Services and any materials, product, service or other item provided by or on behalf of Falcon Finance and/or its affiliates in connection with the Services (the "**Materials**"), whether by a third party operator or otherwise, are provided on an "as is" and "as available" basis and Falcon Finance expressly disclaims, and you waive, any and all other warranties of any kind, whether express, statutory or implied, oral or in writing, including warranties of merchantability, adequacy, accessibility, fitness for a particular purpose, title or non-infringement of third party rights or warranties arising from course of performance, course of dealing or usage in trade. Without limiting the foregoing, Falcon Finance does not represent or warrant that the Website, the Services and/or the materials are accurate, complete, reliable, current, error-free, or free of viruses or other harmful components. Except for the express statements set forth in these Terms, you hereby acknowledge and agree that you have not relied upon any other statement or understanding, whether written or oral, with respect to your use and/or access of the Platform or the Services. Your use of the Services is at your own risk and discretion.
+23.1. To the maximum extent permitted under Applicable Laws, the Services and any materials, product, service or other item provided by or on behalf of Falcon Finance and/or its affiliates in connection with the Services (the "**Materials**"), whether by a third party operator or otherwise, are provided on an "as is" and "as available" basis and Falcon Finance expressly disclaims, and you waive, any and all other warranties of any kind, whether express, statutory or implied, oral or in writing, including warranties of merchantability, adequacy, accessibility, fitness for a particular purpose, title or non-infringement of third party rights or warranties arising from course of performance, course of dealing or usage in trade. Without limiting the foregoing, Falcon Finance does not represent or warrant that the Website, the Services and/or the materials are accurate, complete, reliable, current, error-free, or free of viruses or other harmful components. Except for the express statements set forth in these Terms, you hereby acknowledge and agree that you have not relied upon any other statement or understanding, whether written or oral, with respect to your use and/or access of the Platform or the Services. Your use of the Services is at your own risk and discretion.
 
-22.2. To the fullest extent permitted by Applicable Laws, in no event shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any loss of business, profits or opportunities, or any incidental, indirect, special, punitive, consequential or similar damages or liabilities whatsoever (including damages for loss of data, information, revenue, profits or other business or financial benefit), whether arising out of or in connection with the Website, the Platform, your Account, the Services, these Terms and/or any agreement entered into pursuant to, or in connection with, these Terms, or otherwise.
+23.2. To the fullest extent permitted by Applicable Laws, in no event shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any loss of business, profits or opportunities, or any incidental, indirect, special, punitive, consequential or similar damages or liabilities whatsoever (including damages for loss of data, information, revenue, profits or other business or financial benefit), whether arising out of or in connection with the Website, the Platform, your Account, the Services, these Terms and/or any agreement entered into pursuant to, or in connection with, these Terms, or otherwise.
 
-22.3. Any liability of the Indemnified Persons, to you or any person or entity in any circumstance is limited to the actual amount of loss or damage which is caused directly and is reasonably foreseeable by our breach of these Terms provided always that the Indemnified Persons' maximum aggregate liability to you for all such losses arising in connection with these Terms or otherwise shall not exceed the interest or yield paid or payable to you. Such sum shall be paid as liquidated damages by Falcon Finance to you in full and final settlement and satisfaction of our entire liability and the Indemnified Persons' entire liability for any loss or damage which is caused directly and is reasonably foreseeable by our breach of these Terms. You acknowledge and accept that damages are an adequate remedy and that you shall not be entitled to any other claims or remedies at law or in equity, including any claim in rem, injunction, and/or specific performance.
+23.3. Any liability of the Indemnified Persons, to you or any person or entity in any circumstance is limited to the actual amount of loss or damage which is caused directly and is reasonably foreseeable by our breach of these Terms provided always that the Indemnified Persons' maximum aggregate liability to you for all such losses arising in connection with these Terms or otherwise shall not exceed the interest or yield paid or payable to you or, where the claim arises solely from the Card Services and no interest or yield has been paid or is payable to you, the total fees paid by you to Falcon Finance in connection with the Card Services in the six (6) months preceding the event giving rise to the claim. Such sum shall be paid as liquidated damages by Falcon Finance to you in full and final settlement and satisfaction of our entire liability and the Indemnified Persons' entire liability for any loss or damage which is caused directly and is reasonably foreseeable by our breach of these Terms. You acknowledge and accept that damages are an adequate remedy and that you shall not be entitled to any other claims or remedies at law or in equity, including any claim in rem, injunction, and/or specific performance.
 
-22.4. You agree to fully indemnify and hold completely harmless (a) Falcon Finance, (b) Falcon Finance's shareholders, joint venture parties, subsidiaries, affiliates and related corporations and entities, and (c) the officers, directors, employees, representatives, agents, suppliers, contractors and service providers of all the persons and entities described in (a) and (b) ((a), (b) and (c) collectively, the "**Indemnified Persons**") from and against any and all claims, actions, proceedings, investigations, demands, actions, suits, costs, charges, expenses, damages (including attorneys' fees, fines or penalties imposed by any regulatory authority), losses and liabilities which the Indemnified Persons may incur, suffer or which may be made against them as a result of, in relation to, and/or arising out of (i) your use of, or conduct in connection with, the Services, (ii) your breach of representation, warranty, agreement or undertaking by you under these Terms or our enforcement of these Terms, (iii) your violation of any Applicable Laws, (iv) any act, omission, negligence, breach, offence or default committed or attributable to you, (v) any sum or obligation expressed to be payable or liable to be performed under these Terms not being paid or performed by you by the time, on the date and otherwise in the manner specified in this Agreement, and/or any circumstances beyond our control. If you are obligated to indemnify any of the Indemnified Persons pursuant to these Terms, we will have the right, in its sole and absolute discretion, to control any action or proceeding and to determine whether we wish to settle, and if so, on what terms.
+23.4. You agree to fully indemnify and hold completely harmless (a) Falcon Finance, (b) Falcon Finance's shareholders, joint venture parties, subsidiaries, affiliates and related corporations and entities, and (c) the officers, directors, employees, representatives, agents, suppliers, contractors and service providers of all the persons and entities described in (a) and (b) ((a), (b) and (c) collectively, the "**Indemnified Persons**") from and against any and all claims, actions, proceedings, investigations, demands, actions, suits, costs, charges, expenses, damages (including attorneys' fees, fines or penalties imposed by any regulatory authority), losses and liabilities which the Indemnified Persons may incur, suffer or which may be made against them as a result of, in relation to, and/or arising out of (i) your use of, or conduct in connection with, the Services, (ii) your breach of representation, warranty, agreement or undertaking by you under these Terms or our enforcement of these Terms, (iii) your violation of any Applicable Laws, (iv) any act, omission, negligence, breach, offence or default committed or attributable to you, (v) any sum or obligation expressed to be payable or liable to be performed under these Terms not being paid or performed by you by the time, on the date and otherwise in the manner specified in this Agreement, and/or any circumstances beyond our control. If you are obligated to indemnify any of the Indemnified Persons pursuant to these Terms, we will have the right, in its sole and absolute discretion, to control any action or proceeding and to determine whether we wish to settle, and if so, on what terms.
 
-### 23. **TAXES**
+### 24. **TAXES**
 
-23.1. It is your sole responsibility to determine what, if any, taxes apply to the payments you make or receive, and to collect, report, and remit the correct tax to the appropriate tax authority. All payments and transactions made and entered into on our Platform must be free and clear of, and without any deduction or withholding for and on account of, any taxes, duties or other deductions. We are not responsible for determining whether taxes apply to your transactions, or for collecting, reporting, or remitting any taxes arising from any transaction. However, if any Applicable Law requires us to make any tax payments or duties on your behalf, we reserve the right to withhold in part or in full or claim such payments (including any other administrative charges incurred in respect of such payments) against you on a full indemnity basis.
+24.1. It is your sole responsibility to determine what, if any, taxes apply to the payments you make or receive, and to collect, report, and remit the correct tax to the appropriate tax authority. All payments and transactions made and entered into on our Platform must be free and clear of, and without any deduction or withholding for and on account of, any taxes, duties or other deductions. We are not responsible for determining whether taxes apply to your transactions, or for collecting, reporting, or remitting any taxes arising from any transaction. However, if any Applicable Law requires us to make any tax payments or duties on your behalf, we reserve the right to withhold in part or in full or claim such payments (including any other administrative charges incurred in respect of such payments) against you on a full indemnity basis.
 
-### 24. **PRIVACY OF PERSONAL DATA**
+### 25. **PRIVACY OF PERSONAL DATA**
 
-24.1. To the extent that you provide us with any of your personal data, you hereby consent to the collection, use, disclosure and/or processing of such personal data in accordance with and for the purposes stated in our Privacy Policy, a copy of which is available on the Website.
+25.1. To the extent that you provide us with any of your personal data, you hereby consent to the collection, use, disclosure and/or processing of such personal data in accordance with and for the purposes stated in our Privacy Policy, a copy of which is available on the Website.
 
-### 25. **LIMITED LICENSE AND INTELLECTUAL PROPERTY RIGHTS**
+25.2 To enable the Card Services, Falcon Finance will share certain personal data with the Card Issuer, including your name, date of birth, address, identity verification documents, and transaction history. In respect of identity verification, sanctions screening, and related compliance decisioning, Falcon Finance and the Card Issuer act as joint controllers of your personal data under applicable data protection law, pursuant to arrangements agreed between them. In respect of other processing carried out for the Card Issuer's own regulatory purposes, the Card Issuer acts as an independent controller. By applying for or using the Card Services, you consent to such data sharing.
 
-25.1. Subject to your continued compliance with the express terms and conditions of these Terms, Falcon Finance provides to you a revocable, limited, royalty-free, non-exclusive, non-transferable, and non-sublicensable license to access and use the Services on your computer or other internet compatible device as Falcon Finance may prescribe from time to time for your personal, internal use only (save that corporate users may access and use the Materials for internal business purposes). The content layout, formatting, and features of and access privileges for the Services shall be as specified by Falcon Finance in its sole discretion. All rights not expressly granted under these Terms are hereby reserved. Accordingly, you are hereby prohibited from using the Services in any manner that is not expressly and unambiguously authorized by these Terms. Without limiting the foregoing, you will not:
+### 26. **LIMITED LICENSE AND INTELLECTUAL PROPERTY RIGHTS**
+
+26.1. Subject to your continued compliance with the express terms and conditions of these Terms, Falcon Finance provides to you a revocable, limited, royalty-free, non-exclusive, non-transferable, and non-sublicensable license to access and use the Services on your computer or other internet compatible device as Falcon Finance may prescribe from time to time for your personal, internal use only (save that corporate users may access and use the Materials for internal business purposes). The content layout, formatting, and features of and access privileges for the Services shall be as specified by Falcon Finance in its sole discretion. All rights not expressly granted under these Terms are hereby reserved. Accordingly, you are hereby prohibited from using the Services in any manner that is not expressly and unambiguously authorized by these Terms. Without limiting the foregoing, you will not:
 
 a) resell, lease, lend, share, distribute or otherwise permit any third party to use the Services, the Platform or the Materials;
 
@@ -514,79 +608,91 @@ d) decompile, disassemble, reverse engineer or attempt to discover the source co
 
 e) use the Services, the Platform or the Materials to design, develop or create any competing product or service.
 
-25.2. These Terms provide only a limited license to access and use the Services. Accordingly, you hereby agree that Falcon Finance transfers no ownership or intellectual property right, interest or title in and to the Services or any intellectual property to you or anyone else in connection with your use of the Services. All intellectual property rights, title and interests in and to the Services, including any text, graphics, user interfaces, visual interfaces, photographs, sounds, artwork, computer code (including html code), programs, software, products, information, and documentation as well as the design, structure, selection, coordination, expression, "look and feel," and arrangement of any content contained on or available through the Services are exclusively owned, controlled, and/or licensed by Falcon Finance or its members, parents, licensors, or affiliates.
+26.2. These Terms provide only a limited license to access and use the Services. Accordingly, you hereby agree that Falcon Finance transfers no ownership or intellectual property right, interest or title in and to the Services or any intellectual property to you or anyone else in connection with your use of the Services. All intellectual property rights, title and interests in and to the Services, including any text, graphics, user interfaces, visual interfaces, photographs, sounds, artwork, computer code (including html code), programs, software, products, information, and documentation as well as the design, structure, selection, coordination, expression, "look and feel," and arrangement of any content contained on or available through the Services are exclusively owned, controlled, and/or licensed by Falcon Finance or its members, parents, licensors, or affiliates.
 
-25.3. Without prejudice to the foregoing or any other rights under these Terms or at law, you further acknowledge and agree that Falcon Finance may use and/or disclose anonymised data, which is not in personally identifiable form, for data analytics, marketing and/or business improvement purposes.
+26.3. Without prejudice to the foregoing or any other rights under these Terms or at law, you further acknowledge and agree that Falcon Finance may use and/or disclose anonymised data, which is not in personally identifiable form, for data analytics, marketing and/or business improvement purposes.
 
-25.4. You hereby assign to us all right, title and interest to any feedback, suggestions, ideas, or other information or materials regarding Falcon Finance or the Services or the Platform that you provide, whether by email or otherwise ("**Feedback**") together with all associated intellectual property rights. We will own all Feedback and you will not be entitled to, and hereby waive any claim for, acknowledgment or compensation based on any Feedback or any modifications made based on any Feedback.
+26.4. You hereby assign to us all right, title and interest to any feedback, suggestions, ideas, or other information or materials regarding Falcon Finance or the Services or the Platform that you provide, whether by email or otherwise ("**Feedback**") together with all associated intellectual property rights. We will own all Feedback and you will not be entitled to, and hereby waive any claim for, acknowledgment or compensation based on any Feedback or any modifications made based on any Feedback.
 
-### 26. **NO SET-OFF**
+### 27. **SET-OFF**
 
-26.1. You agree and acknowledge that you may not set-off any claims arising under the Falcon Assets against any claims that Falcon Finance may have against it.
+27.1. Falcon Finance may, at any time and without notice, set off, deduct, withhold or apply any Falcon Assets, digital assets or other amounts held in or credited to your Account (or otherwise held by Falcon Finance for you) against any fees, costs, indemnity claims, liabilities or other amounts owing by you to Falcon Finance or any of its affiliates, whether actual or contingent, and may convert assets at a rate of exchange determined by Falcon Finance for that purpose
 
-### 27. **SUBSTITUTION**
+### 28. **SUBSTITUTION**
 
-27.1. Falcon Finance may, without your consent, at any time substitute itself in respect of all rights and obligations arising under or in connection with the Falcon Assets with any legal entity of which all shares carrying voting rights are directly or indirectly held by Falcon Finance (the "**New Issuer**"), provided that:
+28.1. Falcon Finance may, without your consent, at any time substitute itself in respect of all rights and obligations arising under or in connection with the Falcon Assets with any legal entity of which all shares carrying voting rights are directly or indirectly held by Falcon Finance (the “New Issuer”)
 
-a) the New Issuer is able to fulfil all obligations arising from or in connection with the Falcon Assets; and
+### 29. **ELECTRONIC NOTICES**
 
-b) Falcon Finance has issued an irrevocable and unconditional guarantee in respect of the obligations of the New Issuer under the Falcon Assets.
+29.1. You agree to receive electronic communications and notifications from us by way of e-mail, by posting a notice to the Website, or through other means as we may elect. You are responsible for keeping all your correspondence information (including email address, residential address, and phone number) up to date in your Account profile in order to receive any notices or alerts that we may send you from time to time.
 
-### 28. **ELECTRONIC NOTICES**
+29.2. We may from time to time make available certain information relating to the Services via the Platform or any of our social media or other channels (including email, Twitter/X, and/or Telegram channels) as we may make available from time to time. Whilst we may take reasonable steps to prevent unauthorised access to the Platform and such channels, we cannot guarantee that there will be no such unauthorised access. You acknowledge and agree that there shall be no presumption that any content made available via such channels are authentic and originate from us. You should exercise due caution and if there is any reason to doubt the authenticity and integrity of any content made available via such channels, and you must contact us to seek further verification. The Services may be accessed via only the Platform, and you must not attempt to access the Services and/or login to your Accounts using your Account Credentials on any other channels.
 
-28.1. You agree to receive electronic communications and notifications from us by way of e-mail, by posting a notice to the Website, or through other means as we may elect. You are responsible for keeping all your correspondence information (including email address, residential address, and phone number) up to date in your Account profile in order to receive any notices or alerts that we may send you from time to time.
+### 30. AMENDMENTS&#x20;
 
-28.2. We may from time to time make available certain information relating to the Services via the Platform or any of our social media or other channels (including email, Twitter/X, and/or Telegram channels) as we may make available from time to time. Whilst we may take reasonable steps to prevent unauthorised access to the Platform and such channels, we cannot guarantee that there will be no such unauthorised access. You acknowledge and agree that there shall be no presumption that any content made available via such channels are authentic and originate from us. You should exercise due caution and if there is any reason to doubt the authenticity and integrity of any content made available via such channels, and you must contact us to seek further verification. The Services may be accessed via only the Platform, and you must not attempt to access the Services and/or login to your Accounts using your Account Credentials on any other channels.
+30.1. Falcon Finance may, at its sole and absolute discretion and at any time, amend, vary, supplement, restate or replace these Terms (or any product terms, fees, features, parameters or policies referred to in these Terms) by publishing the updated version on the Website or the Platform, by updating the "Last Updated" date, and/or by notifying you through any communication channel contemplated by these Terms. Unless otherwise stated, amendments take effect immediately upon publication or transmission, whichever is earlier. You agree that no fresh consideration is required for any amendment to be binding. Your continued access to or use of the Platform, the Services or any Falcon Assets after the effective date of any amendment constitutes your conclusive acceptance of, and agreement to be bound by, the amended Terms. It is your sole responsibility to review the Terms regularly. If you do not agree to any amendment, your sole and exclusive remedy is to cease using the Services and close your Account before the amendment takes effect; such closure shall not affect any accrued rights, fees or obligations.
 
-### 29. **FORGE MAJEURE**
+30.2. Falcon Finance may at any time, at its sole and absolute discretion and without prior notice or liability, add to, modify, limit, suspend or discontinue (temporarily or permanently) the Platform or any Service or feature, including Eligible Collateral and Eligible Altcoins, haircut ratios, minting and redemption parameters, minimum and maximum transaction amounts, cooling-off periods, supported blockchains, yield methodologies and the Falcon Points program.
 
-29.1. No Indemnified Persons shall be liable to you or any other person for any breach of these Terms or for any delay, disruption, interruption or failure of the Services, if such breach, delay, disruption, interruption, or failure arose (directly or indirectly) in connection with any circumstances beyond our control, including any natural disaster, epidemic or pandemic, national or international crisis, emergency, war, riot, strike, labour dispute, widespread violence or acts of terrorism, breakdown in public infrastructure, any disruption, interruption, and/or failure of any system or services provided by a third party service provider to us, interruption in telecommunications or network provider services, absence of a liquid market for any digital token, significant or widespread disruptions, cessation of business or bankruptcy of any third party, disruption to the market for any digital token, or change in Applicable Laws.
+30.3. Falcon Finance may, at its sole and absolute discretion, cancel, reverse, amend or decline to process any transaction or instruction (including after confirmation), and may debit your Account or require you to return any Falcon Assets or other assets credited to you in error, whether arising from technical malfunction, mispricing, erroneous instruction or otherwise. You agree to promptly return any assets credited to you in error and acknowledge that any such assets are held by you on trust for Falcon Finance pending return
 
-### 30. **DISPUTE RESOLUTION**
+### 31. **FORCE MAJEURE**
 
-30.1. If there are any concerns or disputes regarding these Terms, the Services or the Platform, you agree to first negotiate with us in good faith to resolve the dispute between you and us (which discussions shall remain confidential and be subject to applicable rules protecting settlement discussions from use as evidence in any legal proceeding). A ticket number will be assigned to you if your concerns cannot be addressed to your satisfaction at first instance. The issuance of the ticket number commences the internal dispute resolution procedure. We will attempt to resolve the dispute internally as soon as possible.
+31.1 No Indemnified Persons shall be liable to you or any other person for any breach of these Terms or for any delay, disruption, interruption or failure of the Services, if such breach, delay, disruption, interruption, or failure arose (directly or indirectly) in connection with any circumstances beyond our control, including any natural disaster, epidemic or pandemic, national or international crisis, emergency, war, riot, strike, labour dispute, widespread violence or acts of terrorism, breakdown in public infrastructure, any disruption, interruption, and/or failure of any system or services provided by a third party service provider to us, interruption in telecommunications or network provider services, absence of a liquid market for any digital token, significant or widespread disruptions, cessation of business or bankruptcy of any third party, disruption to the market for any digital token, or change in Applicable Laws.
 
-30.2. In the event that the dispute cannot be resolved between you and Falcon Finance, and you wish to initiate a formal dispute resolution procedure, then you agree to set forth the basis of such claim in writing in a "Dispute Notice" as a form of prior notice to us. The Dispute Notice must (1) be in English, (2) describe the nature and basis of the claim or dispute, (3) set forth the specific relief sought, (4) provide the original ticket number, and (5) include your Account email.
+### 32. **DISPUTE RESOLUTION**
 
-30.3. You agree that any dispute resolution proceedings, including arbitration, will be conducted only on an individual basis and not in a class, consolidated, or representative action. You hereby waive any right to participate in any class action or class-wide arbitration against Falcon Finance related to any claim or dispute.
+32.1. If there are any concerns or disputes regarding these Terms, the Services or the Platform, you agree to first negotiate with us in good faith to resolve the dispute between you and us (which discussions shall remain confidential and be subject to applicable rules protecting settlement discussions from use as evidence in any legal proceeding). A ticket number will be assigned to you if your concerns cannot be addressed to your satisfaction at first instance. The issuance of the ticket number commences the internal dispute resolution procedure. We will attempt to resolve the dispute internally as soon as possible.
 
-30.4. Any disputes, controversies, or claims arising out of or in connection with these terms, including their existence, validity, interpretation, performance, or termination, shall be subject to the exclusive jurisdiction of the courts of the British Virgin Islands. All parties agree that the courts of the British Virgin Islands shall have exclusive authority to settle any such disputes.
+32.2. In the event that the dispute cannot be resolved between you and Falcon Finance, and you wish to initiate a formal dispute resolution procedure, then you agree to set forth the basis of such claim in writing in a "Dispute Notice" as a form of prior notice to us. The Dispute Notice must (1) be in English, (2) describe the nature and basis of the claim or dispute, (3) set forth the specific relief sought, (4) provide the original ticket number, and (5) include your Account email.
 
-### 31. **MISCELLANEOUS**
+32.3. You agree that any dispute resolution proceedings, including arbitration, will be conducted only on an individual basis and not in a class, consolidated, or representative action. You hereby waive any right to participate in any class action or class-wide arbitration against Falcon Finance related to any claim or dispute.
 
-#### 31.1. **Entire Agreement**
+32.4. Any disputes, controversies, or claims arising out of or in connection with these terms, including their existence, validity, interpretation, performance, or termination, shall be subject to the exclusive jurisdiction of the courts of the British Virgin Islands. All parties agree that the courts of the British Virgin Islands shall have exclusive authority to settle any such disputes.
+
+32.5. As you have no direct contractual relationship with the Card Issuer, disputes relating to the Card Account or Card Transactions should be raised with Falcon Finance in the first instance. Falcon Finance will investigate and, where the matter concerns the Card Issuer's performance, escalate the dispute to the Card Issuer on your behalf and use reasonable endeavours to assist in its resolution, but is not responsible for the Card Issuer's acts, omissions, or dispute-handling outcomes.
+
+### 33. OTHERS
+
+33.1. Falcon Finance shall have sole and absolute discretion to determine its treatment of, and your entitlement (if any) arising from, any fork, airdrop, token migration, rebase, network upgrade or other network event affecting any digital asset or supported blockchain, including whether to support, credit, claim, sell or abandon any resulting asset. You shall have no claim against any Indemnified Person in respect of any such determination or any resulting asset not credited to you.
+
+33.2. Falcon Finance may perform any of its obligations, or exercise any of its rights, under these Terms through any affiliate, agent, contractor or third-party service provider selected by it, without notice to you, and remains entitled to the benefit of all exclusions and limitations in these Terms in respect of anything done or omitted by such persons.
+
+33.3. Where an Account has had no activity for a period determined by Falcon Finance (not less than twelve (12) months), Falcon Finance may designate it dormant, impose dormancy fees, restrict access pending re-verification, and/or transfer assets held in the Account to a segregated or omnibus arrangement, in each case as determined by Falcon Finance and notified via the Website.
+
+### 34. **MISCELLANEOUS**
+
+#### 34.1. **Entire Agreement**
 
 These Terms, along with any additional terms and policies referenced herein, constitute the entire agreement between you and Falcon Finance with respect to your use of the Services and supersede any prior agreements or understandings between the parties.
 
-#### 31.2. **Severability**
+#### 34.2. **Severability**
 
 If any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect, and the invalid or unenforceable provision shall be deemed modified to the minimum extent necessary to make it valid and enforceable.
 
-#### 31.3. **Waiver**
+#### 34.3. **Waiver**
 
 Falcon Finance's rights and remedies under these Terms are cumulative and not exclusive of any rights or remedies provided by law or by any other agreement. Any failure or delay on the part of Falcon Finance to exercise any right or remedy under these Terms shall not operate as a waiver of such right or remedy. Any single or partial exercise of any right or remedy shall not preclude any other or further exercise thereof or the exercise of any other right or remedy.
 
-#### 31.4. **Assignment**
+#### 34.4. **Assignment**
 
 You may not assign, novate or transfer any rights, interests, liabilities and/or obligations under these Terms without the prior written consent of Falcon Finance. However, you hereby acknowledge and agree that we shall have sole and absolute discretion to novate, transfer or assign these Terms or any of our rights, interests, liabilities and/or obligations at any time to anyone else, including in connection with any merger, acquisition, amalgamation or other corporate reorganisation involving Falcon Finance.
 
-#### 31.5. **Third Party Rights**
+#### 34.5. **Third Party Rights**
 
 A person who is not a party to these Terms has no rights (including rights under any Applicable Laws) to enforce or enjoy the benefit of any part of these Terms.
 
-#### 31.6. **Language**
+#### 34.6. **Language**
 
 These Terms may, at our sole and absolute discretion, be translated into a language other than the English language. You agree that any such translation shall only be for your convenience and the English text shall prevail in the event of any ambiguity, discrepancy, or omission as between the English text and any translated text.
 
-#### 31.7. **Potential Conflicts of Interest**
+#### 34.7. **Potential Conflicts of Interest**
 
 You acknowledge and agree that we and our affiliates, shareholders, founders, principals, directors, officers, employees, and representatives or their respective affiliates (collectively, "**Related Persons**") may directly or indirectly use the Services or engage in transactions involving the Falcon Assets for ourselves and themselves. You acknowledge and agree that we and Related Persons may have potential conflicts of interest. To the extent permitted by law, you hereby waive any claim against us or Related Parties alleging breach of fiduciary duties, conflict of interest, or other similar cause of action, relating to, in connection with, or arising out of our and/or any Related Parties directly or indirectly using the Services or engaging in transactions involving the Falcon Assets.
 
-#### 31.8. **Governing Law and Jurisdiction**
+#### 34.8. **Governing Law and Jurisdiction**
 
 These Terms shall be governed by and construed in accordance with the laws of the British Virgin Islands, without regard to its conflict of laws principles.
-
-
 
 
 
@@ -666,11 +772,25 @@ Unauthorized access to your Account could result in third parties issuing instru
 
 14.1. Falcon Finance may provide materials, documents, or information from third parties. These are for informational purposes only and do not constitute investment or financial advice. Falcon Finance does not guarantee their accuracy or completeness and assumes no liability for their content.
 
-### 15. **MISCELLANEOUS**
+### 15. CARD SERVICES RISKS
 
-15.1. The Risk Disclosure Statement is not exhaustive. Additional risks may exist that are not identified here. Falcon Finance and the Indemnified Persons are not liable for unforeseen risks or damages linked to Falcon Assets or the Services.
+15.1. The Card Services rely on a third-party Card Issuer. You do not have a direct contractual relationship with, or claim against, the Card Issuer; your rights are against Falcon Finance under these Terms. You bear the economic consequences of the Card Issuer's counterparty risk.
 
-15.2. The information provided in this Risk Disclosure Statement does not substitute professional advice or constitute a recommendation to engage with Falcon Assets. It is neither an offer nor solicitation for investment.
+15.2.The funds held in your Card Account is not a bank deposit. It is not protected by any national deposit guarantee scheme, or any investor compensation scheme.
 
-15.3. By proceeding to utilize our Services, you hereby acknowledge and confirm that you and/or your representatives (i) have carefully read the above Risk Disclosure Statement; (ii) have fully analysed, understood and appreciated the risks associated with transacting in or otherwise engaging in our Services, Falcon Assets, and any other products or services offered by Falcon Finance; (iii) have sought and obtained all professional advice (including tax, legal, financial, investment, accounting and other professional advice) as may be relevant and/or necessary; and (iv) are authorised and permitted, under all Applicable Laws, to enter into such transactions.
+15.3. Client funds held by the Card Issuer are safeguarded in accordance with applicable regulatory requirements. However, in the event of the Card Issuer's insolvency, there is a risk that you may not recover the full value of funds held in your Card Account.
+
+15.4. Where a Card Transaction is made in a currency other than USD, the Card Issuer will convert the transaction amount at the exchange rate applicable at the time of authorisation. Exchange rates fluctuate, the rate applied on final settlement may differ from that applied at authorisation, and the USD or USDf value ultimately deducted from your Card Balance may be materially different from what you anticipated at the time of the purchase.
+
+15.5. The Card Services are provided under a Visa-branded card programme. Both the Card Issuer and Falcon Finance may suspend, restrict or terminate the Card Services at any time, including where required by Visa scheme rules. Service features, availability, and terms may change.&#x20;
+
+15.6. Under no circumstances shall any of the Indemnified Persons be responsible or liable to you or any other person or entity for any direct, indirect, special or consequential losses (including loss of profits, business, or opportunities), damages or costs by reason of, or arising from, or as a consequence of, any of the risks described in this Section.
+
+### 16. **MISCELLANEOUS**
+
+16.1. The Risk Disclosure Statement is not exhaustive. Additional risks may exist that are not identified here. Falcon Finance and the Indemnified Persons are not liable for unforeseen risks or damages linked to Falcon Assets or the Services.
+
+16.2. The information provided in this Risk Disclosure Statement does not substitute professional advice or constitute a recommendation to engage with Falcon Assets. It is neither an offer nor solicitation for investment.
+
+16.3. By proceeding to utilize our Services, you hereby acknowledge and confirm that you and/or your representatives (i) have carefully read the above Risk Disclosure Statement; (ii) have fully analysed, understood and appreciated the risks associated with transacting in or otherwise engaging in our Services, Falcon Assets, and any other products or services offered by Falcon Finance; (iii) have sought and obtained all professional advice (including tax, legal, financial, investment, accounting and other professional advice) as may be relevant and/or necessary; and (iv) are authorised and permitted, under all Applicable Laws, to enter into such transactions.
 
