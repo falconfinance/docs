@@ -6,7 +6,6 @@
 * [Know Your Customer (KYC)](know-your-customer-kyc.md)
 * [Falcon Miles](falcon-miles.md)
   * [Season 2 Miles](falcon-miles/season-2-miles.md)
-* [Yap2Fly (Falcon x Kaito)](yap2fly-falcon-x-kaito.md)
 * [FF Token](ff-token/README.md)
   * [FF Token Claim Registration](ff-token/ff-token-claim-registration.md)
   * [FF Claims Distribution Guide](ff-token/ff-claims-distribution-guide.md)
@@ -17,11 +16,17 @@
   * [Falcon Miles Multipliers](sff-token/falcon-miles-multipliers.md)
   * [Governance](sff-token/governance.md)
   * [How to stake FF for sFF](sff-token/how-to-stake-ff-for-sff.md)
+* [Falcon Card](falcon-card/README.md)
+  * [How to Use Falcon Card](falcon-card/how-to-use-falcon-card.md)
+  * [Falcon Card Settings](falcon-card/falcon-card-settings.md)
+  * [Add Falcon Card to Apple Wallet and Google Pay](falcon-card/add-falcon-card-to-apple-wallet-and-google-pay.md)
+  * [Falcon Card FAQ](falcon-card/falcon-card-faq.md)
 * [Perryverse NFT](perryverse-nft/README.md)
   * [Smart Contracts](perryverse-nft/smart-contracts/README.md)
     * [Perry Egg Hatching Mechanism](perryverse-nft/smart-contracts/perry-egg-hatching-mechanism.md)
   * [Rarity Tiers](perryverse-nft/rarity-tiers/README.md)
     * [Falcon Miles Multipliers](perryverse-nft/rarity-tiers/falcon-miles-multipliers.md)
+* [Yap2Fly (Falcon x Kaito)](yap2fly-falcon-x-kaito.md)
 
 ## Mechanism
 
