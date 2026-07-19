@@ -6,5 +6,5 @@ Falcon Card is a virtual card that allows users to spend USDf for everyday onlin
 
 
 
-To learn more about how to apply and use Falcon Card, read more here
+To learn more about how to apply and use Falcon Card, read more [here](https://docs.falcon.finance/falcon-card/how-to-use-falcon-card).
 

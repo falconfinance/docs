@@ -28,5 +28,5 @@ Falcon Card uses a two-step funding process to keep your funds organized and sec
 Once your Falcon Card Balance is funded, you can use your Falcon Crypto Card to make purchases anywhere Visa is accepted:
 
 * **Online purchases**: Use your card details (card number, expiry date, and CVV) at checkout, just like any other Visa card.
-* **Offline (contactless) purchases**: Add your card to Apple Wallet or Google Pay to make contactless payments in stores (see here for setup instructions).
+* **Offline (contactless) purchases**: Add your card to Apple Wallet or Google Pay to make contactless payments in stores (see [here](https://docs.falcon.finance/falcon-card/add-falcon-card-to-apple-wallet-and-google-pay) for setup instructions).
 

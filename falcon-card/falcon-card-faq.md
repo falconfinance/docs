@@ -96,7 +96,7 @@ Yes. You can adjust your contactless spending limit at any time within the Falco
 
 <summary>Can I add my Falcon Card to Apple Wallet or Google Pay?</summary>
 
-Yes. Both are currently supported. Card details must be entered manually, as automatic provisioning is not yet available. Refer to the "Adding to Apple Wallet and Google Pay" page for step-by-step instructions.
+Yes. Both are currently supported. Card details must be entered manually, as automatic provisioning is not yet available. Refer [here](https://docs.falcon.finance/falcon-card/add-falcon-card-to-apple-wallet-and-google-pay) for step-by-step instructions.
 
 </details>
 
